@@ -9,7 +9,7 @@
     "reviews_count": 2084,
     "breakfast_quality": 9.5,
     "breakfast_note": "Rice Market — большой люкс-buffet",
-    "description": "Ультра-люкс IHG Starbay: почти только suite/villa, сильный F&B (Rice Market), kids club, гольф рядом; один из топов острова.",
+    "description": "Ультра-люкс IHG Starbay: новые suite, сильнейший F&B; ~8 мин до Grand World, ~12 мин до Safari.",
     "features": "Airport transfer, 80 meters to the beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 9.8,
@@ -19,7 +19,14 @@
       "valueForMoney": 9.5,
       "roomComfort": 9.9,
       "overall": 9.4
-    }
+    },
+    "fit": 7.96,
+    "grand_world": "3,6 км / 8 мин",
+    "safari": "7 км / 12 мин",
+    "waterpark": "VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders",
+    "room_look": "современный 10.0 — новые suite 2023, один из лучших roomComfort на острове",
+    "sea": "80 м",
+    "city_center": "22 км / 35 мин"
   },
   {
     "hotel_id": 569108,
@@ -31,7 +38,7 @@
     "reviews_count": 6462,
     "breakfast_quality": 9.1,
     "breakfast_note": "фирменный sparkling wine breakfast",
-    "description": "Бутик Long Beach: фирменный sparkling wine breakfast, private beach, сильные отзывы; романтика и закаты.",
+    "description": "Бутик Long Beach: sparkling wine breakfast, private beach; до города ~10 мин, до Grand World ~45 мин.",
     "features": "beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 9.7,
@@ -42,7 +49,14 @@
       "valueForMoney": 9.4,
       "overall": 9.4,
       "foodDining": 8.7
-    }
+    },
+    "fit": 3.93,
+    "grand_world": "31 км / 45 мин",
+    "safari": "35 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "бутик 9.5 — бутик, красиво и ухоженно, не «новый стеклянный»",
+    "sea": "beachfront",
+    "city_center": "4,5 км / 10 мин"
   },
   {
     "hotel_id": 1624474,
@@ -54,7 +68,7 @@
     "reviews_count": 2761,
     "breakfast_quality": 9.2,
     "breakfast_note": "люкс-buffet + несколько ресторанов",
-    "description": "Икона острова (дизайн Bill Bensley): Bai Khem, спокойное море в октябре, люкс-сервис, spa, несколько ресторанов; далеко от тусовки Long Beach.",
+    "description": "Икона острова (дизайн Bill Bensley): Bai Khem, спокойное море в октябре; Grand World / Safari ~70 мин — плохо, если цель парки.",
     "features": "beachfront, Airport transfer, Air conditioning, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 9.5,
@@ -64,7 +78,14 @@
       "valueForMoney": 9.0,
       "roomComfort": 9.7,
       "overall": 9.2
-    }
+    },
+    "fit": 3.41,
+    "grand_world": "50 км / 70 мин",
+    "safari": "54 км / 78 мин",
+    "waterpark": "нет рядом: восток: спокойное море, далеко от Grand World",
+    "room_look": "дизайн 10.0 — Bill Bensley — самый «красивый» дизайн острова, не минимализм",
+    "sea": "beachfront",
+    "city_center": "26 км / 40 мин"
   },
   {
     "hotel_id": 83294991,
@@ -86,7 +107,14 @@
       "valueForMoney": 9.6,
       "roomComfort": 9.8,
       "overall": 9.3
-    }
+    },
+    "fit": 3.9,
+    "grand_world": "33 км / 48 мин",
+    "safari": "37 км / 54 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 10.0 — новый resort, высокие оценки номера при малом n отзывов",
+    "sea": "90 м",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 4968811,
@@ -108,7 +136,14 @@
       "valueForMoney": 9.3,
       "roomComfort": 9.7,
       "overall": 9.2
-    }
+    },
+    "fit": 4.0,
+    "grand_world": "33 км / 48 мин",
+    "safari": "37 км / 54 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 9.9 — Dusit beachfront, сильный roomComfort",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 3648660,
@@ -120,7 +155,7 @@
     "reviews_count": 5113,
     "breakfast_quality": 9.3,
     "breakfast_note": "Sora & Umi buffet / Club lounge",
-    "description": "Крупный IHG на Long Beach: свой пляж, огромный kids club, резиденции 1BR+, сильный завтрак (Sora & Umi) и rooftop-бар.",
+    "description": "Крупный IHG на Long Beach: свой пляж, kids splash, резиденции 1BR+, сильный завтрак; до Grand World ~50 мин.",
     "features": "beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club",
     "grades": {
       "cleanliness": 9.4,
@@ -130,7 +165,14 @@
       "valueForMoney": 9.2,
       "roomComfort": 9.6,
       "overall": 9.0
-    }
+    },
+    "fit": 4.92,
+    "grand_world": "35 км / 50 мин",
+    "safari": "39 км / 55 мин",
+    "waterpark": "splash / горка: splash-зона kids club; большой аквапарк — день-трип",
+    "room_look": "современный 9.8 — современный IHG, residence 1BR, сильный дизайн общественных зон",
+    "sea": "beachfront",
+    "city_center": "8 км / 15 мин"
   },
   {
     "hotel_id": 21774298,
@@ -142,7 +184,7 @@
     "reviews_count": 6404,
     "breakfast_quality": 8.7,
     "breakfast_note": null,
-    "description": "Новый IHG Starbay: beachfront, современный 5★ дешевле Regent, север/гольф.",
+    "description": "Новый IHG Starbay: современные номера, beachfront; ~8 мин до Grand World, ~12 мин до Safari, дешевле Regent.",
     "features": "beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 9.5,
@@ -152,7 +194,14 @@
       "valueForMoney": 9.4,
       "roomComfort": 9.3,
       "overall": 9.1
-    }
+    },
+    "fit": 8.01,
+    "grand_world": "3,6 км / 8 мин",
+    "safari": "7 км / 12 мин",
+    "waterpark": "VinWonders рядом: как у Regent: ~10 мин до парков",
+    "room_look": "современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent",
+    "sea": "beachfront",
+    "city_center": "22 км / 35 мин"
   },
   {
     "hotel_id": 8836100,
@@ -174,7 +223,14 @@
       "valueForMoney": 9.3,
       "roomComfort": 9.7,
       "overall": 9.2
-    }
+    },
+    "fit": 3.72,
+    "grand_world": "31 км / 45 мин",
+    "safari": "35 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 9.9 — высокие оценки, в выдаче часто suite",
+    "sea": "220 м",
+    "city_center": "5 км / 10 мин"
   },
   {
     "hotel_id": 39897314,
@@ -196,7 +252,14 @@
       "valueForMoney": 9.7,
       "roomComfort": 9.7,
       "overall": 9.6
-    }
+    },
+    "fit": 3.56,
+    "grand_world": "30 км / 42 мин",
+    "safari": "34 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 9.9 — высокие оценки номера, мало отзывов, не люкс",
+    "sea": "460 м",
+    "city_center": "4 км / 8 мин"
   },
   {
     "hotel_id": 70425,
@@ -219,7 +282,14 @@
       "valueForMoney": 8.8,
       "overall": 9.1,
       "foodDining": 8.2
-    }
+    },
+    "fit": 3.84,
+    "grand_world": "30 км / 42 мин",
+    "safari": "34 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "колониальный 8.8 — колониальный MGallery — красиво, но не современный минимализм",
+    "sea": "beachfront",
+    "city_center": "2,5 км / 8 мин"
   },
   {
     "hotel_id": 2430159,
@@ -239,7 +309,14 @@
       "location": 9.5,
       "staffPerformance": 9.1,
       "valueForMoney": 9.0
-    }
+    },
+    "fit": 3.52,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 7.2 — много отзывов; дешёвый тариф часто 2BR",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 31187083,
@@ -261,7 +338,14 @@
       "valueForMoney": 9.3,
       "roomComfort": 9.2,
       "overall": 8.9
-    }
+    },
+    "fit": 3.83,
+    "grand_world": "34 км / 50 мин",
+    "safari": "38 км / 55 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "вилла 9.3 — дизайн Sailing Club, pool villa 2BR",
+    "sea": "beachfront",
+    "city_center": "8 км / 15 мин"
   },
   {
     "hotel_id": 96572,
@@ -284,7 +368,14 @@
       "valueForMoney": 8.7,
       "overall": 9.2,
       "foodDining": 8.0
-    }
+    },
+    "fit": 3.82,
+    "grand_world": "31 км / 44 мин",
+    "safari": "35 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "бутик 8.9 — коттеджи в саду, романтика, не high-rise modern",
+    "sea": "beachfront",
+    "city_center": "5 км / 10 мин"
   },
   {
     "hotel_id": 5442703,
@@ -296,7 +387,7 @@
     "reviews_count": 2465,
     "breakfast_quality": 8.4,
     "breakfast_note": null,
-    "description": "Value 5★ Bai Dai: хороший баланс цена/бренд, есть AI-пакеты на других тарифах; север острова.",
+    "description": "Value 5★ Bai Dai: ~500 м пешком до Grand World, Safari ~10 мин; лучший баланс цена/парки/море.",
     "features": "beachfront, Airport transfer, Private beach, Currency exchange, Kids club",
     "grades": {
       "cleanliness": 9.2,
@@ -304,7 +395,14 @@
       "location": 9.0,
       "staffPerformance": 9.1,
       "valueForMoney": 9.0
-    }
+    },
+    "fit": 8.41,
+    "grand_world": "500 м, пешком ~8 мин",
+    "safari": "4 км / 10 мин",
+    "waterpark": "VinWonders рядом: пешком к Grand World; VinWonders рядом",
+    "room_look": "современный 7.7 — value 5★, светлые современные deluxe",
+    "sea": "beachfront",
+    "city_center": "27 км / 42 мин"
   },
   {
     "hotel_id": 9776735,
@@ -316,7 +414,7 @@
     "reviews_count": 5611,
     "breakfast_quality": 8.5,
     "breakfast_note": null,
-    "description": "Accor beachfront Long Beach: современный 5★, пляж и инфраструктура, удобная база на западном берегу.",
+    "description": "Accor beachfront Long Beach: современные номера 5★; удобная база на западе, парки севера — ~50 мин.",
     "features": "beachfront, Free airport transfer, Private beach, Currency exchange, Spa",
     "grades": {
       "cleanliness": 9.1,
@@ -326,7 +424,14 @@
       "valueForMoney": 9.0,
       "roomComfort": 9.2,
       "overall": 8.8
-    }
+    },
+    "fit": 3.91,
+    "grand_world": "33 км / 48 мин",
+    "safari": "37 км / 54 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 9.4 — Accor 5★ 2019, светлые современные номера",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 21967772,
@@ -348,7 +453,14 @@
       "valueForMoney": 9.0,
       "roomComfort": 9.0,
       "overall": 8.9
-    }
+    },
+    "fit": 5.04,
+    "grand_world": "14 км / 22 мин",
+    "safari": "18 км / 28 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "эко 8.4 — jungle bungalow",
+    "sea": "beachfront",
+    "city_center": "12 км / 20 мин"
   },
   {
     "hotel_id": 625168,
@@ -360,7 +472,7 @@
     "reviews_count": 8667,
     "breakfast_quality": 8.4,
     "breakfast_note": null,
-    "description": "Классика Bai Dai у VinWonders/Safari: большой семейный курорт, бассейны, парк развлечений рядом; море западное.",
+    "description": "Bai Dai у VinWonders: 1,4 км / пешком до Grand World, Safari 4,7 км, VinBus по комплексу; номера не самые новые.",
     "features": "beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 9.0,
@@ -369,7 +481,14 @@
       "roomComfort": 8.9,
       "staffPerformance": 9.0,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 8.57,
+    "grand_world": "1,4 км / 15 мин",
+    "safari": "4,7 км / 10 мин",
+    "waterpark": "VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса",
+    "room_look": "стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн",
+    "sea": "beachfront",
+    "city_center": "28 км / 45 мин"
   },
   {
     "hotel_id": 34249576,
@@ -381,7 +500,7 @@
     "reviews_count": 6874,
     "breakfast_quality": 8.6,
     "breakfast_note": null,
-    "description": "Восток Bai Khem, виллы с бассейном; спокойное море, семейный курорт New World, не «стандартный номер».",
+    "description": "Восток Bai Khem, виллы с бассейном + Aqua World (горки на территории); море спокойное, парки севера далеко.",
     "features": "beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club",
     "grades": {
       "cleanliness": 8.9,
@@ -391,7 +510,14 @@
       "valueForMoney": 9.0,
       "overall": 8.7,
       "roomComfort": 8.5
-    }
+    },
+    "fit": 4.88,
+    "grand_world": "50 км / 70 мин",
+    "safari": "54 км / 78 мин",
+    "waterpark": "на территории: Aqua World: горки и splash на территории; Grand World далеко",
+    "room_look": "вилла 8.7 — новые pool villa, современный семейный курорт",
+    "sea": "beachfront",
+    "city_center": "26 км / 40 мин"
   },
   {
     "hotel_id": 14654959,
@@ -411,7 +537,14 @@
       "location": 8.2,
       "staffPerformance": 9.0,
       "valueForMoney": 9.0
-    }
+    },
+    "fit": 4.62,
+    "grand_world": "16 км / 25 мин",
+    "safari": "20 км / 32 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "современный 7.7 — Mövenpick mid-luxury, сад/балкон",
+    "sea": "beachfront",
+    "city_center": "10 км / 18 мин"
   },
   {
     "hotel_id": 5972590,
@@ -433,7 +566,14 @@
       "valueForMoney": 8.9,
       "overall": 8.7,
       "roomComfort": 8.5
-    }
+    },
+    "fit": 3.2,
+    "grand_world": "50 км / 70 мин",
+    "safari": "54 км / 78 мин",
+    "waterpark": "нет рядом: восток: спокойное море, далеко от Grand World",
+    "room_look": "современный 8.8 — Accor suite у JW, спокойнее восточное море",
+    "sea": "beachfront",
+    "city_center": "26 км / 40 мин"
   },
   {
     "hotel_id": 14676909,
@@ -453,7 +593,14 @@
       "location": 8.2,
       "staffPerformance": 9.0,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 4.6,
+    "grand_world": "16 км / 25 мин",
+    "safari": "20 км / 32 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "вилла 7.6 — студии/виллы Mövenpick",
+    "sea": "beachfront",
+    "city_center": "10 км / 18 мин"
   },
   {
     "hotel_id": 87765217,
@@ -475,7 +622,14 @@
       "valueForMoney": 10.0,
       "roomComfort": 9.1,
       "overall": 9.0
-    }
+    },
+    "fit": 3.77,
+    "grand_world": "52 км / 75 мин",
+    "safari": "56 км / 82 мин",
+    "waterpark": "Hon Thom Aquatopia: Aquatopia на Hon Thom: канатка от An Thoi",
+    "room_look": "простой / устаревший 7.9 — ультра-бюджет",
+    "sea": "не у моря",
+    "city_center": "28 км / 42 мин"
   },
   {
     "hotel_id": 4518431,
@@ -487,7 +641,7 @@
     "reviews_count": 1811,
     "breakfast_quality": 8.5,
     "breakfast_note": null,
-    "description": "Accor на Bai Khem: семейные виллы 2–3BR с private pool у Emerald Bay; удобно купаться в октябре.",
+    "description": "Accor на Bai Khem: семейные виллы 2–3BR с private pool; купаться в октябре удобно, до Grand World час+.",
     "features": "beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa",
     "grades": {
       "cleanliness": 8.9,
@@ -497,7 +651,14 @@
       "valueForMoney": 8.8,
       "roomComfort": 9.0,
       "overall": 8.6
-    }
+    },
+    "fit": 3.27,
+    "grand_world": "50 км / 70 мин",
+    "safari": "54 км / 78 мин",
+    "waterpark": "нет рядом: восток: спокойное море, далеко от Grand World",
+    "room_look": "вилла 9.2 — 2–3BR Accor villa + private pool",
+    "sea": "beachfront",
+    "city_center": "26 км / 40 мин"
   },
   {
     "hotel_id": 1157572,
@@ -520,7 +681,14 @@
       "valueForMoney": 8.9,
       "overall": 8.7,
       "foodDining": 8.0
-    }
+    },
+    "fit": 3.86,
+    "grand_world": "32 км / 45 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 9.1 — предсказуемый Novotel, сад/twin, не wow-дизайн",
+    "sea": "beachfront",
+    "city_center": "5 км / 10 мин"
   },
   {
     "hotel_id": 48370,
@@ -543,7 +711,14 @@
       "valueForMoney": 8.7,
       "overall": 9.0,
       "foodDining": 8.8
-    }
+    },
+    "fit": 4.68,
+    "grand_world": "17 км / 26 мин",
+    "safari": "21 км / 32 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "эко 8.0 — rammed earth, природа, без глянца",
+    "sea": "beachfront",
+    "city_center": "10 км / 18 мин"
   },
   {
     "hotel_id": 406794,
@@ -566,7 +741,14 @@
       "valueForMoney": 9.0,
       "overall": 9.0,
       "foodDining": 8.1
-    }
+    },
+    "fit": 4.72,
+    "grand_world": "14 км / 22 мин",
+    "safari": "11 км / 18 мин",
+    "waterpark": "нет рядом: севернее Лонг-Бич; Safari ближе, чем центр",
+    "room_look": "эко 7.0 — бамбуковые коттеджи",
+    "sea": "beachfront",
+    "city_center": "22 км / 35 мин"
   },
   {
     "hotel_id": 1032420,
@@ -578,7 +760,7 @@
     "reviews_count": 2655,
     "breakfast_quality": 7.8,
     "breakfast_note": null,
-    "description": "Marriott Bai Dai: beachfront 5★, сад и twin deluxe; север + сеть Marriott.",
+    "description": "Marriott Bai Dai: beachfront 5★, VinBus до Grand World / VinWonders / Safari; номера не самые новые.",
     "features": "beachfront, Airport transfer, 100 meters to the beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 8.9,
@@ -589,7 +771,14 @@
       "valueForMoney": 8.6,
       "overall": 8.8,
       "foodDining": 7.7
-    }
+    },
+    "fit": 8.36,
+    "grand_world": "2,5 км / 8 мин",
+    "safari": "5 км / 12 мин",
+    "waterpark": "VinWonders рядом: свой большой пул; аквапарк — VinWonders (VinBus)",
+    "room_look": "стандарт 8.8 — Marriott 5★, неоклассика, не самый новый корпус",
+    "sea": "100 м",
+    "city_center": "26 км / 40 мин"
   },
   {
     "hotel_id": 1985199,
@@ -601,7 +790,7 @@
     "reviews_count": 3254,
     "breakfast_quality": 8.3,
     "breakfast_note": null,
-    "description": "Vinpearl-виллы у озера с private pool (часто 1BR+); для компаний/семей, не дешёвый стандарт.",
+    "description": "Vinpearl-виллы у озера с private pool; VinBus до Grand World / Safari / VinWonders; не стандартный номер.",
     "features": "beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club",
     "grades": {
       "cleanliness": 8.7,
@@ -609,7 +798,14 @@
       "location": 8.3,
       "staffPerformance": 9.0,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 8.26,
+    "grand_world": "2 км / 8 мин",
+    "safari": "5 км / 12 мин",
+    "waterpark": "VinWonders рядом: VinBus до VinWonders / Grand World / Safari",
+    "room_look": "вилла 7.6 — виллы с private pool, современный семейный формат",
+    "sea": "beachfront",
+    "city_center": "28 км / 45 мин"
   },
   {
     "hotel_id": 2163073,
@@ -621,7 +817,7 @@
     "reviews_count": 6461,
     "breakfast_quality": 8.2,
     "breakfast_note": null,
-    "description": "Bai Dai / Grand World: сеть Wyndham, семейный 5★, удобно к паркам; западное море.",
+    "description": "Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км.",
     "features": "beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 8.9,
@@ -631,7 +827,14 @@
       "valueForMoney": 8.7,
       "roomComfort": 8.7,
       "overall": 8.6
-    }
+    },
+    "fit": 9.29,
+    "grand_world": "300 м, пешком ~4 мин",
+    "safari": "3 км / 8 мин",
+    "waterpark": "на территории: лагуна с горками + kids area; VinWonders 1,2 км",
+    "room_look": "современный 8.9 — сеть 5★, номера современные, не «икона дизайна»",
+    "sea": "beachfront",
+    "city_center": "28 км / 45 мин"
   },
   {
     "hotel_id": 35958304,
@@ -643,7 +846,7 @@
     "reviews_count": 2729,
     "breakfast_quality": 8.0,
     "breakfast_note": null,
-    "description": "Wyndham Garden у Grand World: удобно к паркам/шоу, 4★ pragmatic, не «тихий курорт».",
+    "description": "Wyndham Garden внутри Grand World: пешком до шоу/каналов, горка в бассейне, VinWonders ~1 км; 4★ не люкс.",
     "features": "beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club",
     "grades": {
       "cleanliness": 9.0,
@@ -651,7 +854,14 @@
       "location": 9.1,
       "staffPerformance": 8.8,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 8.47,
+    "grand_world": "150 м, пешком ~3 мин",
+    "safari": "3,5 км / 10 мин",
+    "waterpark": "splash / горка: горка в бассейне; VinWonders ~1 км",
+    "room_look": "современный 7.7 — 4★ pragmatic, новые корпуса у Grand World",
+    "sea": "80 м",
+    "city_center": "28 км / 45 мин"
   },
   {
     "hotel_id": 148661,
@@ -674,7 +884,14 @@
       "valueForMoney": 8.6,
       "overall": 8.8,
       "foodDining": 7.5
-    }
+    },
+    "fit": 4.86,
+    "grand_world": "15 км / 24 мин",
+    "safari": "19 км / 30 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "бутик 9.0 — beach villa, джунгли",
+    "sea": "beachfront",
+    "city_center": "9 км / 16 мин"
   },
   {
     "hotel_id": 7008284,
@@ -694,7 +911,14 @@
       "location": 9.1,
       "staffPerformance": 8.9,
       "valueForMoney": 8.8
-    }
+    },
+    "fit": 3.18,
+    "grand_world": "31 км / 45 мин",
+    "safari": "35 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 7.2 — Sonasea 5★ value, не новый люкс",
+    "sea": "250 м",
+    "city_center": "7 км / 14 мин"
   },
   {
     "hotel_id": 4999788,
@@ -714,7 +938,14 @@
       "location": 9.2,
       "staffPerformance": 9.1,
       "valueForMoney": 9.0
-    }
+    },
+    "fit": 3.46,
+    "grand_world": "34 км / 50 мин",
+    "safari": "38 км / 55 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 7.2 — mid 3★ beachfront",
+    "sea": "beachfront",
+    "city_center": "8 км / 15 мин"
   },
   {
     "hotel_id": 400217,
@@ -737,7 +968,14 @@
       "valueForMoney": 8.5,
       "overall": 8.7,
       "foodDining": 7.5
-    }
+    },
+    "fit": 3.65,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 8.3 — семейный mid-range",
+    "sea": "beachfront",
+    "city_center": "7 км / 14 мин"
   },
   {
     "hotel_id": 47021962,
@@ -759,7 +997,14 @@
       "valueForMoney": 8.6,
       "roomComfort": 9.2,
       "overall": 8.6
-    }
+    },
+    "fit": 5.2,
+    "grand_world": "14 км / 22 мин",
+    "safari": "18 км / 28 мин",
+    "waterpark": "нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин",
+    "room_look": "вилла 9.3 — крупные family bungalow",
+    "sea": "beachfront",
+    "city_center": "12 км / 20 мин"
   },
   {
     "hotel_id": 1266957,
@@ -779,7 +1024,14 @@
       "location": 8.2,
       "staffPerformance": 8.8,
       "valueForMoney": 8.7
-    }
+    },
+    "fit": 3.17,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "современный 7.7 — молодёжный Meliá SOL, дизайн тусовки",
+    "sea": "270 м",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 5943665,
@@ -791,7 +1043,7 @@
     "reviews_count": 1191,
     "breakfast_quality": 8.0,
     "breakfast_note": null,
-    "description": "Sunset Sanato: виллы с private pool + арт/инстаграм; Long Beach, часто только villa в выдаче.",
+    "description": "Sunset Sanato: виллы + Sanato Water Park на территории (янв 2026); Long Beach, до VinWonders ~30 км.",
     "features": "beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Water park",
     "grades": {
       "cleanliness": 8.8,
@@ -799,7 +1051,14 @@
       "location": 8.4,
       "staffPerformance": 8.9,
       "valueForMoney": 8.6
-    }
+    },
+    "fit": 5.23,
+    "grand_world": "30 км / 45 мин",
+    "safari": "34 км / 50 мин",
+    "waterpark": "на территории: Sanato Water Park на территории (открыт янв 2026)",
+    "room_look": "вилла 7.6 — виллы с private pool, инстаграм-арт, не классический «номер»",
+    "sea": "beachfront",
+    "city_center": "8 км / 15 мин"
   },
   {
     "hotel_id": 14695651,
@@ -821,7 +1080,14 @@
       "valueForMoney": 8.8,
       "roomComfort": 9.1,
       "overall": 8.9
-    }
+    },
+    "fit": 8.17,
+    "grand_world": "3,5 км / 10 мин",
+    "safari": "5,5 км / 12 мин",
+    "waterpark": "splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders",
+    "room_look": "бутик 9.2 — маленький курорт, уютнее сетей",
+    "sea": "beachfront",
+    "city_center": "27 км / 42 мин"
   },
   {
     "hotel_id": 37281036,
@@ -842,7 +1108,14 @@
       "staffPerformance": 8.9,
       "valueForMoney": 8.6,
       "overall": 8.8
-    }
+    },
+    "fit": 2.92,
+    "grand_world": "38 км / 55 мин",
+    "safari": "42 км / 62 мин",
+    "waterpark": "нет рядом: юг острова, ближе к канатке чем к Grand World",
+    "room_look": "стандарт 7.2 — 4★ южнее центра",
+    "sea": "110 м",
+    "city_center": "12 км / 18 мин"
   },
   {
     "hotel_id": 6352970,
@@ -854,7 +1127,7 @@
     "reviews_count": 4154,
     "breakfast_quality": 7.5,
     "breakfast_note": null,
-    "description": "Город Duong Dong: ночной рынок/еда пешком, бюджет; пляж не у дверей.",
+    "description": "Центр Dương Đông: ночной рынок пешком, бюджет; пляж ~900 м, Grand World ~40 мин.",
     "features": "920 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange",
     "grades": {
       "cleanliness": 8.9,
@@ -864,7 +1137,14 @@
       "valueForMoney": 9.2,
       "overall": 8.7,
       "roomComfort": 8.7
-    }
+    },
+    "fit": 3.55,
+    "grand_world": "28 км / 40 мин",
+    "safari": "32 км / 48 мин",
+    "waterpark": "нет рядом: ночной рынок пешком; аквапарк — день-трип",
+    "room_look": "стандарт 8.5 — городская база у ночного рынка",
+    "sea": "920 м",
+    "city_center": "400 м / 5 мин"
   },
   {
     "hotel_id": 11081947,
@@ -884,7 +1164,14 @@
       "location": 9.0,
       "staffPerformance": 8.7,
       "valueForMoney": 8.6
-    }
+    },
+    "fit": 2.79,
+    "grand_world": "49 км / 68 мин",
+    "safari": "53 км / 76 мин",
+    "waterpark": "нет рядом: восток: спокойное море, далеко от Grand World",
+    "room_look": "стандарт 7.2 — 4★ у белого песка, не люкс",
+    "sea": "80 м",
+    "city_center": "25 км / 38 мин"
   },
   {
     "hotel_id": 983880,
@@ -905,7 +1192,14 @@
       "roomComfort": 9.2,
       "staffPerformance": 9.3,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 3.24,
+    "grand_world": "31 км / 44 мин",
+    "safari": "35 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 9.0 — простой 3★",
+    "sea": "510 м",
+    "city_center": "5 км / 10 мин"
   },
   {
     "hotel_id": 12536303,
@@ -925,7 +1219,14 @@
       "location": 8.0,
       "staffPerformance": 8.8,
       "valueForMoney": 8.7
-    }
+    },
+    "fit": 3.47,
+    "grand_world": "52 км / 75 мин",
+    "safari": "56 км / 82 мин",
+    "waterpark": "Hon Thom Aquatopia: Aquatopia на Hon Thom: канатка от An Thoi",
+    "room_look": "простой / устаревший 6.2 — бюджет An Thoi",
+    "sea": "не у моря",
+    "city_center": "28 км / 42 мин"
   },
   {
     "hotel_id": 60710642,
@@ -945,7 +1246,14 @@
       "location": 7.8,
       "staffPerformance": 9.0,
       "valueForMoney": 8.8
-    }
+    },
+    "fit": 3.25,
+    "grand_world": "40 км / 55 мин",
+    "safari": "44 км / 62 мин",
+    "waterpark": "нет рядом: восточная бухта, без парков",
+    "room_look": "бутик 7.5 — тихий восток Ham Ninh",
+    "sea": "beachfront",
+    "city_center": "16 км / 25 мин"
   },
   {
     "hotel_id": 81185611,
@@ -967,7 +1275,14 @@
       "valueForMoney": 8.9,
       "roomComfort": 8.8,
       "overall": 8.4
-    }
+    },
+    "fit": 3.9,
+    "grand_world": "52 км / 75 мин",
+    "safari": "56 км / 82 мин",
+    "waterpark": "Hon Thom Aquatopia: промо с билетами на канатку / Hon Thom Water Park",
+    "room_look": "стандарт 8.6 — юг, бюджет",
+    "sea": "не у моря",
+    "city_center": "28 км / 42 мин"
   },
   {
     "hotel_id": 1119483,
@@ -990,7 +1305,14 @@
       "valueForMoney": 8.5,
       "overall": 8.3,
       "foodDining": 8.0
-    }
+    },
+    "fit": 3.87,
+    "grand_world": "28 км / 40 мин",
+    "safari": "32 км / 48 мин",
+    "waterpark": "нет рядом: ночной рынок пешком; аквапарк — день-трип",
+    "room_look": "стандарт 9.4 — у ночного рынка; roomComfort высокий для 3★",
+    "sea": "320 м",
+    "city_center": "300 м / 4 мин"
   },
   {
     "hotel_id": 3007308,
@@ -1012,7 +1334,14 @@
       "valueForMoney": 8.0,
       "overall": 8.4,
       "roomComfort": 8.3
-    }
+    },
+    "fit": 3.11,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "эко 7.7 — wellness/йога, скромные номера",
+    "sea": "390 м",
+    "city_center": "7 км / 14 мин"
   },
   {
     "hotel_id": 2061904,
@@ -1034,7 +1363,14 @@
       "valueForMoney": 8.0,
       "roomComfort": 8.3,
       "overall": 8.1
-    }
+    },
+    "fit": 4.08,
+    "grand_world": "28 км / 40 мин",
+    "safari": "32 км / 48 мин",
+    "waterpark": "нет рядом: ночной рынок пешком; аквапарк — день-трип",
+    "room_look": "стандарт 8.1 — город + почти пляж",
+    "sea": "beachfront",
+    "city_center": "800 м / 6 мин"
   },
   {
     "hotel_id": 1624612,
@@ -1054,7 +1390,14 @@
       "location": 7.7,
       "staffPerformance": 8.2,
       "valueForMoney": 8.0
-    }
+    },
+    "fit": 2.9,
+    "grand_world": "30 км / 42 мин",
+    "safari": "34 км / 50 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "простой / устаревший 6.2 — сеть value, отзывы скромнее, номера проще",
+    "sea": "310 м",
+    "city_center": "4 км / 8 мин"
   },
   {
     "hotel_id": 1624152,
@@ -1066,7 +1409,7 @@
     "reviews_count": 1063,
     "breakfast_quality": 8.7,
     "breakfast_note": null,
-    "description": "Уединённый Vung Bau, виллы + spa inclusive в тарифе; романтика/wellness, далеко от инфраструктуры.",
+    "description": "Уединённый Vung Bau, виллы + spa inclusive; Safari ближе (~18 мин), чем центр; без своего аквапарка.",
     "features": "beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spanish",
     "grades": {
       "cleanliness": 9.2,
@@ -1075,7 +1418,14 @@
       "staffPerformance": 9.4,
       "valueForMoney": 9.0,
       "overall": 8.8
-    }
+    },
+    "fit": 4.83,
+    "grand_world": "14 км / 22 мин",
+    "safari": "11 км / 18 мин",
+    "waterpark": "нет рядом: севернее Лонг-Бич; Safari ближе, чем центр",
+    "room_look": "вилла 7.6 — spa-виллы, уединение",
+    "sea": "beachfront",
+    "city_center": "22 км / 35 мин"
   },
   {
     "hotel_id": 65344078,
@@ -1097,7 +1447,14 @@
       "valueForMoney": 9.2,
       "roomComfort": 9.8,
       "overall": 9.3
-    }
+    },
+    "fit": 4.15,
+    "grand_world": "52 км / 75 мин",
+    "safari": "56 км / 82 мин",
+    "waterpark": "Hon Thom Aquatopia: Sunset Town / канатка Hon Thom Aquatopia",
+    "room_look": "современный 10.0 — апартаменты, высокий roomComfort, не beach resort",
+    "sea": "не у моря",
+    "city_center": "28 км / 42 мин"
   },
   {
     "hotel_id": 9612717,
@@ -1119,7 +1476,14 @@
       "valueForMoney": 8.9,
       "roomComfort": 9.4,
       "overall": 8.9
-    }
+    },
+    "fit": 3.88,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 9.2 — beachfront + шоу, не бутик",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 2061878,
@@ -1140,7 +1504,14 @@
       "staffPerformance": 8.9,
       "valueForMoney": 8.2,
       "overall": 8.5
-    }
+    },
+    "fit": 4.83,
+    "grand_world": "15 км / 24 мин",
+    "safari": "12 км / 20 мин",
+    "waterpark": "нет рядом: севернее Лонг-Бич; Safari ближе, чем центр",
+    "room_look": "вилла 7.6 — полуостров, private beach",
+    "sea": "beachfront",
+    "city_center": "23 км / 36 мин"
   },
   {
     "hotel_id": 181816,
@@ -1160,7 +1531,14 @@
       "location": 9.4,
       "staffPerformance": 9.1,
       "valueForMoney": 8.9
-    }
+    },
+    "fit": 3.52,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "стандарт 7.2 — локальный 3★, мало отзывов",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   },
   {
     "hotel_id": 32482497,
@@ -1182,7 +1560,14 @@
       "valueForMoney": 8.8,
       "overall": 8.6,
       "roomComfort": 8.5
-    }
+    },
+    "fit": 2.83,
+    "grand_world": "49 км / 68 мин",
+    "safari": "53 км / 76 мин",
+    "waterpark": "нет рядом: восток: спокойное море, далеко от Grand World",
+    "room_look": "стандарт 8.3 — простой 3★ Bai Khem",
+    "sea": "120 м",
+    "city_center": "25 км / 38 мин"
   },
   {
     "hotel_id": 46581613,
@@ -1196,7 +1581,14 @@
     "breakfast_note": null,
     "description": "AND Sunset Beach: на первой линии Duong Dong; на наши даты тарифа на Agoda нет.",
     "features": "Airport transfer, 0 meters to the beach, Free Wi-Fi in all rooms!",
-    "grades": {}
+    "grades": {},
+    "fit": 3.56,
+    "grand_world": "29 км / 42 мин",
+    "safari": "33 км / 50 мин",
+    "waterpark": "нет рядом: ночной рынок пешком; аквапарк — день-трип",
+    "room_look": "стандарт 7.2 — первая линия Duong Dong",
+    "sea": "beachfront",
+    "city_center": "1,5 км / 8 мин"
   },
   {
     "hotel_id": 2570684,
@@ -1216,6 +1608,13 @@
       "location": 7.4,
       "staffPerformance": 7.2,
       "valueForMoney": 7.0
-    }
+    },
+    "fit": 3.34,
+    "grand_world": "32 км / 46 мин",
+    "safari": "36 км / 52 мин",
+    "waterpark": "нет рядом: аквапарк только поездкой на север или юг",
+    "room_look": "простой / устаревший 6.2 — слабые отзывы — риск по номеру",
+    "sea": "beachfront",
+    "city_center": "6 км / 12 мин"
   }
 ]
