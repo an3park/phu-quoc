@@ -40,6 +40,10 @@ DESCRIPTIONS: dict[int, str] = {
     48370: "Эко-бунгало Ong Lang (rammed earth): природа, тишина, сильный food score; без люкс-глянца.",
     148661: "Chen Sea / The Slate Ong Lang: beach villa, джунгли у моря, пары; тихий запад.",
     400217: "Famiana mid-range Long Beach: семьи, сад, spa; разумный 4.5★ без люкс-ценника.",
+    2577124: "4★ на холме Long Beach: лучшая репутация в новой четвёрке (Agoda 9.1 / 7.5k), не beachfront — 7–10 мин до воды.",
+    3647146: "Тихий Ong Lang 4★, свой узкий/каменистый пляж, закаты; Agoda 9.0 / Booking 9.3 / TA 4.8.",
+    24356624: "Домики на холме у Cua Lap (не пляж). Agoda 8.9, но Booking 8.3 — шум, слабее Lahana/Soul за $153.",
+    56230219: "Новый бутик 2024 на юге Long Beach; завтрак и бассейн часто через Sailing Club (шаттл), не в здании.",
     8836100: "L'Azure: высокие оценки, private beach ~200 м; в выдаче часто executive suite.",
     21967772: "Jungle bungalow Ong Lang: природа и тишина, свой пляж; не центр развлечений.",
     47021962: "Grand Ocean Bay Ong Lang: крупные bungalow/family, beachfront; тихий севернее Long Beach.",
@@ -101,6 +105,10 @@ BREAKFAST_QUALITY: dict[int, float] = {
     48370: 8.8,  # foodDining 8.8
     148661: 7.8,  # foodDining 7.5
     400217: 7.8,  # foodDining 7.5
+    2577124: 8.4,  # Lahana — сильный 4★ сервис, не signature-buffet
+    3647146: 8.2,  # Camia
+    24356624: 7.6,  # M Village — смешанные отзывы, Booking слабее
+    56230219: 8.0,  # Soul — завтрак часто в Sailing Club
     8836100: 8.4,
     21967772: 8.2,
     47021962: 8.0,
@@ -138,6 +146,8 @@ BREAKFAST_NOTES: dict[int, str] = {
     48370: "сильный foodDining у эко-курорта",
     3007308: "в дешёвом тарифе обычно без завтрака",
     1119483: "часто без завтрака в дешёвом тарифе",
+    2577124: "не пляж: холм, 7–10 мин до воды",
+    56230219: "завтрак часто в Sailing Club (шаттл)",
 }
 
 

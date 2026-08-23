@@ -1,0 +1,86 @@
+{
+  "fetched_at": "2026-08-23",
+  "note": "Scores from public hotel pages and aggregators. Booking.com HTML is WAF-blocked from this environment; Booking figures come from Agoda combined reviews (provider 3038) plus Google/OTA snippets. Google Maps stars are /5; others /10 unless noted.",
+  "hotels": [
+    {
+      "name": "Lahana Resort Phu Quoc & Spa",
+      "sources": [
+        {"site": "Agoda", "score": 9.1, "scale": 10, "count": 7510, "dated": "2026-08-23", "live": true},
+        {"site": "Agoda+Booking combined", "score": 9.1, "scale": 10, "count": 7510, "dated": "2026-08-23", "live": true},
+        {"site": "Expedia", "score": 9.4, "scale": 10, "count": 321, "dated": "2026-08"},
+        {"site": "Trivago", "score": 9.4, "scale": 10, "count": 6381, "dated": "2026-07-30"},
+        {"site": "Trip.com", "score": 9.2, "scale": 10, "count": 274, "dated": "2026-08"},
+        {"site": "HotelsCombined", "score": 9.4, "scale": 10, "count": 3827, "dated": "2026-07-24"}
+      ],
+      "pros": ["персонал", "infinity pool с видом", "завтрак", "сад/тишина рядом с Dương Đông", "value"],
+      "cons": ["не на пляже (7–10 мин, чужие лежаки)", "комары", "холм/багги", "иногда уборка"]
+    },
+    {
+      "name": "Camia Resort & Spa",
+      "sources": [
+        {"site": "Agoda", "score": 9.0, "scale": 10, "count": 4398, "dated": "2026-08-23", "live": true},
+        {"site": "Booking.com", "score": 9.3, "scale": 10, "count": 1585, "dated": "2026-08"},
+        {"site": "Tripadvisor", "score": 4.8, "scale": 5, "count": 337, "dated": "2026-08"},
+        {"site": "Expedia", "score": 9.4, "scale": 10, "count": 151, "dated": "2026-08"},
+        {"site": "HotelsCombined", "score": 9.2, "scale": 10, "count": 3147, "dated": "2026-08-09"}
+      ],
+      "pros": ["персонал", "бассейны/закаты", "тишина Ong Lang", "ужин у воды"],
+      "cons": ["локация 8.2/10 — далеко от города", "пляж маленький/камни, часть гостей пишет «не искупаться»", "ухабистая дорога"]
+    },
+    {
+      "name": "M Village Phu Quoc",
+      "sources": [
+        {"site": "Agoda", "score": 8.9, "scale": 10, "count": 5302, "dated": "2026-08-23", "live": true},
+        {"site": "Booking.com", "score": 8.3, "scale": 10, "count": 398, "dated": "2026-08"},
+        {"site": "Trip.com", "score": 8.5, "scale": 10, "count": 118, "dated": "2026-08"},
+        {"site": "Hotels.com", "score": 9.2, "scale": 10, "count": null, "dated": "2026-08"}
+      ],
+      "pros": ["дизайн/бассейн-«лесное озеро»", "близко к аэропорту и ночному рынку", "персонал (часто)"],
+      "cons": ["не пляж (10–15 мин, лежаки чужие)", "шум с дороги", "путаница M Village vs M Village Tropical vs M Villas", "завтрак однообразный", "Booking заметно ниже Agoda"]
+    },
+    {
+      "name": "Soul Boutique Hotel Phu Quoc",
+      "sources": [
+        {"site": "Agoda", "score": 8.9, "scale": 10, "count": 798, "dated": "2026-08-23", "live": true},
+        {"site": "Trip.com", "score": 9.1, "scale": 10, "count": 62, "dated": "2026-08"},
+        {"site": "Trivago", "score": 9.4, "scale": 10, "count": 930, "dated": "2026-08"},
+        {"site": "Tripadvisor", "score": 4.8, "scale": 5, "count": null, "dated": "2026-08", "note": "мало отзывов, отель 2024"}
+      ],
+      "pros": ["новый и чистый", "персонал", "пляж Long Beach рядом", "доступ к Sailing Club (завтрак, бассейн, пляж-клуб)"],
+      "cons": ["завтрак/бассейн не в самом здании (шаттл/5 мин)", "маленькие номера vs фото", "шум (лифт, вечеринки на праздники)", "мало отзывов"]
+    },
+    {
+      "name": "Radisson Blu Resort Phu Quoc",
+      "sources": [
+        {"site": "Agoda", "score": 8.9, "scale": 10, "count": 2465, "dated": "2026-08-23", "live": true},
+        {"site": "Booking.com", "score": 8.8, "scale": 10, "count": 1304, "dated": "2026-08"},
+        {"site": "Expedia", "score": 8.8, "scale": 10, "count": 342, "dated": "2026-08"},
+        {"site": "Tripadvisor", "score": 4.5, "scale": 5, "count": 1199, "dated": "2026-08"},
+        {"site": "Google", "score": 4.8, "scale": 5, "count": 6106, "dated": "2026-08"}
+      ],
+      "pros": ["большой бассейн", "свой пляж Bai Dai", "рядом VinWonders/Safari/Grand World", "номера просторные"],
+      "cons": ["запад — волны в октябре", "ресепшен/сервис нестабилен (грубость, late check-in)", "далеко от Dương Đông", "доля оценок <6 выше, чем у Lahana/Camia"]
+    },
+    {
+      "name": "Grand Resort Ocean Bay Phu Quoc",
+      "sources": [
+        {"site": "Agoda", "score": 8.6, "scale": 10, "count": 2004, "dated": "2026-08-23", "live": true},
+        {"site": "Booking.com", "score": 8.9, "scale": 10, "count": 1061, "dated": "2026-08"},
+        {"site": "Trivago", "score": 8.9, "scale": 10, "count": 2169, "dated": "2026-08"},
+        {"site": "Google", "score": 4.3, "scale": 5, "count": 890, "dated": "2026-08"}
+      ],
+      "pros": ["природа Ong Lang", "свой пляж", "тишина"],
+      "cons": ["Google 4.3 — слабее брендовых 5★", "чистота 8.4", "недострой/провода, муравьи, сервис ресторана", "дешёвый тариф = family bungalow, не стандарт", "цена $337 не бьётся с оценками"]
+    },
+    {
+      "name": "JW Marriott Phu Quoc Emerald Bay",
+      "sources": [
+        {"site": "Agoda", "score": 9.2, "scale": 10, "count": 2761, "dated": "2026-08-23", "live": true},
+        {"site": "Tripadvisor", "score": 4.8, "scale": 5, "count": 1663, "dated": "2026-08"},
+        {"site": "Trivago", "score": 9.5, "scale": 10, "count": 6508, "dated": "2026-07-30"}
+      ],
+      "pros": ["дизайн Bensley", "сервис", "Bai Khem / восток"],
+      "cons": ["цена", "мусор на пляже (сезонно)", "далеко от города"]
+    }
+  ]
+}

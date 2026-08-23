@@ -19,7 +19,7 @@
 | Валюта | USD, с налогами и сборами (обычно 5% service + 8% VAT, у Accor часто 13.4%) |
 | Ссылки на отели | **Booking.com** на 19–25.10.2026, 2 взрослых, 1 номер, валюта **₽ (RUB)** |
 | Доп. ссылки | колонка **Ещё** справа: **Trip.com** (те же даты, ₽) и **OnlineTours** |
-| Снято | 22 августа 2026 (цены); отзывы Agoda — август 2026 |
+| Снято | 23 августа 2026 (цены); отзывы Agoda — август 2026 |
 | Главный источник живых тарифов | **Agoda** API `GetSecondaryData` на эти даты |
 | Рейтинг и завтрак | сводный /10 из отзывов + категорий + завтрака + звёзд (см. `data/comparison.md`) |
 | Другие площадки | Google Hotels, Kayak, Booking, Expedia, Hotels.com, Marriott, IHG, Accor, Traveloka, Trip.com, Trivago, официальные сайты |
@@ -41,11 +41,15 @@
 
 Если важна **восточная сторона в октябре**: Paralia Khem Beach **$84** (рейтинг 8.46), Premier Residences Emerald Bay **$157** (8.80), New World **$252** (8.86), JW Marriott **$459** (9.28).
 
-Если **бутик / романтика / завтрак**: Salinda (**9.45**, завтрак **9.1**, sparkling wine) **$210**; La Veranda (**9.12**, завтрак **8.4**) **$208**; Cassia (**8.96**) **$224**; Chen Sea (**8.70**) **$201**.
+Если **бутик / романтика / завтрак**: Salinda (**9.45**, завтрак **9.1**, sparkling wine) **$210**; La Veranda (**9.12**, завтрак **8.4**) **$208**; Cassia (**8.96**) **$224**; Chen Sea (**8.70**) **$201**. Из новых: **Lahana $111** (сводный **9.01**, Agoda 9.1 / 7.5k) — лучшая репутация 4★, но холм, не пляж; **Camia $144** (8.88; Booking 9.3, TA 4.8) — тихий Ong Lang; **Soul $94** (8.78, мало отзывов, завтрак в Sailing Club).
 
 Если **бюджет**: An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги ниже люкса (~7.9–8.7).
 
+По отзывам **не брать** при текущих ценах: **M Village $153** (Booking 8.3, без пляжа) и **Grand Ocean Bay $337** (Google 4.3, дешёвый номер — family bungalow).
+
 **Fusion Resort** (spa inclusive) и **Nam Nghi** на Agoda на эти даты **не продаются**. Перед бронью JW Marriott сверьте официальный сайт и Traveloka: Google Hotels показывал типичные **$310–358**, тогда как Agoda — **$459**.
+
+Отзывы с Agoda, Booking, Google, Tripadvisor и агрегаторов: [`data/reviews.md`](data/reviews.md).
 
 ---
 
@@ -129,17 +133,22 @@
 | [An Phu Hotel](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=An+Phu+Hotel+Phu+Quoc) | Duong Dong | 8.66 | 7.5 | **$33** | город, завтрак | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=An+Phu+Hotel+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=An+Phu+Hotel+Phu+Quoc) |
 | [Muong Thanh Luxury](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Muong+Thanh+Luxury+Phu+Quoc) | Long Beach | 7.95 | 7.4 | **$50** | сеть, value | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Muong+Thanh+Luxury+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Muong+Thanh+Luxury+Phu+Quoc) |
 | [Paralia Khem Beach](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Paralia+Khem+Beach+Phu+Quoc) | Bai Khem | 8.46 | 7.8 | **$84** | восток, белый песок | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Paralia+Khem+Beach+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Paralia+Khem+Beach+Phu+Quoc) |
+| [Soul Boutique Hotel](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Soul+Boutique+Hotel+Phu+Quoc) | Long Beach | 8.78 | 8.0 | **$94** | бутик 2024; завтрак в Sailing Club | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Soul+Boutique+Hotel+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Soul+Boutique+Hotel+Phu+Quoc) |
 | [Famiana Resort & Spa](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Famiana+Resort+%26+Spa+Phu+Quoc) | Long Beach | 8.66 | 7.7 | **$94** | семьи, mid-range | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Famiana+Resort+%26+Spa+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Famiana+Resort+%26+Spa+Phu+Quoc) |
+| [Lahana Resort & Spa](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Lahana+Resort+Phu+Quoc+%26+Spa) | Long Beach | **9.01** | 8.4 | **$111** | холм, вид на море, не beachfront | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Lahana+Resort+%26+Spa+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Lahana+Resort+%26+Spa+Phu+Quoc) |
+| [Camia Resort & Spa](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Camia+Resort+%26+Spa+Phu+Quoc) | Ong Lang | 8.88 | 8.2 | **$144** | тихий пляж, закаты | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Camia+Resort+%26+Spa+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Camia+Resort+%26+Spa+Phu+Quoc) |
 | [Crowne Plaza Starbay](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Crowne+Plaza+Phu+Quoc+Starbay) | Starbay | 9.18 | 8.7 | **$146** | IHG, новый | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Crowne+Plaza+Starbay+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/crowne-plaza-phu-quoc-starbay-an-ihg) |
+| [M Village](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=M+Village+Phu+Quoc) | Duong Dong | 8.77 | 7.6 | **$153** | холм у Cua Lap; Booking слабее | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=M+Village+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=M+Village+Phu+Quoc) |
 | [Chen Sea / The Slate](https://www.booking.com/hotel/vn/chen-sea-resort-spa.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | Ong Lang | 8.70 | 7.7 | **$201** | beach villa | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Chen+Sea+%2F+The+Slate+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Chen+Sea+%2F+The+Slate+Phu+Quoc) |
 | [Cassia Cottage](https://www.booking.com/hotel/vn/cassia-cottage.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | Long Beach | 8.96 | 8.1 | **$224** | бунгало в саду | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Cassia+Cottage+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Cassia+Cottage+Phu+Quoc) |
 | [Dusit Princess Moonrise](https://www.booking.com/hotel/vn/dusit-princess-moonrise-beach-resort.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | Long Beach | 9.24 | 8.8 | **$247** | junior suite | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Dusit+Princess+Moonrise+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Dusit+Princess+Moonrise+Phu+Quoc) |
+| [Grand Ocean Bay](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Grand+Resort+Ocean+Bay+Phu+Quoc) | Ong Lang | 8.56 | 8.0 | **$337** | family bungalow, не стандарт | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Grand+Ocean+Bay+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Grand+Ocean+Bay+Phu+Quoc) |
 
 ---
 
 ## Сравнение площадок
 
-Один и тот же отель на разных сайтах легко расходится на **15–30%**. Что получилось 22.08.2026:
+Один и тот же отель на разных сайтах легко расходится на **15–30%**. Что получилось 23.08.2026:
 
 | Отель | Agoda live (наши даты) | Другие площадки | Вывод | Ещё |
 | --- | ---: | --- | --- | --- |
@@ -163,31 +172,34 @@
 | Район | Кому | Море в октябре | Примеры из таблицы |
 | --- | --- | --- | --- |
 | **Bai Khem / Bai Sao** (восток-юг) | кто едет купаться | обычно спокойнее | Paralia $84, Premier Residences $157, New World $252, JW $459 |
-| **Long Beach** (запад) | первый визит, закаты, рестораны | волны / мутнее вода | Famiana $94, Novotel $111, Pullman $139, Salinda $210, InterContinental $264 |
+| **Long Beach** (запад) | первый визит, закаты, рестораны | волны / мутнее вода | Soul $94, Famiana $94, Novotel $111, Lahana $111, Pullman $139, Salinda $210, InterContinental $264 |
 | **Bai Dai / Ganh Dau** (север) | семьи, VinWonders, Safari | западный берег | Radisson $97, Vinpearl $104, Wyndham $115, Sheraton $129 |
-| **Ong Lang** | тихо, пары | запад, спокойнее толпы | Mövenpick $105, Mango Bay $168, Chen Sea $201 |
-| **Duong Dong** | бюджет, еда, ночной рынок | пляж не у дверей | An Phu $33, Praha $67 |
+| **Ong Lang** | тихо, пары | запад, спокойнее толпы | Mövenpick $105, Camia $144, Mango Bay $168, Chen Sea $201, Grand Ocean Bay $337 (family bungalow) |
+| **Duong Dong** | бюджет, еда, ночной рынок | пляж не у дверей | An Phu $33, Praha $67, M Village $153 (домики на холме) |
 | **Vung Bau** | уединение, виллы | северо-запад | Bamboo $69; Fusion/Nam Nghi — нет тарифа |
 
 ---
 
 ## Практические замечания
 
-- В таблице — **самый дешёвый** номер. У Premier Village, Meliá, Sailing Club, Seashells, Sunset Sanato дешёвая категория — это **вилла/сьют**, не стандарт.
+- В таблице — **самый дешёвый** номер. У Premier Village, Meliá, Sailing Club, Seashells, Sunset Sanato, **Grand Ocean Bay** дешёвая категория — это **вилла/сьют/family bungalow**, не стандарт.
 - Колонка **«Завтрак /10»** — качество (не «включён ли»); «в тарифе» отдельно. Salinda / Regent / InterContinental / JW лидируют по завтраку.
-- Бесплатная отмена есть не везде: у Radisson, Novotel, Famiana, Pullman, Salinda дешёвый тариф часто **non-refundable**.
+- Бесплатная отмена есть не везде: у Radisson, Novotel, Famiana, Pullman, Salinda, **Lahana** дешёвый тариф часто **non-refundable**.
+- **M Village** — домики на холме у Cua Lap (не пляж). **Lahana** — 4★ на холме с видом на море, тоже не beachfront. **Camia** — свой пляж на Ong Lang. **Soul Boutique** — в комплексе Bai Truong; гости часто пользуются инфраструктурой Sailing Club (шаттл).
 - Трансфер в Bai Khem ~40 мин от аэропорта, ~$15–20; Long Beach ближе (~10–15 мин).
 - Прямая бронь у мелких отелей иногда бьёт OTA (комиссия 15–18%). У сетей (Marriott, IHG, Accor, Vinpearl) прямой сайт чаще даёт **апгрейд/поздний выезд**, не всегда меньшую цену — но у JW Marriott прямой сайт как раз может быть дешевле Agoda.
 - Курс ориентир VietnamSpot июль 2026: **~26 000 ₫ = $1**. $100 ≈ 2,6 млн ₫.
 
 ---
 
-## Как обновить цены и рейтинги
+## Как обновить цены, рейтинги и отзывы
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
 python3 scripts/fetch_hotel_profiles.py   # отзывы, категории, фичи
 python3 scripts/build_tables.py
+python3 scripts/fetch_reviews.py
+python3 scripts/build_reviews.py
 ```
 
 Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`. Описания и база оценки завтрака: `scripts/hotel_profiles.py`. Локации Grand World / Safari / аквапарк / море / центр: `scripts/hotel_pois.py`. Проверка: `python3 scripts/test_hotel_pois.py`.
@@ -207,6 +219,8 @@ python3 scripts/build_tables.py
 | [`data/hotel-profiles.json`](data/hotel-profiles.json) | рейтинг, завтрак, описание |
 | [`data/hotel-profiles-raw.json`](data/hotel-profiles-raw.json) | сырые отзывы/фичи Agoda |
 | [`data/agoda-live.json`](data/agoda-live.json) | сырой снимок тарифов |
+| [`data/reviews.md`](data/reviews.md) | отзывы Agoda/Booking/Google/TA |
+| [`data/reviews.csv`](data/reviews.csv) | оценки каталога |
 | [`scripts/fetch_agoda_prices.py`](scripts/fetch_agoda_prices.py) | обновить Agoda |
 | [`scripts/fetch_hotel_profiles.py`](scripts/fetch_hotel_profiles.py) | обновить отзывы/фичи |
 | [`scripts/build_tables.py`](scripts/build_tables.py) | собрать таблицы |
@@ -215,3 +229,5 @@ python3 scripts/build_tables.py
 | [`scripts/hotel_profiles.py`](scripts/hotel_profiles.py) | описания + оценка завтрака |
 | [`scripts/hotel_pois.py`](scripts/hotel_pois.py) | Grand World, Safari, аквапарк, стиль номера, море, центр |
 | [`scripts/test_hotel_pois.py`](scripts/test_hotel_pois.py) | проверки локаций |
+| [`scripts/fetch_reviews.py`](scripts/fetch_reviews.py) | комментарии Agoda + Booking |
+| [`scripts/build_reviews.py`](scripts/build_reviews.py) | таблицы отзывов |
