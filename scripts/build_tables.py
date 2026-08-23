@@ -19,6 +19,13 @@ from hotel_profiles import (  # noqa: E402
     breakfast_quality_for,
     description_for,
 )
+from hotel_pois import (  # noqa: E402
+    fmt_beach,
+    fmt_place,
+    fmt_room,
+    fmt_water,
+    resolve_poi,
+)
 
 CATALOG_BY_ID = {h["id"]: h for h in HOTELS}
 
@@ -46,6 +53,15 @@ RATING_METHOD = (
     "локация (8%), value (5%), звёзды (5%). Веса перенормируются, если части оценок нет. "
     "Завтрак: Agoda foodDining при наличии + кураторская оценка F&B "
     "(Salinda sparkling wine, Regent Rice Market, InterContinental Sora & Umi и т.д.)."
+)
+
+FIT_METHOD = (
+    "Fit /10 под запрос «Grand World + Safari + аквапарк + современный номер + море»: "
+    "близость Grand World 28%, Safari 22%, аквапарк 20%, номер (Agoda roomComfort + стиль) 18%, "
+    "море 8%, центр Dương Đông 4% (центр и парки на севере — разные концы острова). "
+    "Километры — типичная поездка на такси/VinBus, не live GPS. "
+    "Аквапарки: Sanato / New World / горки Wyndham — на территории; Typhoon World в VinWonders "
+    "(север, рядом с Grand World); Aquatopia на Hon Thom (юг, канатка)."
 )
 
 
@@ -190,6 +206,16 @@ def enrich(h: dict, profiles: dict[int, dict]) -> dict:
     )
     desc = description_for(int(hid), h.get("catalog_name") or h.get("name") or "") if hid else ""
     bf_note = BREAKFAST_NOTES.get(int(hid), "") if hid else ""
+    feat_list = []
+    if prof:
+        feat_list = list(prof.get("features_you_love") or []) + list(prof.get("key_features") or [])
+    poi = resolve_poi(
+        int(hid) if hid is not None else None,
+        h.get("district") or cat.get("district") or h.get("area") or "",
+        features=feat_list,
+        beachfront=bool(prof.get("beachfront")) if prof else False,
+        room_comfort=(grades.get("roomComfort") if grades.get("roomComfort") is not None else None),
+    )
     return {
         **h,
         "popularity": h.get("popularity") or cat.get("popularity") or "mid",
@@ -211,6 +237,21 @@ def enrich(h: dict, profiles: dict[int, dict]) -> dict:
         "description": desc,
         "features_short": short_features(prof) if prof else "—",
         "star": star,
+        "poi": poi,
+        "fit": poi.get("fit"),
+        "gw_km": poi.get("gw_km"),
+        "safari_km": poi.get("safari_km"),
+        "center_km": poi.get("center_km"),
+        "beach_m": poi.get("beach_m"),
+        "water": poi.get("water"),
+        "room_style": poi.get("room_style"),
+        "room_score": poi.get("room_score"),
+        "gw_label": fmt_place(poi["gw_km"], poi["gw_min"], poi.get("gw_walk")),
+        "safari_label": fmt_place(poi["safari_km"], poi["safari_min"]),
+        "center_label": fmt_place(poi["center_km"], poi["center_min"]),
+        "beach_label": fmt_beach(poi.get("beach_m")),
+        "water_label": fmt_water(poi),
+        "room_label": fmt_room(poi),
     }
 
 
@@ -326,6 +367,78 @@ def md_table(rows: list[dict], *, compact: bool = False) -> str:
     return "\n".join(lines) + "\n"
 
 
+def md_poi_table(rows: list[dict]) -> str:
+    headers = [
+        "Fit",
+        "Отель",
+        "Район",
+        "Grand World",
+        "Safari",
+        "Аквапарк",
+        "Номер",
+        "Море",
+        "Центр",
+        "Ночь",
+    ]
+    lines = ["| " + " | ".join(headers) + " |", "| " + " | ".join(["---"] * len(headers)) + " |"]
+    for r in rows:
+        lines.append(
+            "| "
+            + " | ".join(
+                [
+                    fmt_score(r.get("fit"), 2),
+                    md_escape(r.get("name") or r.get("catalog_name") or ""),
+                    r.get("district") or "",
+                    md_escape(r.get("gw_label") or "—"),
+                    md_escape(r.get("safari_label") or "—"),
+                    md_escape((r.get("water_label") or "—")[:90]),
+                    md_escape((r.get("room_label") or "—")[:80]),
+                    md_escape(r.get("beach_label") or "—"),
+                    md_escape(r.get("center_label") or "—"),
+                    usd(r.get("nightly_incl")),
+                ]
+            )
+            + " |"
+        )
+    return "\n".join(lines) + "\n"
+
+
+def sort_by_fit(rows: list[dict]) -> list[dict]:
+    return sorted(
+        rows,
+        key=lambda r: (
+            r.get("fit") is None,
+            -(r.get("fit") or 0),
+            r.get("gw_km") is None,
+            r.get("gw_km") or 9e9,
+            r.get("nightly_incl") is None,
+            r.get("nightly_incl") or 9e9,
+        ),
+    )
+
+
+def sort_by_km(rows: list[dict], key: str) -> list[dict]:
+    return sorted(
+        rows,
+        key=lambda r: (
+            r.get(key) is None,
+            r.get(key) if r.get(key) is not None else 9e9,
+            -(r.get("fit") or 0),
+        ),
+    )
+
+
+def sort_by_beach(rows: list[dict]) -> list[dict]:
+    return sorted(
+        rows,
+        key=lambda r: (
+            r.get("beach_m") is None,
+            r.get("beach_m") if r.get("beach_m") is not None else 9e9,
+            -(r.get("fit") or 0),
+        ),
+    )
+
+
 def sort_by_rating(rows: list[dict]) -> list[dict]:
     return sorted(
         rows,
@@ -370,6 +483,19 @@ def write_csv(path: Path, rows: list[dict], meta: dict) -> None:
         "grade_service",
         "grade_value",
         "grade_food",
+        "fit",
+        "grand_world",
+        "grand_world_km",
+        "safari",
+        "safari_km",
+        "waterpark",
+        "waterpark_kind",
+        "room_look",
+        "room_score",
+        "sea",
+        "beach_m",
+        "city_center",
+        "center_km",
     ]
     with path.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields)
@@ -407,6 +533,19 @@ def write_csv(path: Path, rows: list[dict], meta: dict) -> None:
                     "grade_service": g.get("staffPerformance"),
                     "grade_value": g.get("valueForMoney"),
                     "grade_food": g.get("foodDining"),
+                    "fit": r.get("fit"),
+                    "grand_world": r.get("gw_label"),
+                    "grand_world_km": r.get("gw_km"),
+                    "safari": r.get("safari_label"),
+                    "safari_km": r.get("safari_km"),
+                    "waterpark": r.get("water_label"),
+                    "waterpark_kind": r.get("water"),
+                    "room_look": r.get("room_label"),
+                    "room_score": r.get("room_score"),
+                    "sea": r.get("beach_label"),
+                    "beach_m": r.get("beach_m"),
+                    "city_center": r.get("center_label"),
+                    "center_km": r.get("center_km"),
                 }
             )
 
@@ -428,6 +567,13 @@ def write_profiles_clean(path: Path, rows: list[dict]) -> None:
                 "description": r.get("description"),
                 "features": r.get("features_short"),
                 "grades": r.get("grades") or {},
+                "fit": r.get("fit"),
+                "grand_world": r.get("gw_label"),
+                "safari": r.get("safari_label"),
+                "waterpark": r.get("water_label"),
+                "room_look": r.get("room_label"),
+                "sea": r.get("beach_label"),
+                "city_center": r.get("center_label"),
             }
         )
     path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -457,6 +603,20 @@ def main() -> int:
         by_district.setdefault(r.get("district") or "другое", []).append(r)
 
     top10 = available[:10]
+    by_fit = sort_by_fit(available)
+    by_gw = sort_by_km(available, "gw_km")[:12]
+    by_safari = sort_by_km(available, "safari_km")[:12]
+    by_center = sort_by_km(available, "center_km")[:10]
+    by_beach = sort_by_beach(available)[:12]
+    by_room = sorted(
+        [r for r in available if r.get("room_score") is not None],
+        key=lambda r: (-(r.get("room_score") or 0), -(r.get("fit") or 0)),
+    )[:12]
+    water_rows = [
+        r
+        for r in by_fit
+        if r.get("water") in ("on-site", "splash", "vinwonders", "hon-thom")
+    ]
 
     parts = [
         "# Сравнение отелей Фукуок (Phu Quoc)",
@@ -464,9 +624,44 @@ def main() -> int:
         f"- Заезд: **{meta.get('checkin')}**, выезд: **{meta.get('checkout')}** ({meta.get('nights') or 6} ночей)",
         "- 2 взрослых, 1 номер",
         "- Цены: Agoda, **с налогами и сборами**, USD, самый дешёвый доступный номер",
-        "- Снято: 22 августа 2026 (цены); отзывы/фичи Agoda — август 2026",
+        "- Снято: 22 августа 2026 (цены); отзывы/фичи Agoda — август 2026; локации — типичные км/мин, август 2026",
         f"- {RATING_METHOD}",
-        "- Таблица отсортирована по **сводному рейтингу** (выше = лучше)",
+        f"- {FIT_METHOD}",
+        "- Основная таблица отсортирована по **сводному рейтингу**; блок «локация» — по **fit** под Grand World / Safari / аквапарк",
+        "",
+        "## Локация и развлечения (новые критерии)",
+        "",
+        "Grand World, VinWonders (аквапарк Typhoon World) и Vinpearl Safari стоят **одним северным кластером на Bãi Dài**. "
+        "Центр острова — ночной рынок **Dương Đông** (~28–32 км / 40–50 мин от парков). "
+        "Море у дверей и «погулять по городу» одновременно почти не бывает: северные курорты выигрывают парки, Long Beach — закаты и ближе к городу, восток (Bai Khem) — спокойную воду в октябре, но час+ до Grand World.",
+        "",
+        "### Лучшие совпадения (fit)",
+        "",
+        md_poi_table(by_fit[:12]),
+        "",
+        "### Ближе всех к Grand World",
+        "",
+        md_poi_table(by_gw),
+        "",
+        "### Ближе всех к Vinpearl Safari",
+        "",
+        md_poi_table(by_safari),
+        "",
+        "### Аквапарк на территории или рядом",
+        "",
+        md_poi_table(water_rows[:15]),
+        "",
+        "### Современный / красивый номер (roomComfort + стиль)",
+        "",
+        md_poi_table(by_room),
+        "",
+        "### Ближе к морю",
+        "",
+        md_poi_table(by_beach),
+        "",
+        "### Ближе к центру (Dương Đông)",
+        "",
+        md_poi_table(by_center),
         "",
         "## Топ-10 по рейтингу (с ценой на даты)",
         "",
@@ -509,6 +704,12 @@ def main() -> int:
             print(
                 f"  {r.get('rating'):.2f} | bf {r.get('breakfast_quality')} | "
                 f"{r.get('guest_score')} | {r.get('name')[:40]} | ${r.get('nightly_incl')}"
+            )
+        print("Top by location fit:")
+        for r in by_fit[:8]:
+            print(
+                f"  fit {r.get('fit'):.2f} | GW {r.get('gw_label')} | "
+                f"{r.get('name')[:36]} | ${r.get('nightly_incl')} | {r.get('water')}"
             )
     return 0
 

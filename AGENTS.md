@@ -24,7 +24,9 @@ Then update `README.md` summary tables if the ranking changed.
 
 Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).  
 Hotel blurbs + curated breakfast scores: `scripts/hotel_profiles.py`.  
-Tables sort by **composite rating** (guest reviews, grades, breakfast, stars), not by price.
+Grand World / Safari / water park / room style / sea & town distances: `scripts/hotel_pois.py`.  
+Tables sort by **composite rating**; a second **fit** score ranks the entertainment-cluster request.  
+POI unit checks: `python3 scripts/test_hotel_pois.py`.
 
 ## Sources
 

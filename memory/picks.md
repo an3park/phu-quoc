@@ -32,6 +32,22 @@ Salinda **$210** (9.45), La Veranda **$208** (9.12), Cassia **$224** (8.96), Che
 
 An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги скромнее.
 
+## Если цель — Grand World + Safari + аквапарк + современный номер
+
+Конфликт с «центром города»: парки на севере Bãi Dài, Dương Đông ~40–50 мин.
+
+1. **Wyndham Grand — $115**, fit **9.29** — 300 м до Grand World, Safari 3 км, горки в лагуне.
+2. **Vinpearl Resort & Spa — $104**, fit **8.57** — VinWonders пешком, номера старше.
+3. **Wyndham Garden — $106**, fit **8.47** — буквально внутри Grand World (150 м), 4★.
+4. **Radisson Blu — $97**, fit **8.41** — ~500 м пешком до Grand World, лучший value.
+5. **Crowne Plaza Starbay — $146** — новые современные номера, ~8 мин до парков.
+
+Аквапарк на территории, но не у Grand World: Sunset Sanato **$352** (Long Beach), New World **$252** (Bai Khem, спокойное море в октябре).
+
+Самый красивый номер без парков рядом: JW Marriott **$459** (Bensley), Regent **$500** (suite, но Regent как раз ~8 мин до парков).
+
+Ближе к центру: An Phu **$33** / Praha **$67** — рынок пешком, Grand World ~40 мин.
+
 ## Пока не бронировать вслепую
 
 - Fusion / Nam Nghi — нет продажи на Agoda.
