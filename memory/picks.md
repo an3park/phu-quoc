@@ -1,31 +1,40 @@
 # Короткие рекомендации (на снимок 22.08.2026)
 
-Допущение: двое взрослых, 6 ночей, бюджет не задан.
+Допущение: двое взрослых, 6 ночей, бюджет не задан.  
+Таблицы отсортированы по **сводному рейтингу** (отзывы + завтрак + категории Agoda).
 
-## Если цель — купаться в октябре
+## Если цель — максимальный рейтинг / завтрак
 
-1. **Paralia Khem Beach — $84** — 4★ на востоке, самый дешёвый нормальный вариант у Bai Khem.
-2. **Premier Residences Emerald Bay — $157** — 5★ Accor на том же пляже, что JW, заметно дешевле.
-3. **New World Phu Quoc — $252** — 1BR pool villa на Bai Khem.
-4. **JW Marriott Emerald Bay — $459 на Agoda** — топ острова; перед оплатой проверить Marriott.com / Traveloka (ориентир Google ~$310–358).
+1. **Regent — 9.56**, завтрак **9.5**, **$500** — ультра-люкс Starbay.
+2. **Salinda — 9.45**, завтрак **9.1**, **$210** — sparkling wine breakfast, бутик.
+3. **JW Marriott — 9.28**, завтрак **9.2**, **$459** — топ Bai Khem (сверить Marriott.com).
+4. **InterContinental — 9.24**, завтрак **9.3**, **$264** — семьи + сильный buffet.
+
+## Если цель — купаться в октябре (восток)
+
+1. **Paralia Khem Beach — $84** (рейтинг 8.46) — дешёвый нормальный Bai Khem.
+2. **Premier Residences Emerald Bay — $157** (8.80) — Accor рядом с JW.
+3. **New World — $252** (8.86) — 1BR pool villa.
+4. **JW Marriott — $459** (9.28) — сверить прямой сайт / Traveloka (~$310–358).
 
 ## Если цель — 5★ и не переплачивать
 
-1. **Radisson Blu — $97** (Bai Dai, есть all-inclusive пакеты на других тарифах).
-2. **Vinpearl Resort & Spa — $104** (семьи, VinWonders). Сверить Booking (~$93).
-3. **Mövenpick Waverly — $105** (Ong Lang, тише).
-4. **Novotel — $111** или **Wyndham Grand — $115**.
+1. **Radisson Blu — $97** (рейтинг **8.96**) — лучший value среди топа.
+2. **Vinpearl Resort & Spa — $104** (8.86) — семьи / VinWonders.
+3. **Mövenpick Waverly — $105** (8.82) — тише, Ong Lang.
+4. **Crowne Plaza Starbay — $146** (9.18) — если готов чуть доплатить за более высокий рейтинг.
 
 ## Если цель — бутик / пары
 
-Salinda **$210**, La Veranda **$208**, Chen Sea **$201**, Cassia **$224**.
+Salinda **$210** (9.45), La Veranda **$208** (9.12), Cassia **$224** (8.96), Chen Sea **$201** (8.70).
 
 ## Если цель — бюджет
 
-An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67**.
+An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги скромнее.
 
 ## Пока не бронировать вслепую
 
 - Fusion / Nam Nghi — нет продажи на Agoda.
 - Строки Premier Village / Meliá / Sailing Club / Seashells — это виллы на несколько спален, не стандартный номер.
 - InterContinental $264 на Agoda vs ~$200 на официальном сайте в Google.
+- WorldHotels / Green Inn — высокие оценки при относительно малом числе отзывов (рейтинг уже слегка сжат).

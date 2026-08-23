@@ -16,12 +16,15 @@ Read first: `README.md`, `memory/trip.md`, `memory/sources.md`, `memory/picks.md
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
+python3 scripts/fetch_hotel_profiles.py
 python3 scripts/build_tables.py
 ```
 
 Then update `README.md` summary tables if the ranking changed.
 
-Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).
+Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).  
+Hotel blurbs + curated breakfast scores: `scripts/hotel_profiles.py`.  
+Tables sort by **composite rating** (guest reviews, grades, breakfast, stars), not by price.
 
 ## Sources
 
