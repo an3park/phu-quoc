@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from hotels_catalog import HOTELS  # noqa: E402
 from booking_links import (  # noqa: E402
+    BOOKING_CURRENCY,
     DEFAULT_CHECKIN,
     DEFAULT_CHECKOUT,
     README_ALIASES,
@@ -39,6 +40,7 @@ def test_slug_url_has_stay_dates() -> None:
     assert_true("checkout=2026-10-25" in url, url)
     assert_true("group_adults=2" in url, url)
     assert_true("no_rooms=1" in url, url)
+    assert_true("selected_currency=RUB" in url, url)
 
 
 def test_missing_slug_falls_back_to_search() -> None:
@@ -64,6 +66,8 @@ def test_every_catalog_hotel_gets_dated_url() -> None:
         assert_true("booking.com" in url, f"{h['name']} {url}")
         assert_true("checkin=2026-10-19" in url, f"{h['name']} {url}")
         assert_true("checkout=2026-10-25" in url, f"{h['name']} {url}")
+        assert_true(f"selected_currency={BOOKING_CURRENCY}" in url, f"{h['name']} {url}")
+        assert_true("selected_currency=USD" not in url, f"{h['name']} {url}")
 
 
 def test_readme_aliases_point_at_catalog() -> None:
@@ -85,6 +89,7 @@ def test_linkify_hotel_column() -> None:
     assert_true("wyndham-grand-phuquoc" in out, out)
     assert_true("radisson-blu-resort-phu-quoc" in out, out)
     assert_true("checkin=2026-10-19" in out, out)
+    assert_true("selected_currency=RUB" in out, out)
 
 
 def test_resolve_short_and_catalog_names() -> None:

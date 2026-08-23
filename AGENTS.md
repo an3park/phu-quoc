@@ -45,8 +45,7 @@ Shoulder / late rainy season. East coast (Bai Khem, Bai Sao) is usually calmer f
 ## Output rules
 
 - Keep comparison tables in `data/comparison.md` and `data/comparison.csv`.
-- Hotel names in markdown tables must be Booking.com links for the trip dates (2 adults, 1 room).
-- Prefer USD all-in (tax + service). Mention VND only with an explicit rate.
+- Hotel names in markdown tables must be Booking.com links for the trip dates (2 adults, 1 room, `selected_currency=RUB`). Comparison tables stay in USD.
 - State room type: a “cheap” Premier Village / Meliá / Sailing Club row may be a multi-bedroom villa.
 - Do not book anything unless the user asks.
 

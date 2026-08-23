@@ -11,6 +11,7 @@ from urllib.parse import urlencode
 
 DEFAULT_CHECKIN = "2026-10-19"
 DEFAULT_CHECKOUT = "2026-10-25"
+BOOKING_CURRENCY = "RUB"
 
 # Short labels in README tables → catalog hotel id
 README_ALIASES: dict[str, int] = {
@@ -108,7 +109,7 @@ def stay_query(checkin: str | None = None, checkout: str | None = None) -> dict[
         "group_adults": "2",
         "no_rooms": "1",
         "group_children": "0",
-        "selected_currency": "USD",
+        "selected_currency": BOOKING_CURRENCY,
     }
 
 
