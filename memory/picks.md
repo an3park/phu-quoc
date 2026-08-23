@@ -1,35 +1,59 @@
 # Короткие рекомендации (на снимок 23.08.2026)
 
-Допущение: двое взрослых, 6 ночей, бюджет не задан.
+Допущение: двое взрослых, 6 ночей, бюджет не задан.  
+Таблицы отсортированы по **сводному рейтингу** (отзывы + завтрак + категории Agoda).
 
-## Если цель — купаться в октябре
+## Если цель — максимальный рейтинг / завтрак
 
-1. **Paralia Khem Beach — $84** — 4★ на востоке, самый дешёвый нормальный вариант у Bai Khem.
-2. **Premier Residences Emerald Bay — $157** — 5★ Accor на том же пляже, что JW, заметно дешевле.
-3. **New World Phu Quoc — $252** — 1BR pool villa на Bai Khem.
-4. **JW Marriott Emerald Bay — $459 на Agoda** — топ острова; перед оплатой проверить Marriott.com / Traveloka (ориентир Google ~$310–358).
+1. **Regent — 9.56**, завтрак **9.5**, **$500** — ультра-люкс Starbay.
+2. **Salinda — 9.45**, завтрак **9.1**, **$210** — sparkling wine breakfast, бутик.
+3. **JW Marriott — 9.28**, завтрак **9.2**, **$459** — топ Bai Khem (сверить Marriott.com).
+4. **InterContinental — 9.24**, завтрак **9.3**, **$264** — семьи + сильный buffet.
+
+## Если цель — купаться в октябре (восток)
+
+1. **Paralia Khem Beach — $84** (рейтинг 8.46) — дешёвый нормальный Bai Khem.
+2. **Premier Residences Emerald Bay — $157** (8.80) — Accor рядом с JW.
+3. **New World — $252** (8.86) — 1BR pool villa.
+4. **JW Marriott — $459** (9.28) — сверить прямой сайт / Traveloka (~$310–358).
 
 ## Если цель — 5★ и не переплачивать
 
-1. **Radisson Blu — $97** (Bai Dai, есть all-inclusive пакеты на других тарифах).
-2. **Vinpearl Resort & Spa — $104** (семьи, VinWonders). Сверить Booking (~$93).
-3. **Mövenpick Waverly — $105** (Ong Lang, тише).
-4. **Novotel — $111** или **Wyndham Grand — $115**.
+1. **Radisson Blu — $97** (рейтинг **8.96**) — лучший value среди топа.
+2. **Vinpearl Resort & Spa — $104** (8.86) — семьи / VinWonders.
+3. **Mövenpick Waverly — $105** (8.82) — тише, Ong Lang.
+4. **Crowne Plaza Starbay — $146** (9.18) — если готов чуть доплатить за более высокий рейтинг.
 
 ## Если цель — бутик / пары
 
-По **отзывам** (Agoda+Booking+TA, 23.08.2026):
+По **сводному рейтингу и кросс-площадочным отзывам** (23.08.2026):
 
-1. **Lahana — $111, Agoda 9.1 / 7.5k** — самая любимая 4★ в списке (сервис 9.5). Не пляж: 7–10 мин до воды.
-2. **Camia — $144, Agoda 9.0 / Booking 9.3 / TA 4.8** — тихий Ong Lang, закаты; пляж узкий/камни.
-3. **Soul Boutique — $94, Agoda 8.9 / ~800 отзывов** — новый, чисто; завтрак и бассейн в Sailing Club, не в здании.
-4. Salinda **$210 / 9.4**, La Veranda **$208 / 9.1**, Cassia **$224 / 9.2**, Chen Sea **$201 / 8.8**.
+1. **Lahana — $111**, сводный **9.01**, Agoda **9.1 / 7.5k** — самая любимая 4★ в новой четвёрке (сервис 9.5). Не пляж: 7–10 мин до воды.
+2. **Camia — $144**, сводный **8.88**, Agoda 9.0 / Booking 9.3 / TA 4.8 — тихий Ong Lang, закаты; пляж узкий/камни.
+3. **Soul Boutique — $94**, сводный **8.78**, Agoda 8.9 / ~800 отзывов — новый, чисто; завтрак и бассейн в Sailing Club, не в здании.
+4. Salinda **$210** (9.45), La Veranda **$208** (9.12), Cassia **$224** (8.96), Chen Sea **$201** (8.70).
 
 **M Village — $153**: Agoda 8.9, но **Booking 8.3**; шум, без своего пляжа — не брать вместо Lahana/Soul.
 
 ## Если цель — бюджет
 
-An Phu **$33**, Muong Thanh **$50**, Brenta **$61**, Bauhinia **$66**, Praha **$67**.
+An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги скромнее.
+
+## Если цель — Grand World + Safari + аквапарк + современный номер
+
+Конфликт с «центром города»: парки на севере Bãi Dài, Dương Đông ~40–50 мин.
+
+1. **Wyndham Grand — $115**, fit **9.29** — 300 м до Grand World, Safari 3 км, горки в лагуне.
+2. **Vinpearl Resort & Spa — $104**, fit **8.57** — VinWonders пешком, номера старше.
+3. **Wyndham Garden — $106**, fit **8.47** — буквально внутри Grand World (150 м), 4★.
+4. **Radisson Blu — $97**, fit **8.41** — ~500 м пешком до Grand World, лучший value.
+5. **Crowne Plaza Starbay — $146** — новые современные номера, ~8 мин до парков.
+
+Аквапарк на территории, но не у Grand World: Sunset Sanato **$352** (Long Beach), New World **$252** (Bai Khem, спокойное море в октябре).
+
+Самый красивый номер без парков рядом: JW Marriott **$459** (Bensley), Regent **$500** (suite, но Regent как раз ~8 мин до парков).
+
+Ближе к центру: An Phu **$33** / Praha **$67** — рынок пешком, Grand World ~40 мин.
 
 ## Пока не бронировать вслепую
 
@@ -37,3 +61,4 @@ An Phu **$33**, Muong Thanh **$50**, Brenta **$61**, Bauhinia **$66**, Praha **$
 - Строки Premier Village / Meliá / Sailing Club / Seashells / **Grand Ocean Bay** — виллы/family bungalow, не стандарт. Grand Ocean Bay ещё и **Google 4.3 / Agoda 8.6** — слабая 5★ за $337.
 - Radisson Blu **$97**: Google 4.8, TA 4.5, Agoda 8.9 — нормальный север к VinWonders, сервис неровный, западное море в октябре.
 - InterContinental $264 на Agoda vs ~$200 на официальном сайте в Google.
+- WorldHotels / Green Inn — высокие оценки при относительно малом числе отзывов (рейтинг уже слегка сжат).

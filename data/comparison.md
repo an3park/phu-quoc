@@ -3,227 +3,368 @@
 - Заезд: **2026-10-19**, выезд: **2026-10-25** (6 ночей)
 - 2 взрослых, 1 номер
 - Цены: Agoda, **с налогами и сборами**, USD, самый дешёвый доступный номер
-- Снято: 23 августа 2026
+- Снято: 23 августа 2026 (цены); отзывы/фичи Agoda — август 2026; локации — типичные км/мин, август 2026
+- Сводный рейтинг /10: отзывы гостей Agoda+Booking (40%, с лёгким сжатием к среднему острова при малом числе отзывов), качество завтрака (15%), удобства (12%), чистота (10%), сервис (10%), локация (8%), value (5%), звёзды (5%). Веса перенормируются, если части оценок нет. Завтрак: Agoda foodDining при наличии + кураторская оценка F&B (Salinda sparkling wine, Regent Rice Market, InterContinental Sora & Umi и т.д.).
+- Fit /10 под запрос «Grand World + Safari + аквапарк + современный номер + море»: близость Grand World 28%, Safari 22%, аквапарк 20%, номер (Agoda roomComfort + стиль) 18%, море 8%, центр Dương Đông 4% (центр и парки на севере — разные концы острова). Километры — типичная поездка на такси/VinBus, не live GPS. Аквапарки: Sanato / New World / горки Wyndham — на территории; Typhoon World в VinWonders (север, рядом с Grand World); Aquatopia на Hon Thom (юг, канатка).
+- Основная таблица отсортирована по **сводному рейтингу**; блок «локация» — по **fit** под Grand World / Safari / аквапарк
 
-## Все отели по возрастанию цены
+## Локация и развлечения (новые критерии)
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
+Grand World, VinWonders (аквапарк Typhoon World) и Vinpearl Safari стоят **одним северным кластером на Bãi Dài**. Центр острова — ночной рынок **Dương Đông** (~28–32 км / 40–50 мин от парков). Море у дверей и «погулять по городу» одновременно почти не бывает: северные курорты выигрывают парки, Long Beach — закаты и ближе к городу, восток (Bai Khem) — спокойную воду в октябре, но час+ до Grand World.
+
+### Лучшие совпадения (fit)
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | менее известный | $29.29 | $175.74 | Twin Room with Garden View | нет | да | есть места |
-| An Phu Hotel | Duong Dong | 3.0 | менее известный | $33.48 | $200.88 | Superior Double Or Twin Bed | да | да | есть места |
-| Rocks Beach Boutique | Ham Ninh | 4.0 | менее известный | $38.53 | $231.18 | Deluxe Double Garden View | нет | да | есть места |
-| Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | менее известный | $49.78 | $298.68 | Deluxe Twin Beds | да | да | есть места |
-| Green Inn Phu Quoc Hotel | Long Beach | 3.0 | менее известный | $58.58 | $351.48 | Family Junior Suite | да | да | есть места |
-| Brenta Phu Quoc Hotel | Duong Dong | 3.0 | менее известный | $60.63 | $363.78 | Superior Double Room | да | нет | есть места |
-| Bauhinia Resort Phu Quoc | Long Beach | 3.0 | менее известный | $65.86 | $395.18 | Superior Room King | да | да | есть места |
-| Praha Hotel | Duong Dong | 3.0 | менее известный | $67.40 | $404.37 | Premium Room | нет | да | есть места |
-| Bamboo Cottages | Vung Bau | 3.0 | менее известный | $69.41 | $416.46 | Superior - Garden View | да | да | есть места |
-| HAWAII RESORT PHU QUOC | Long Beach | 3.5 | менее известный | $72.75 | $436.50 | Standard | да | нет | есть места |
-| Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | менее известный | $83.89 | $503.34 | Superior Twin Room | да | да | есть места |
-| Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | менее известный | $89.44 | $536.64 | Superior Double Room with Balcony | да | нет | есть места |
-| Famiana Resort and Spa | Long Beach | 4.5 | средний | $93.81 | $562.86 | Deluxe Garden King Or Twin | да | нет | есть места |
-| Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | менее известный | $93.96 | $563.76 | Soul Deluxe | да | да | есть места |
-| Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | популярный | $96.94 | $581.64 | Deluxe Room (King/Twin) | да | нет | есть места |
-| Best Western Premier Sonasea Phu Quoc | Long Beach | — | менее известный | $98.94 | $593.64 | Deluxe King Garden View | да | нет | есть места |
-| Movenpick Villas & Residences Phu Quoc | Ong Lang | 5.0 | средний | $101.39 | $608.34 | Studio King Room with Balcony | да | нет | есть места |
-| Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | популярный | $104.37 | $626.22 | Deluxe Twin | да | да | есть места |
-| Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | популярный | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | да | нет | есть места |
-| Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | менее известный | $106.36 | $638.16 | Superior Twin Room | да | да | есть места |
-| SOL By Melia Phu Quoc | Long Beach | 5.0 | средний | $107.46 | $644.79 | Standard Room | да | нет | есть места |
-| Novotel Phu Quoc Resort | Long Beach | 5.0 | популярный | $111.09 | $666.54 | Superior Twin Garden View | да | нет | есть места |
-| Lahana Resort Phu Quoc & Spa | Long Beach | 4.0 | средний | $111.45 | $668.70 | Deluxe Double Garden View | да | нет | есть места |
-| Wyndham Grand Phu Quoc | Bai Dai | 5.0 | популярный | $114.87 | $689.22 | Superior Twin | да | да | есть места |
-| Peppercorn Beach Resort | Bai Dai | 3.0 | менее известный | $126.19 | $757.14 | Double Room with Garden View | нет | нет | есть места |
-| Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | популярный | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | да | да | есть места |
-| Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | популярный | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | да | нет | есть места |
-| Camia Resort & Spa | Ong Lang | 4.0 | средний | $143.59 | $861.54 | Deluxe Garden View | да | да | есть места |
-| Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 5.0 | средний | $146.29 | $877.72 | 1 King Standard Accessible | да | да | есть места |
-| M Village Phu Quoc | Duong Dong | 4.0 | менее известный | $153.33 | $919.98 | Exotic Joy Double House | да | да | есть места |
-| Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | популярный | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | да | нет | есть места |
-| Mango Bay Resort | Ong Lang | 3.0 | средний | $168.48 | $1,010.88 | Superior Rammed Earth Bungalow Garden View | да | да | есть места |
-| Chen Sea Resort and Spa Phu Quoc | Ong Lang | 4.5 | средний | $201.02 | $1,206.12 | Beach Front Villa | да | да | есть места |
-| Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | менее известный | $202.17 | $1,213.02 | Jungle Bungalow | да | да | есть места |
-| La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | популярный | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | нет | нет | есть места |
-| Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | популярный | $209.80 | $1,258.78 | Deluxe Room | да | нет | есть места |
-| Cassia Cottage Resort and Spa | Long Beach | 4.0 | средний | $224.41 | $1,346.46 | Garden Cottage Room | да | нет | есть места |
-| L'Azure Resort and Spa | Long Beach | 4.5 | менее известный | $224.57 | $1,347.42 | Executive Garden View Suite | да | да | есть места |
-| WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | менее известный | $246.97 | $1,481.82 | Deluxe King Garden View | нет | да | есть места |
-| Dusit Princess Moonrise Beach Resort | Long Beach | 5.0 | средний | $247.29 | $1,483.71 | Junior Suite | да | нет | есть места |
-| New World Phu Quoc Resort | Bai Khem | 5.0 | популярный | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | да | да | есть места |
-| InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | популярный | $264.22 | $1,585.32 | 1 Bedroom Residence | да | да | есть места |
-| Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | популярный | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | да | нет | есть места |
-| Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | популярный | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | да | нет | есть места |
-| Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | менее известный | $337.06 | $2,022.36 | Family Bungalow with Garden View | да | да | есть места |
-| Sunset Sanato Resort & Villas | Long Beach | 5.0 | средний | $351.79 | $2,110.74 | 1 Bedroom Private Pool Villa | да | да | есть места |
-| Sailing Club Signature Resort Phu Quoc | Long Beach | 5.0 | средний | $372.71 | $2,236.26 | 2-Bedroom Signature Deluxe Pool Villa | да | да | есть места |
-| Seashells Phu Quoc Hotel & Spa | Long Beach | 5.0 | средний | $388.72 | $2,332.32 | 2 Bedroom Suite, 2 Double | да | да | есть места |
-| JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | популярный | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | да | да | есть места |
-| Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | популярный | $500.47 | $3,002.82 | Resort View Suite | да | да | есть места |
-| Fusion Resort Phu Quoc - All Spa Inclusive | Vung Bau | 5.0 | популярный | — | — | — | — | — | нет тарифа на даты |
-| Nam Nghi Coral Peninsula Phu Quoc | Vung Bau | 5.0 | средний | — | — | — | — | — | нет тарифа на даты |
-| Ann Hotel & Spa Khem Beach PQ | Bai Khem | 3.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| Sunset Beach Resort & Spa - Beachfront Pirate Fire Show  | Long Beach | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| The Palmy Phu Quoc Resort and Spa | Long Beach | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| Novus Sol Hotel & Apartment Sunset Town Phu Quoc | An Thoi | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
+| 9.29 | Wyndham Grand Phu Quoc | Bai Dai | 300 м, пешком ~4 мин | 3 км / 8 мин | на территории: лагуна с горками + kids area; VinWonders 1,2 км | современный 8.9 — сеть 5★, номера современные, не «икона дизайна» | beachfront | 28 км / 45 мин | $114.87 |
+| 8.57 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 1,4 км / 15 мин | 4,7 км / 10 мин | VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса | стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн | beachfront | 28 км / 45 мин | $104.37 |
+| 8.47 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 150 м, пешком ~3 мин | 3,5 км / 10 мин | splash / горка: горка в бассейне; VinWonders ~1 км | современный 7.7 — 4★ pragmatic, новые корпуса у Grand World | 80 м | 28 км / 45 мин | $106.36 |
+| 8.41 | Radisson Blu Resort Phu Quoc | Bai Dai | 500 м, пешком ~8 мин | 4 км / 10 мин | VinWonders рядом: пешком к Grand World; VinWonders рядом | современный 7.7 — value 5★, светлые современные deluxe | beachfront | 27 км / 42 мин | $96.94 |
+| 8.36 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 2,5 км / 8 мин | 5 км / 12 мин | VinWonders рядом: свой большой пул; аквапарк — VinWonders (VinBus) | стандарт 8.8 — Marriott 5★, неоклассика, не самый новый корпус | 100 м | 26 км / 40 мин | $129.18 |
+| 8.26 | Melia Vinpearl Phu Quoc | Bai Dai | 2 км / 8 мин | 5 км / 12 мин | VinWonders рядом: VinBus до VinWonders / Grand World / Safari | вилла 7.6 — виллы с private pool, современный семейный формат | beachfront | 28 км / 45 мин | $314.49 |
+| 8.17 | Peppercorn Beach Resort | Bai Dai | 3,5 км / 10 мин | 5,5 км / 12 мин | splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders | бутик 9.2 — маленький курорт, уютнее сетей | beachfront | 27 км / 42 мин | $126.19 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 7.96 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders | современный 10.0 — новые suite 2023, один из лучших roomComfort на острове | 80 м | 22 км / 35 мин | $500.47 |
+| 5.23 | Sunset Sanato Resort & Villas | Long Beach | 30 км / 45 мин | 34 км / 50 мин | на территории: Sanato Water Park на территории (открыт янв 2026) | вилла 7.6 — виллы с private pool, инстаграм-арт, не классический «номер» | beachfront | 8 км / 15 мин | $351.79 |
+| 5.20 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | вилла 9.3 — крупные family bungalow | beachfront | 12 км / 20 мин | $337.06 |
+| 5.04 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | эко 8.4 — jungle bungalow | beachfront | 12 км / 20 мин | $202.17 |
+
+
+### Ближе всех к Grand World
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.47 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 150 м, пешком ~3 мин | 3,5 км / 10 мин | splash / горка: горка в бассейне; VinWonders ~1 км | современный 7.7 — 4★ pragmatic, новые корпуса у Grand World | 80 м | 28 км / 45 мин | $106.36 |
+| 9.29 | Wyndham Grand Phu Quoc | Bai Dai | 300 м, пешком ~4 мин | 3 км / 8 мин | на территории: лагуна с горками + kids area; VinWonders 1,2 км | современный 8.9 — сеть 5★, номера современные, не «икона дизайна» | beachfront | 28 км / 45 мин | $114.87 |
+| 8.41 | Radisson Blu Resort Phu Quoc | Bai Dai | 500 м, пешком ~8 мин | 4 км / 10 мин | VinWonders рядом: пешком к Grand World; VinWonders рядом | современный 7.7 — value 5★, светлые современные deluxe | beachfront | 27 км / 42 мин | $96.94 |
+| 8.57 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 1,4 км / 15 мин | 4,7 км / 10 мин | VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса | стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн | beachfront | 28 км / 45 мин | $104.37 |
+| 8.26 | Melia Vinpearl Phu Quoc | Bai Dai | 2 км / 8 мин | 5 км / 12 мин | VinWonders рядом: VinBus до VinWonders / Grand World / Safari | вилла 7.6 — виллы с private pool, современный семейный формат | beachfront | 28 км / 45 мин | $314.49 |
+| 8.36 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 2,5 км / 8 мин | 5 км / 12 мин | VinWonders рядом: свой большой пул; аквапарк — VinWonders (VinBus) | стандарт 8.8 — Marriott 5★, неоклассика, не самый новый корпус | 100 м | 26 км / 40 мин | $129.18 |
+| 8.17 | Peppercorn Beach Resort | Bai Dai | 3,5 км / 10 мин | 5,5 км / 12 мин | splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders | бутик 9.2 — маленький курорт, уютнее сетей | beachfront | 27 км / 42 мин | $126.19 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 7.96 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders | современный 10.0 — новые suite 2023, один из лучших roomComfort на острове | 80 м | 22 км / 35 мин | $500.47 |
+| 5.20 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | вилла 9.3 — крупные family bungalow | beachfront | 12 км / 20 мин | $337.06 |
+| 5.04 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | эко 8.4 — jungle bungalow | beachfront | 12 км / 20 мин | $202.17 |
+| 4.72 | Bamboo Cottages | Vung Bau | 14 км / 22 мин | 11 км / 18 мин | нет рядом: севернее Лонг-Бич; Safari ближе, чем центр | эко 7.0 — бамбуковые коттеджи | beachfront | 22 км / 35 мин | $69.41 |
+
+
+### Ближе всех к Vinpearl Safari
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.29 | Wyndham Grand Phu Quoc | Bai Dai | 300 м, пешком ~4 мин | 3 км / 8 мин | на территории: лагуна с горками + kids area; VinWonders 1,2 км | современный 8.9 — сеть 5★, номера современные, не «икона дизайна» | beachfront | 28 км / 45 мин | $114.87 |
+| 8.47 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 150 м, пешком ~3 мин | 3,5 км / 10 мин | splash / горка: горка в бассейне; VinWonders ~1 км | современный 7.7 — 4★ pragmatic, новые корпуса у Grand World | 80 м | 28 км / 45 мин | $106.36 |
+| 8.41 | Radisson Blu Resort Phu Quoc | Bai Dai | 500 м, пешком ~8 мин | 4 км / 10 мин | VinWonders рядом: пешком к Grand World; VinWonders рядом | современный 7.7 — value 5★, светлые современные deluxe | beachfront | 27 км / 42 мин | $96.94 |
+| 8.57 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 1,4 км / 15 мин | 4,7 км / 10 мин | VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса | стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн | beachfront | 28 км / 45 мин | $104.37 |
+| 8.36 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 2,5 км / 8 мин | 5 км / 12 мин | VinWonders рядом: свой большой пул; аквапарк — VinWonders (VinBus) | стандарт 8.8 — Marriott 5★, неоклассика, не самый новый корпус | 100 м | 26 км / 40 мин | $129.18 |
+| 8.26 | Melia Vinpearl Phu Quoc | Bai Dai | 2 км / 8 мин | 5 км / 12 мин | VinWonders рядом: VinBus до VinWonders / Grand World / Safari | вилла 7.6 — виллы с private pool, современный семейный формат | beachfront | 28 км / 45 мин | $314.49 |
+| 8.17 | Peppercorn Beach Resort | Bai Dai | 3,5 км / 10 мин | 5,5 км / 12 мин | splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders | бутик 9.2 — маленький курорт, уютнее сетей | beachfront | 27 км / 42 мин | $126.19 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 7.96 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders | современный 10.0 — новые suite 2023, один из лучших roomComfort на острове | 80 м | 22 км / 35 мин | $500.47 |
+| 4.72 | Bamboo Cottages | Vung Bau | 14 км / 22 мин | 11 км / 18 мин | нет рядом: севернее Лонг-Бич; Safari ближе, чем центр | эко 7.0 — бамбуковые коттеджи | beachfront | 22 км / 35 мин | $69.41 |
+| 5.20 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | вилла 9.3 — крупные family bungalow | beachfront | 12 км / 20 мин | $337.06 |
+| 5.04 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | эко 8.4 — jungle bungalow | beachfront | 12 км / 20 мин | $202.17 |
+
+
+### Аквапарк на территории или рядом
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.29 | Wyndham Grand Phu Quoc | Bai Dai | 300 м, пешком ~4 мин | 3 км / 8 мин | на территории: лагуна с горками + kids area; VinWonders 1,2 км | современный 8.9 — сеть 5★, номера современные, не «икона дизайна» | beachfront | 28 км / 45 мин | $114.87 |
+| 8.57 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 1,4 км / 15 мин | 4,7 км / 10 мин | VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса | стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн | beachfront | 28 км / 45 мин | $104.37 |
+| 8.47 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 150 м, пешком ~3 мин | 3,5 км / 10 мин | splash / горка: горка в бассейне; VinWonders ~1 км | современный 7.7 — 4★ pragmatic, новые корпуса у Grand World | 80 м | 28 км / 45 мин | $106.36 |
+| 8.41 | Radisson Blu Resort Phu Quoc | Bai Dai | 500 м, пешком ~8 мин | 4 км / 10 мин | VinWonders рядом: пешком к Grand World; VinWonders рядом | современный 7.7 — value 5★, светлые современные deluxe | beachfront | 27 км / 42 мин | $96.94 |
+| 8.36 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 2,5 км / 8 мин | 5 км / 12 мин | VinWonders рядом: свой большой пул; аквапарк — VinWonders (VinBus) | стандарт 8.8 — Marriott 5★, неоклассика, не самый новый корпус | 100 м | 26 км / 40 мин | $129.18 |
+| 8.26 | Melia Vinpearl Phu Quoc | Bai Dai | 2 км / 8 мин | 5 км / 12 мин | VinWonders рядом: VinBus до VinWonders / Grand World / Safari | вилла 7.6 — виллы с private pool, современный семейный формат | beachfront | 28 км / 45 мин | $314.49 |
+| 8.17 | Peppercorn Beach Resort | Bai Dai | 3,5 км / 10 мин | 5,5 км / 12 мин | splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders | бутик 9.2 — маленький курорт, уютнее сетей | beachfront | 27 км / 42 мин | $126.19 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 7.96 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders | современный 10.0 — новые suite 2023, один из лучших roomComfort на острове | 80 м | 22 км / 35 мин | $500.47 |
+| 5.23 | Sunset Sanato Resort & Villas | Long Beach | 30 км / 45 мин | 34 км / 50 мин | на территории: Sanato Water Park на территории (открыт янв 2026) | вилла 7.6 — виллы с private pool, инстаграм-арт, не классический «номер» | beachfront | 8 км / 15 мин | $351.79 |
+| 4.92 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 35 км / 50 мин | 39 км / 55 мин | splash / горка: splash-зона kids club; большой аквапарк — день-трип | современный 9.8 — современный IHG, residence 1BR, сильный дизайн общественных зо | beachfront | 8 км / 15 мин | $264.22 |
+| 4.88 | New World Phu Quoc Resort | Bai Khem | 50 км / 70 мин | 54 км / 78 мин | на территории: Aqua World: горки и splash на территории; Grand World далеко | вилла 8.7 — новые pool villa, современный семейный курорт | beachfront | 26 км / 40 мин | $251.98 |
+
+
+### Современный / красивый номер (roomComfort + стиль)
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7.96 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: 8–12 мин до Grand World / Safari / VinWonders | современный 10.0 — новые suite 2023, один из лучших roomComfort на острове | 80 м | 22 км / 35 мин | $500.47 |
+| 3.90 | WorldHotels Long Beach Resort Phu Quoc | Long Beach | 33 км / 48 мин | 37 км / 54 мин | нет рядом: аквапарк только поездкой на север или юг | современный 10.0 — новый resort, высокие оценки номера при малом n отзывов | 90 м | 6 км / 12 мин | $246.97 |
+| 3.41 | JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 50 км / 70 мин | 54 км / 78 мин | нет рядом: восток: спокойное море, далеко от Grand World | дизайн 10.0 — Bill Bensley — самый «красивый» дизайн острова, не минимализм | beachfront | 26 км / 40 мин | $458.81 |
+| 4.00 | Dusit Princess Moonrise Beach Resort | Long Beach | 33 км / 48 мин | 37 км / 54 мин | нет рядом: аквапарк только поездкой на север или юг | современный 9.9 — Dusit beachfront, сильный roomComfort | beachfront | 6 км / 12 мин | $247.29 |
+| 3.72 | L'Azure Resort and Spa | Long Beach | 31 км / 45 мин | 35 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | современный 9.9 — высокие оценки, в выдаче часто suite | 220 м | 5 км / 10 мин | $224.57 |
+| 3.56 | Green Inn Phu Quoc Hotel | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | современный 9.9 — высокие оценки номера, мало отзывов, не люкс | 460 м | 4 км / 8 мин | $58.58 |
+| 4.92 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 35 км / 50 мин | 39 км / 55 мин | splash / горка: splash-зона kids club; большой аквапарк — день-трип | современный 9.8 — современный IHG, residence 1BR, сильный дизайн общественных зо | beachfront | 8 км / 15 мин | $264.22 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 4.96 | Camia Resort & Spa | Ong Lang | 16 км / 25 мин | 20 км / 32 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | бутик 9.6 — тихий Ong Lang, узкий/каменистый пляж, закаты | beachfront | 10 км / 18 мин | $143.59 |
+| 3.61 | Soul Boutique Hotel Phu Quoc | Long Beach | 34 км / 50 мин | 38 км / 55 мин | нет рядом: аквапарк только поездкой на север или юг | современный 9.6 — новый бутик 2024; завтрак/бассейн часто в Sailing Club | 200 м | 8 км / 15 мин | $93.96 |
+| 3.35 | Lahana Resort Phu Quoc & Spa | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | бутик 9.6 — 4★ на холме с видом на море; не beachfront | 700 м | 3,5 км / 10 мин | $111.45 |
+| 3.93 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 31 км / 45 мин | 35 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | бутик 9.5 — бутик, красиво и ухоженно, не «новый стеклянный» | beachfront | 4,5 км / 10 мин | $209.80 |
+
+
+### Ближе к морю
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.29 | Wyndham Grand Phu Quoc | Bai Dai | 300 м, пешком ~4 мин | 3 км / 8 мин | на территории: лагуна с горками + kids area; VinWonders 1,2 км | современный 8.9 — сеть 5★, номера современные, не «икона дизайна» | beachfront | 28 км / 45 мин | $114.87 |
+| 8.57 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 1,4 км / 15 мин | 4,7 км / 10 мин | VinWonders рядом: VinWonders Typhoon World ~15 мин пешком; VinBus внутри комплекса | стандарт 8.7 — классика Vinpearl ~2014, просторные, не самый свежий дизайн | beachfront | 28 км / 45 мин | $104.37 |
+| 8.41 | Radisson Blu Resort Phu Quoc | Bai Dai | 500 м, пешком ~8 мин | 4 км / 10 мин | VinWonders рядом: пешком к Grand World; VinWonders рядом | современный 7.7 — value 5★, светлые современные deluxe | beachfront | 27 км / 42 мин | $96.94 |
+| 8.26 | Melia Vinpearl Phu Quoc | Bai Dai | 2 км / 8 мин | 5 км / 12 мин | VinWonders рядом: VinBus до VinWonders / Grand World / Safari | вилла 7.6 — виллы с private pool, современный семейный формат | beachfront | 28 км / 45 мин | $314.49 |
+| 8.17 | Peppercorn Beach Resort | Bai Dai | 3,5 км / 10 мин | 5,5 км / 12 мин | splash / горка: Agoda помечает water park — небольшой kids/slides, не VinWonders | бутик 9.2 — маленький курорт, уютнее сетей | beachfront | 27 км / 42 мин | $126.19 |
+| 8.01 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 3,6 км / 8 мин | 7 км / 12 мин | VinWonders рядом: как у Regent: ~10 мин до парков | современный 9.6 — новый IHG 2023, современный 5★ дешевле Regent | beachfront | 22 км / 35 мин | $146.29 |
+| 5.23 | Sunset Sanato Resort & Villas | Long Beach | 30 км / 45 мин | 34 км / 50 мин | на территории: Sanato Water Park на территории (открыт янв 2026) | вилла 7.6 — виллы с private pool, инстаграм-арт, не классический «номер» | beachfront | 8 км / 15 мин | $351.79 |
+| 5.20 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | вилла 9.3 — крупные family bungalow | beachfront | 12 км / 20 мин | $337.06 |
+| 5.04 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 14 км / 22 мин | 18 км / 28 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | эко 8.4 — jungle bungalow | beachfront | 12 км / 20 мин | $202.17 |
+| 4.96 | Camia Resort & Spa | Ong Lang | 16 км / 25 мин | 20 км / 32 мин | нет рядом: VinBus вдоль западного берега до Grand World ~25–30 мин | бутик 9.6 — тихий Ong Lang, узкий/каменистый пляж, закаты | beachfront | 10 км / 18 мин | $143.59 |
+| 4.92 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 35 км / 50 мин | 39 км / 55 мин | splash / горка: splash-зона kids club; большой аквапарк — день-трип | современный 9.8 — современный IHG, residence 1BR, сильный дизайн общественных зо | beachfront | 8 км / 15 мин | $264.22 |
+| 4.88 | New World Phu Quoc Resort | Bai Khem | 50 км / 70 мин | 54 км / 78 мин | на территории: Aqua World: горки и splash на территории; Grand World далеко | вилла 8.7 — новые pool villa, современный семейный курорт | beachfront | 26 км / 40 мин | $251.98 |
+
+
+### Ближе к центру (Dương Đông)
+
+| Fit | Отель | Район | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.87 | Praha Hotel | Duong Dong | 28 км / 40 мин | 32 км / 48 мин | нет рядом: ночной рынок пешком; аквапарк — день-трип | стандарт 9.4 — у ночного рынка; roomComfort высокий для 3★ | 320 м | 300 м / 4 мин | $67.40 |
+| 3.55 | An Phu Hotel | Duong Dong | 28 км / 40 мин | 32 км / 48 мин | нет рядом: ночной рынок пешком; аквапарк — день-трип | стандарт 8.5 — городская база у ночного рынка | 920 м | 400 м / 5 мин | $33.48 |
+| 4.08 | Brenta Phu Quoc Hotel | Duong Dong | 28 км / 40 мин | 32 км / 48 мин | нет рядом: ночной рынок пешком; аквапарк — день-трип | стандарт 8.1 — город + почти пляж | beachfront | 800 м / 6 мин | $60.63 |
+| 3.84 | La Veranda Resort Phu Quoc - MGallery | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | колониальный 8.8 — колониальный MGallery — красиво, но не современный минимализм | beachfront | 2,5 км / 8 мин | $208.20 |
+| 3.35 | Lahana Resort Phu Quoc & Spa | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | бутик 9.6 — 4★ на холме с видом на море; не beachfront | 700 м | 3,5 км / 10 мин | $111.45 |
+| 3.28 | M Village Phu Quoc | Duong Dong | 29 км / 42 мин | 33 км / 48 мин | нет рядом: ночной рынок пешком; аквапарк — день-трип | бутик 9.2 — домики на холме у Cua Lap, не пляж | 900 м | 3,5 км / 10 мин | $153.33 |
+| 3.56 | Green Inn Phu Quoc Hotel | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | современный 9.9 — высокие оценки номера, мало отзывов, не люкс | 460 м | 4 км / 8 мин | $58.58 |
+| 2.90 | Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 30 км / 42 мин | 34 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | простой / устаревший 6.2 — сеть value, отзывы скромнее, номера проще | 310 м | 4 км / 8 мин | $49.78 |
+| 3.93 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 31 км / 45 мин | 35 км / 50 мин | нет рядом: аквапарк только поездкой на север или юг | бутик 9.5 — бутик, красиво и ухоженно, не «новый стеклянный» | beachfront | 4,5 км / 10 мин | $209.80 |
+| 3.86 | Novotel Phu Quoc Resort | Long Beach | 32 км / 45 мин | 36 км / 52 мин | нет рядом: аквапарк только поездкой на север или юг | стандарт 9.1 — предсказуемый Novotel, сад/twin, не wow-дизайн | beachfront | 5 км / 10 мин | $111.09 |
+
+
+## Топ-10 по рейтингу (с ценой на даты)
+
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | Ночь | Фичи |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.56 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | 9.4 | 9.5 (Rice Market — большой люкс-buffet) | $500.47 | Airport transfer, 80 meters to the beach, Currency exchange, Spa, Kids club |
+| 9.45 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | 9.4 | 9.1 (фирменный sparkling wine breakfast) | $209.80 | beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids c |
+| 9.28 | JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | 9.2 | 9.2 (люкс-buffet + несколько ресторанов) | $458.81 | beachfront, Airport transfer, Air conditioning, Currency exchange, Spa, Kids clu |
+| 9.27 | WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | 9.3 | 8.4 | $246.97 | Free airport transfer, 90 meters to the beach, Currency exchange, Spa, Kids club |
+| 9.24 | Dusit Princess Moonrise Beach Resort | Long Beach | 5.0 | 9.2 | 8.8 | $247.29 | beachfront, Free airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa |
+| 9.24 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | 9.0 | 9.3 (Sora & Umi buffet / Club lounge) | $264.22 | beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids |
+| 9.18 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 5.0 | 9.1 | 8.7 | $146.29 | beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids c |
+| 9.14 | L'Azure Resort and Spa | Long Beach | 4.5 | 9.2 | 8.4 | $224.57 | beachfront, Free airport transfer, 220 meters to the beach, Currency exchange, P |
+| 9.12 | Green Inn Phu Quoc Hotel | Long Beach | 3.0 | 9.6 | 8.2 | $58.58 | Airport transfer, 460 meters to the beach, Currency exchange, Spa |
+| 9.12 | La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | 9.1 | 8.4 (бутик-завтрак MGallery) | $208.20 | beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids c |
+
+
+## Все отели с тарифом (по рейтингу)
+
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.56 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | 9.4 | 9.5 (Rice Market — большой люкс-buffet) | да | $500.47 | $3,002.82 | Resort View Suite | Ультра-люкс IHG Starbay: новые suite, сильнейший F&B; ~8 мин до Grand World, ~12 мин до Safari. · Airport transfer, 80 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.45 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | 9.4 | 9.1 (фирменный sparkling wine breakfast) | да | $209.80 | $1,258.78 | Deluxe Room | Бутик Long Beach: sparkling wine breakfast, private beach; до города ~10 мин, до Grand World ~45 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 9.28 | JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | 9.2 | 9.2 (люкс-buffet + несколько ресторанов) | да | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | Икона острова (дизайн Bill Bensley): Bai Khem, спокойное море в октябре; Grand World / Safari ~70 мин — плохо, если цель парки. · beachfront, Airport transfer, Air conditioning, Currency exchange, Spa, Kids club | да | есть места |
+| 9.27 | WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | 9.3 | 8.4 | нет | $246.97 | $1,481.82 | Deluxe King Garden View | Новый Long Beach resort (WorldHotels): высокие оценки при малом числе отзывов; сверить категорию номера. · Free airport transfer, 90 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.24 | Dusit Princess Moonrise Beach Resort | Long Beach | 5.0 | 9.2 | 8.8 | да | $247.29 | $1,483.71 | Junior Suite | Dusit beachfront Long Beach: сильные отзывы, private beach, Thai-сеть; хороший mid-luxury. · beachfront, Free airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa | нет | есть места |
+| 9.24 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | 9.0 | 9.3 (Sora & Umi buffet / Club lounge) | да | $264.22 | $1,585.32 | 1 Bedroom Residence | Крупный IHG на Long Beach: свой пляж, kids splash, резиденции 1BR+, сильный завтрак; до Grand World ~50 мин. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 9.18 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 5.0 | 9.1 | 8.7 | да | $146.29 | $877.72 | 1 King Standard Accessible | Новый IHG Starbay: современные номера, beachfront; ~8 мин до Grand World, ~12 мин до Safari, дешевле Regent. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.14 | L'Azure Resort and Spa | Long Beach | 4.5 | 9.2 | 8.4 | да | $224.57 | $1,347.42 | Executive Garden View Suite | L'Azure: высокие оценки, private beach ~200 м; в выдаче часто executive suite. · beachfront, Free airport transfer, 220 meters to the beach, Currency exchange, Private beach, Spa | да | есть места |
+| 9.12 | Green Inn Phu Quoc Hotel | Long Beach | 3.0 | 9.6 | 8.2 | да | $58.58 | $351.48 | Family Junior Suite | Green Inn: очень высокие оценки (мало отзывов), ~460 м до пляжа, family suite; не люкс-бренд. · Airport transfer, 460 meters to the beach, Currency exchange, Spa | да | есть места |
+| 9.12 | La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | 9.1 | 8.4 (бутик-завтрак MGallery) | нет | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | MGallery колониальный бутик Long Beach: атмосфера, private beach, сильная репутация у пар; завтрак часто не в дешёвом тарифе. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 9.04 | Seashells Phu Quoc Hotel & Spa | Long Beach | 5.0 | 9.0 | 8.5 | да | $388.72 | $2,332.32 | 2 Bedroom Suite, 2 Double | Очень много отзывов, beachfront Long Beach; в дешёвой выдаче часто 2BR suite — смотреть тип номера. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.02 | Sailing Club Signature Resort Phu Quoc | Long Beach | 5.0 | 8.9 | 8.6 | да | $372.71 | $2,236.26 | 2-Bedroom Signature Deluxe Pool Villa | Signature pool villas Long Beach (часто 2BR): дизайн Sailing Club, для компаний, не стандарт. · beachfront, Airport transfer, Free Wi-Fi in all rooms!, Currency exchange, Spa, Kids club | да | есть места |
+| 9.01 | Lahana Resort Phu Quoc & Spa | Long Beach | 4.0 | 9.1 | 8.4 (не пляж: холм, 7–10 мин до воды) | да | $111.45 | $668.70 | Deluxe Double Garden View | 4★ на холме Long Beach: лучшая репутация в новой четвёрке (Agoda 9.1 / 7.5k), не beachfront — 7–10 мин до воды. · Airport transfer, 520 meters to the beach, Breakfast [free], Spa | нет | есть места |
+| 8.96 | Cassia Cottage Resort and Spa | Long Beach | 4.0 | 9.2 | 8.1 | да | $224.41 | $1,346.46 | Garden Cottage Room | Бутик-коттеджи в саду Long Beach: private beach, spa, романтика; не «большой» курорт. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.96 | Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | 8.9 | 8.4 | да | $96.94 | $581.64 | Deluxe Room (King/Twin) | Value 5★ Bai Dai: ~500 м пешком до Grand World, Safari ~10 мин; лучший баланс цена/парки/море. · beachfront, Airport transfer, Private beach, Currency exchange, Kids club | нет | есть места |
+| 8.93 | Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | 8.8 | 8.5 | да | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | Accor beachfront Long Beach: современные номера 5★; удобная база на западе, парки севера — ~50 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.88 | Camia Resort & Spa | Ong Lang | 4.0 | 9.0 | 8.2 | да | $143.59 | $861.54 | Deluxe Garden View | Тихий Ong Lang 4★, свой узкий/каменистый пляж, закаты; Agoda 9.0 / Booking 9.3 / TA 4.8. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.87 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | 8.9 | 8.2 | да | $202.17 | $1,213.02 | Jungle Bungalow | Jungle bungalow Ong Lang: природа и тишина, свой пляж; не центр развлечений. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.86 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | 8.8 | 8.4 | да | $104.37 | $626.22 | Deluxe Twin | Bai Dai у VinWonders: 1,4 км / пешком до Grand World, Safari 4,7 км, VinBus по комплексу; номера не самые новые. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.86 | New World Phu Quoc Resort | Bai Khem | 5.0 | 8.7 | 8.6 | да | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | Восток Bai Khem, виллы с бассейном + Aqua World (горки на территории); море спокойное, парки севера далеко. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.82 | Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | 8.7 | 8.5 | да | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | Mövenpick на тихом Ong Lang: спокойнее Long Beach, сад/балкон, mid-luxury без толпы. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.80 | Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.3 | да | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | Accor suite на Bai Khem у JW: восток, спокойнее море, заметно дешевле JW Marriott. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.78 | Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | 8.9 | 8.0 (завтрак часто в Sailing Club (шаттл)) | да | $93.96 | $563.76 | Soul Deluxe | Новый бутик 2024 на юге Long Beach; завтрак и бассейн часто через Sailing Club (шаттл), не в здании. · beachfront, Airport transfer, 40 meters to the beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.78 | Movenpick Villas & Residences Phu Quoc | Ong Lang | 5.0 | 8.7 | 8.4 | да | $101.39 | $608.34 | Studio King Room with Balcony | Виллы/студии Mövenpick Ong Lang: больше приватности, тот же тихий район. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.77 | M Village Phu Quoc | Duong Dong | 4.0 | 8.9 | 7.6 | да | $153.33 | $919.98 | Exotic Joy Double House | Домики на холме у Cua Lap (не пляж). Agoda 8.9, но Booking 8.3 — шум, слабее Lahana/Soul за $153. · Airport transfer, 380 meters to the beach, Free Wi-Fi in all rooms!, Spa | да | есть места |
+| 8.76 | Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.5 | да | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | Accor на Bai Khem: семейные виллы 2–3BR с private pool; купаться в октябре удобно, до Grand World час+. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | нет | есть места |
+| 8.75 | Novotel Phu Quoc Resort | Long Beach | 5.0 | 8.7 | 8.0 | да | $111.09 | $666.54 | Superior Twin Garden View | Accor Long Beach: надёжный семейный 5★, сад и пляж, предсказуемый сервис Novotel. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.73 | Mango Bay Resort | Ong Lang | 3.0 | 8.9 | 8.8 (сильный foodDining у эко-курорта) | да | $168.48 | $1,010.88 | Superior Rammed Earth Bungalow Garden View | Эко-бунгало Ong Lang (rammed earth): природа, тишина, сильный food score; без люкс-глянца. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.71 | Bamboo Cottages | Vung Bau | 3.0 | 9.0 | 8.2 | да | $69.41 | $416.46 | Superior - Garden View | Эко Bamboo Cottages Vung Bau: private beach, высокие оценки еды/сервиса; уединение. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.69 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | 8.8 | 7.8 | да | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | Marriott Bai Dai: beachfront 5★, VinBus до Grand World / VinWonders / Safari; номера не самые новые. · beachfront, Airport transfer, 100 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.69 | Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.3 | да | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | Vinpearl-виллы у озера с private pool; VinBus до Grand World / Safari / VinWonders; не стандартный номер. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | нет | есть места |
+| 8.68 | Wyndham Grand Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.2 | да | $114.87 | $689.22 | Superior Twin | Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.67 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | 8.7 | 8.0 | да | $106.36 | $638.16 | Superior Twin Room | Wyndham Garden внутри Grand World: пешком до шоу/каналов, горка в бассейне, VinWonders ~1 км; 4★ не люкс. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.66 | Chen Sea Resort and Spa Phu Quoc | Ong Lang | 4.5 | 8.8 | 7.6 | да | $201.02 | $1,206.12 | Beach Front Villa | Chen Sea / The Slate Ong Lang: beach villa, джунгли у моря, пары; тихий запад. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.64 | Best Western Premier Sonasea Phu Quoc | Long Beach | — | 8.6 | 8.2 | да | $98.94 | $593.64 | Deluxe King Garden View | Недооценённый 5★ Sonasea Long Beach: spa/бассейн, ближе к пляжу пешком, value vs бренды. · Airport transfer, 250 meters to the beach, Currency exchange, Spa, Yoga room | нет | есть места |
+| 8.57 | Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | 8.8 | 7.8 | да | $89.44 | $536.64 | Superior Double Room with Balcony | Coral Bay свой пляж Long Beach: mid 3★ beachfront без сети. · beachfront, Airport transfer, Private beach, Currency exchange, Spa/sauna | нет | есть места |
+| 8.57 | Famiana Resort and Spa | Long Beach | 4.5 | 8.7 | 7.6 | да | $93.81 | $562.86 | Deluxe Garden King Or Twin | Famiana mid-range Long Beach: семьи, сад, spa; разумный 4.5★ без люкс-ценника. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.56 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | 8.6 | 8.0 | да | $337.06 | $2,022.36 | Family Bungalow with Garden View | Grand Ocean Bay Ong Lang: крупные bungalow/family, beachfront; тихий севернее Long Beach. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.56 | SOL By Melia Phu Quoc | Long Beach | 5.0 | 8.5 | 8.1 | да | $107.46 | $644.79 | Standard Room | Meliá SOL — молодёжный 5★ Long Beach: тусовка/дизайн, ближе к вечеринкам, чем к тишине. · Free airport transfer, 270 meters to the beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.56 | Sunset Sanato Resort & Villas | Long Beach | 5.0 | 8.5 | 8.0 | да | $351.79 | $2,110.74 | 1 Bedroom Private Pool Villa | Sunset Sanato: виллы + Sanato Water Park на территории (янв 2026); Long Beach, до VinWonders ~30 км. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Water park | да | есть места |
+| 8.55 | Peppercorn Beach Resort | Bai Dai | 3.0 | 8.9 | 7.2 | нет | $126.19 | $757.14 | Double Room with Garden View | Небольшой Peppercorn Bai Dai: тише крупных сетей, сад; завтрак часто не включён. · beachfront, Balcony/terrace, Diving, Linens, Private beach, Spa | нет | есть места |
+| 8.49 | HAWAII RESORT PHU QUOC | Long Beach | 3.5 | 8.7 | 7.2 | да | $72.75 | $436.50 | Standard | Hawaii Resort Long Beach: простой локальный вариант; мало отзывов. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.47 | An Phu Hotel | Duong Dong | 3.0 | 8.7 | 7.5 | да | $33.48 | $200.88 | Superior Double Or Twin Bed | Центр Dương Đông: ночной рынок пешком, бюджет; пляж ~900 м, Grand World ~40 мин. · 920 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
+| 8.46 | Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | 8.5 | 7.8 | да | $83.89 | $503.34 | Superior Twin Room | Paralia на Bai Khem: лучший бюджетный восток для купания в октябре, 4★ у белого песка. · Airport transfer, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
+| 8.41 | Bauhinia Resort Phu Quoc | Long Beach | 3.0 | 8.7 | 7.5 | да | $65.86 | $395.18 | Superior Room King | Bauhinia Long Beach у моря: простой 3★ beachfront value. · 510 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | да | есть места |
+| 8.27 | Rocks Beach Boutique | Ham Ninh | 4.0 | 8.3 | 7.3 | нет | $38.53 | $231.18 | Deluxe Double Garden View | Boutique Ham Ninh (восток): тише, private beach/сад; мало тусовок. · beachfront, Free Wi-Fi in all rooms!, Air conditioning, Daily housekeeping, Private beach, Spa | да | есть места |
+| 8.14 | Praha Hotel | Duong Dong | 3.0 | 8.3 | 7.8 (часто без завтрака в дешёвом тарифе) | нет | $67.40 | $404.37 | Premium Room | Praha у ночного рынка Duong Dong: городская база; завтрак часто не в тарифе. · Free airport transfer, 320 meters to the beach, Free Wi-Fi in all rooms! | да | есть места |
+| 8.01 | An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | 8.4 | 6.5 (в дешёвом тарифе обычно без завтрака) | нет | $29.29 | $175.74 | Twin Room with Garden View | An Nhien: йога ежедневно, сад, доступ к пляжу; wellness-бюджет, завтрак обычно нет. · Airport transfer, 390 meters to the beach, Free Wi-Fi in all rooms!, Spa, Yoga room | да | есть места |
+| 7.86 | Brenta Phu Quoc Hotel | Duong Dong | 3.0 | 8.1 | 7.4 | да | $60.63 | $363.78 | Superior Double Room | Duong Dong у пляжа (~20 м): бюджет город+море; без бесплатной отмены в дешёвом тарифе. · Airport transfer, 20 meters to the beach, Currency exchange, Spa/sauna | нет | есть места |
+| 7.86 | Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | 7.9 | 7.4 | да | $49.78 | $298.68 | Deluxe Twin Beds | Сеть Mường Thanh Long Beach: дешёвый 4★ value; отзывы скромнее люкса. · Airport transfer, 310 meters to the beach, Currency exchange, Spa | да | есть места |
 
 
 ## Популярные
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | популярный | $96.94 | $581.64 | Deluxe Room (King/Twin) | да | нет | есть места |
-| Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | популярный | $104.37 | $626.22 | Deluxe Twin | да | да | есть места |
-| Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | популярный | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | да | нет | есть места |
-| Novotel Phu Quoc Resort | Long Beach | 5.0 | популярный | $111.09 | $666.54 | Superior Twin Garden View | да | нет | есть места |
-| Wyndham Grand Phu Quoc | Bai Dai | 5.0 | популярный | $114.87 | $689.22 | Superior Twin | да | да | есть места |
-| Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | популярный | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | да | да | есть места |
-| Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | популярный | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | да | нет | есть места |
-| Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | популярный | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | да | нет | есть места |
-| La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | популярный | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | нет | нет | есть места |
-| Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | популярный | $209.80 | $1,258.78 | Deluxe Room | да | нет | есть места |
-| New World Phu Quoc Resort | Bai Khem | 5.0 | популярный | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | да | да | есть места |
-| InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | популярный | $264.22 | $1,585.32 | 1 Bedroom Residence | да | да | есть места |
-| Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | популярный | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | да | нет | есть места |
-| Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | популярный | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | да | нет | есть места |
-| JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | популярный | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | да | да | есть места |
-| Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | популярный | $500.47 | $3,002.82 | Resort View Suite | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.56 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | 9.4 | 9.5 (Rice Market — большой люкс-buffet) | да | $500.47 | $3,002.82 | Resort View Suite | Ультра-люкс IHG Starbay: новые suite, сильнейший F&B; ~8 мин до Grand World, ~12 мин до Safari. · Airport transfer, 80 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.45 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | 9.4 | 9.1 (фирменный sparkling wine breakfast) | да | $209.80 | $1,258.78 | Deluxe Room | Бутик Long Beach: sparkling wine breakfast, private beach; до города ~10 мин, до Grand World ~45 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 9.28 | JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | 9.2 | 9.2 (люкс-buffet + несколько ресторанов) | да | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | Икона острова (дизайн Bill Bensley): Bai Khem, спокойное море в октябре; Grand World / Safari ~70 мин — плохо, если цель парки. · beachfront, Airport transfer, Air conditioning, Currency exchange, Spa, Kids club | да | есть места |
+| 9.24 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | 9.0 | 9.3 (Sora & Umi buffet / Club lounge) | да | $264.22 | $1,585.32 | 1 Bedroom Residence | Крупный IHG на Long Beach: свой пляж, kids splash, резиденции 1BR+, сильный завтрак; до Grand World ~50 мин. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 9.12 | La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | 9.1 | 8.4 (бутик-завтрак MGallery) | нет | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | MGallery колониальный бутик Long Beach: атмосфера, private beach, сильная репутация у пар; завтрак часто не в дешёвом тарифе. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.96 | Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | 8.9 | 8.4 | да | $96.94 | $581.64 | Deluxe Room (King/Twin) | Value 5★ Bai Dai: ~500 м пешком до Grand World, Safari ~10 мин; лучший баланс цена/парки/море. · beachfront, Airport transfer, Private beach, Currency exchange, Kids club | нет | есть места |
+| 8.93 | Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | 8.8 | 8.5 | да | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | Accor beachfront Long Beach: современные номера 5★; удобная база на западе, парки севера — ~50 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.86 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | 8.8 | 8.4 | да | $104.37 | $626.22 | Deluxe Twin | Bai Dai у VinWonders: 1,4 км / пешком до Grand World, Safari 4,7 км, VinBus по комплексу; номера не самые новые. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.86 | New World Phu Quoc Resort | Bai Khem | 5.0 | 8.7 | 8.6 | да | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | Восток Bai Khem, виллы с бассейном + Aqua World (горки на территории); море спокойное, парки севера далеко. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.82 | Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | 8.7 | 8.5 | да | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | Mövenpick на тихом Ong Lang: спокойнее Long Beach, сад/балкон, mid-luxury без толпы. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.80 | Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.3 | да | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | Accor suite на Bai Khem у JW: восток, спокойнее море, заметно дешевле JW Marriott. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.76 | Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.5 | да | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | Accor на Bai Khem: семейные виллы 2–3BR с private pool; купаться в октябре удобно, до Grand World час+. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | нет | есть места |
+| 8.75 | Novotel Phu Quoc Resort | Long Beach | 5.0 | 8.7 | 8.0 | да | $111.09 | $666.54 | Superior Twin Garden View | Accor Long Beach: надёжный семейный 5★, сад и пляж, предсказуемый сервис Novotel. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.69 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | 8.8 | 7.8 | да | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | Marriott Bai Dai: beachfront 5★, VinBus до Grand World / VinWonders / Safari; номера не самые новые. · beachfront, Airport transfer, 100 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.69 | Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.3 | да | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | Vinpearl-виллы у озера с private pool; VinBus до Grand World / Safari / VinWonders; не стандартный номер. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | нет | есть места |
+| 8.68 | Wyndham Grand Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.2 | да | $114.87 | $689.22 | Superior Twin | Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
 
 
 ## Менее известные
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | менее известный | $29.29 | $175.74 | Twin Room with Garden View | нет | да | есть места |
-| An Phu Hotel | Duong Dong | 3.0 | менее известный | $33.48 | $200.88 | Superior Double Or Twin Bed | да | да | есть места |
-| Rocks Beach Boutique | Ham Ninh | 4.0 | менее известный | $38.53 | $231.18 | Deluxe Double Garden View | нет | да | есть места |
-| Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | менее известный | $49.78 | $298.68 | Deluxe Twin Beds | да | да | есть места |
-| Green Inn Phu Quoc Hotel | Long Beach | 3.0 | менее известный | $58.58 | $351.48 | Family Junior Suite | да | да | есть места |
-| Brenta Phu Quoc Hotel | Duong Dong | 3.0 | менее известный | $60.63 | $363.78 | Superior Double Room | да | нет | есть места |
-| Bauhinia Resort Phu Quoc | Long Beach | 3.0 | менее известный | $65.86 | $395.18 | Superior Room King | да | да | есть места |
-| Praha Hotel | Duong Dong | 3.0 | менее известный | $67.40 | $404.37 | Premium Room | нет | да | есть места |
-| Bamboo Cottages | Vung Bau | 3.0 | менее известный | $69.41 | $416.46 | Superior - Garden View | да | да | есть места |
-| HAWAII RESORT PHU QUOC | Long Beach | 3.5 | менее известный | $72.75 | $436.50 | Standard | да | нет | есть места |
-| Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | менее известный | $83.89 | $503.34 | Superior Twin Room | да | да | есть места |
-| Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | менее известный | $89.44 | $536.64 | Superior Double Room with Balcony | да | нет | есть места |
-| Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | менее известный | $93.96 | $563.76 | Soul Deluxe | да | да | есть места |
-| Best Western Premier Sonasea Phu Quoc | Long Beach | — | менее известный | $98.94 | $593.64 | Deluxe King Garden View | да | нет | есть места |
-| Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | менее известный | $106.36 | $638.16 | Superior Twin Room | да | да | есть места |
-| Peppercorn Beach Resort | Bai Dai | 3.0 | менее известный | $126.19 | $757.14 | Double Room with Garden View | нет | нет | есть места |
-| M Village Phu Quoc | Duong Dong | 4.0 | менее известный | $153.33 | $919.98 | Exotic Joy Double House | да | да | есть места |
-| Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | менее известный | $202.17 | $1,213.02 | Jungle Bungalow | да | да | есть места |
-| L'Azure Resort and Spa | Long Beach | 4.5 | менее известный | $224.57 | $1,347.42 | Executive Garden View Suite | да | да | есть места |
-| WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | менее известный | $246.97 | $1,481.82 | Deluxe King Garden View | нет | да | есть места |
-| Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | менее известный | $337.06 | $2,022.36 | Family Bungalow with Garden View | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.27 | WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | 9.3 | 8.4 | нет | $246.97 | $1,481.82 | Deluxe King Garden View | Новый Long Beach resort (WorldHotels): высокие оценки при малом числе отзывов; сверить категорию номера. · Free airport transfer, 90 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.14 | L'Azure Resort and Spa | Long Beach | 4.5 | 9.2 | 8.4 | да | $224.57 | $1,347.42 | Executive Garden View Suite | L'Azure: высокие оценки, private beach ~200 м; в выдаче часто executive suite. · beachfront, Free airport transfer, 220 meters to the beach, Currency exchange, Private beach, Spa | да | есть места |
+| 9.12 | Green Inn Phu Quoc Hotel | Long Beach | 3.0 | 9.6 | 8.2 | да | $58.58 | $351.48 | Family Junior Suite | Green Inn: очень высокие оценки (мало отзывов), ~460 м до пляжа, family suite; не люкс-бренд. · Airport transfer, 460 meters to the beach, Currency exchange, Spa | да | есть места |
+| 8.87 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | 8.9 | 8.2 | да | $202.17 | $1,213.02 | Jungle Bungalow | Jungle bungalow Ong Lang: природа и тишина, свой пляж; не центр развлечений. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.78 | Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | 8.9 | 8.0 (завтрак часто в Sailing Club (шаттл)) | да | $93.96 | $563.76 | Soul Deluxe | Новый бутик 2024 на юге Long Beach; завтрак и бассейн часто через Sailing Club (шаттл), не в здании. · beachfront, Airport transfer, 40 meters to the beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.77 | M Village Phu Quoc | Duong Dong | 4.0 | 8.9 | 7.6 | да | $153.33 | $919.98 | Exotic Joy Double House | Домики на холме у Cua Lap (не пляж). Agoda 8.9, но Booking 8.3 — шум, слабее Lahana/Soul за $153. · Airport transfer, 380 meters to the beach, Free Wi-Fi in all rooms!, Spa | да | есть места |
+| 8.71 | Bamboo Cottages | Vung Bau | 3.0 | 9.0 | 8.2 | да | $69.41 | $416.46 | Superior - Garden View | Эко Bamboo Cottages Vung Bau: private beach, высокие оценки еды/сервиса; уединение. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.67 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | 8.7 | 8.0 | да | $106.36 | $638.16 | Superior Twin Room | Wyndham Garden внутри Grand World: пешком до шоу/каналов, горка в бассейне, VinWonders ~1 км; 4★ не люкс. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.64 | Best Western Premier Sonasea Phu Quoc | Long Beach | — | 8.6 | 8.2 | да | $98.94 | $593.64 | Deluxe King Garden View | Недооценённый 5★ Sonasea Long Beach: spa/бассейн, ближе к пляжу пешком, value vs бренды. · Airport transfer, 250 meters to the beach, Currency exchange, Spa, Yoga room | нет | есть места |
+| 8.57 | Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | 8.8 | 7.8 | да | $89.44 | $536.64 | Superior Double Room with Balcony | Coral Bay свой пляж Long Beach: mid 3★ beachfront без сети. · beachfront, Airport transfer, Private beach, Currency exchange, Spa/sauna | нет | есть места |
+| 8.56 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | 8.6 | 8.0 | да | $337.06 | $2,022.36 | Family Bungalow with Garden View | Grand Ocean Bay Ong Lang: крупные bungalow/family, beachfront; тихий севернее Long Beach. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.55 | Peppercorn Beach Resort | Bai Dai | 3.0 | 8.9 | 7.2 | нет | $126.19 | $757.14 | Double Room with Garden View | Небольшой Peppercorn Bai Dai: тише крупных сетей, сад; завтрак часто не включён. · beachfront, Balcony/terrace, Diving, Linens, Private beach, Spa | нет | есть места |
+| 8.49 | HAWAII RESORT PHU QUOC | Long Beach | 3.5 | 8.7 | 7.2 | да | $72.75 | $436.50 | Standard | Hawaii Resort Long Beach: простой локальный вариант; мало отзывов. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.47 | An Phu Hotel | Duong Dong | 3.0 | 8.7 | 7.5 | да | $33.48 | $200.88 | Superior Double Or Twin Bed | Центр Dương Đông: ночной рынок пешком, бюджет; пляж ~900 м, Grand World ~40 мин. · 920 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
+| 8.46 | Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | 8.5 | 7.8 | да | $83.89 | $503.34 | Superior Twin Room | Paralia на Bai Khem: лучший бюджетный восток для купания в октябре, 4★ у белого песка. · Airport transfer, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
+| 8.41 | Bauhinia Resort Phu Quoc | Long Beach | 3.0 | 8.7 | 7.5 | да | $65.86 | $395.18 | Superior Room King | Bauhinia Long Beach у моря: простой 3★ beachfront value. · 510 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | да | есть места |
+| 8.27 | Rocks Beach Boutique | Ham Ninh | 4.0 | 8.3 | 7.3 | нет | $38.53 | $231.18 | Deluxe Double Garden View | Boutique Ham Ninh (восток): тише, private beach/сад; мало тусовок. · beachfront, Free Wi-Fi in all rooms!, Air conditioning, Daily housekeeping, Private beach, Spa | да | есть места |
+| 8.14 | Praha Hotel | Duong Dong | 3.0 | 8.3 | 7.8 (часто без завтрака в дешёвом тарифе) | нет | $67.40 | $404.37 | Premium Room | Praha у ночного рынка Duong Dong: городская база; завтрак часто не в тарифе. · Free airport transfer, 320 meters to the beach, Free Wi-Fi in all rooms! | да | есть места |
+| 8.01 | An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | 8.4 | 6.5 (в дешёвом тарифе обычно без завтрака) | нет | $29.29 | $175.74 | Twin Room with Garden View | An Nhien: йога ежедневно, сад, доступ к пляжу; wellness-бюджет, завтрак обычно нет. · Airport transfer, 390 meters to the beach, Free Wi-Fi in all rooms!, Spa, Yoga room | да | есть места |
+| 7.86 | Brenta Phu Quoc Hotel | Duong Dong | 3.0 | 8.1 | 7.4 | да | $60.63 | $363.78 | Superior Double Room | Duong Dong у пляжа (~20 м): бюджет город+море; без бесплатной отмены в дешёвом тарифе. · Airport transfer, 20 meters to the beach, Currency exchange, Spa/sauna | нет | есть места |
+| 7.86 | Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | 7.9 | 7.4 | да | $49.78 | $298.68 | Deluxe Twin Beds | Сеть Mường Thanh Long Beach: дешёвый 4★ value; отзывы скромнее люкса. · Airport transfer, 310 meters to the beach, Currency exchange, Spa | да | есть места |
 
 
 ## По районам
 
+### Bai Dai / Starbay — север, Starbay / гольф
+
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.56 | Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | 9.4 | 9.5 (Rice Market — большой люкс-buffet) | да | $500.47 | $3,002.82 | Resort View Suite | Ультра-люкс IHG Starbay: новые suite, сильнейший F&B; ~8 мин до Grand World, ~12 мин до Safari. · Airport transfer, 80 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.18 | Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 5.0 | 9.1 | 8.7 | да | $146.29 | $877.72 | 1 King Standard Accessible | Новый IHG Starbay: современные номера, beachfront; ~8 мин до Grand World, ~12 мин до Safari, дешевле Regent. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+
+
 ### Long Beach — запад, закаты, инфраструктура
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | менее известный | $29.29 | $175.74 | Twin Room with Garden View | нет | да | есть места |
-| Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | менее известный | $49.78 | $298.68 | Deluxe Twin Beds | да | да | есть места |
-| Green Inn Phu Quoc Hotel | Long Beach | 3.0 | менее известный | $58.58 | $351.48 | Family Junior Suite | да | да | есть места |
-| Bauhinia Resort Phu Quoc | Long Beach | 3.0 | менее известный | $65.86 | $395.18 | Superior Room King | да | да | есть места |
-| HAWAII RESORT PHU QUOC | Long Beach | 3.5 | менее известный | $72.75 | $436.50 | Standard | да | нет | есть места |
-| Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | менее известный | $89.44 | $536.64 | Superior Double Room with Balcony | да | нет | есть места |
-| Famiana Resort and Spa | Long Beach | 4.5 | средний | $93.81 | $562.86 | Deluxe Garden King Or Twin | да | нет | есть места |
-| Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | менее известный | $93.96 | $563.76 | Soul Deluxe | да | да | есть места |
-| Best Western Premier Sonasea Phu Quoc | Long Beach | — | менее известный | $98.94 | $593.64 | Deluxe King Garden View | да | нет | есть места |
-| SOL By Melia Phu Quoc | Long Beach | 5.0 | средний | $107.46 | $644.79 | Standard Room | да | нет | есть места |
-| Novotel Phu Quoc Resort | Long Beach | 5.0 | популярный | $111.09 | $666.54 | Superior Twin Garden View | да | нет | есть места |
-| Lahana Resort Phu Quoc & Spa | Long Beach | 4.0 | средний | $111.45 | $668.70 | Deluxe Double Garden View | да | нет | есть места |
-| Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | популярный | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | да | нет | есть места |
-| La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | популярный | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | нет | нет | есть места |
-| Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | популярный | $209.80 | $1,258.78 | Deluxe Room | да | нет | есть места |
-| Cassia Cottage Resort and Spa | Long Beach | 4.0 | средний | $224.41 | $1,346.46 | Garden Cottage Room | да | нет | есть места |
-| L'Azure Resort and Spa | Long Beach | 4.5 | менее известный | $224.57 | $1,347.42 | Executive Garden View Suite | да | да | есть места |
-| WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | менее известный | $246.97 | $1,481.82 | Deluxe King Garden View | нет | да | есть места |
-| Dusit Princess Moonrise Beach Resort | Long Beach | 5.0 | средний | $247.29 | $1,483.71 | Junior Suite | да | нет | есть места |
-| InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | популярный | $264.22 | $1,585.32 | 1 Bedroom Residence | да | да | есть места |
-| Sunset Sanato Resort & Villas | Long Beach | 5.0 | средний | $351.79 | $2,110.74 | 1 Bedroom Private Pool Villa | да | да | есть места |
-| Sailing Club Signature Resort Phu Quoc | Long Beach | 5.0 | средний | $372.71 | $2,236.26 | 2-Bedroom Signature Deluxe Pool Villa | да | да | есть места |
-| Seashells Phu Quoc Hotel & Spa | Long Beach | 5.0 | средний | $388.72 | $2,332.32 | 2 Bedroom Suite, 2 Double | да | да | есть места |
-
-
-### Duong Dong — город, ночной рынок
-
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| An Phu Hotel | Duong Dong | 3.0 | менее известный | $33.48 | $200.88 | Superior Double Or Twin Bed | да | да | есть места |
-| Brenta Phu Quoc Hotel | Duong Dong | 3.0 | менее известный | $60.63 | $363.78 | Superior Double Room | да | нет | есть места |
-| Praha Hotel | Duong Dong | 3.0 | менее известный | $67.40 | $404.37 | Premium Room | нет | да | есть места |
-| M Village Phu Quoc | Duong Dong | 4.0 | менее известный | $153.33 | $919.98 | Exotic Joy Double House | да | да | есть места |
-
-
-### Ham Ninh — восток, рыбацкая деревня
-
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rocks Beach Boutique | Ham Ninh | 4.0 | менее известный | $38.53 | $231.18 | Deluxe Double Garden View | нет | да | есть места |
-
-
-### Vung Bau — северо-запад, уединённые виллы
-
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bamboo Cottages | Vung Bau | 3.0 | менее известный | $69.41 | $416.46 | Superior - Garden View | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.45 | Salinda Resort Phu Quoc - Sparkling Wine Breakfast | Long Beach | 5.0 | 9.4 | 9.1 (фирменный sparkling wine breakfast) | да | $209.80 | $1,258.78 | Deluxe Room | Бутик Long Beach: sparkling wine breakfast, private beach; до города ~10 мин, до Grand World ~45 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 9.27 | WorldHotels Long Beach Resort Phu Quoc | Long Beach | — | 9.3 | 8.4 | нет | $246.97 | $1,481.82 | Deluxe King Garden View | Новый Long Beach resort (WorldHotels): высокие оценки при малом числе отзывов; сверить категорию номера. · Free airport transfer, 90 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.24 | Dusit Princess Moonrise Beach Resort | Long Beach | 5.0 | 9.2 | 8.8 | да | $247.29 | $1,483.71 | Junior Suite | Dusit beachfront Long Beach: сильные отзывы, private beach, Thai-сеть; хороший mid-luxury. · beachfront, Free airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa | нет | есть места |
+| 9.24 | InterContinental Phu Quoc Long Beach Resort By IHG | Long Beach | 5.0 | 9.0 | 9.3 (Sora & Umi buffet / Club lounge) | да | $264.22 | $1,585.32 | 1 Bedroom Residence | Крупный IHG на Long Beach: свой пляж, kids splash, резиденции 1BR+, сильный завтрак; до Grand World ~50 мин. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 9.14 | L'Azure Resort and Spa | Long Beach | 4.5 | 9.2 | 8.4 | да | $224.57 | $1,347.42 | Executive Garden View Suite | L'Azure: высокие оценки, private beach ~200 м; в выдаче часто executive suite. · beachfront, Free airport transfer, 220 meters to the beach, Currency exchange, Private beach, Spa | да | есть места |
+| 9.12 | Green Inn Phu Quoc Hotel | Long Beach | 3.0 | 9.6 | 8.2 | да | $58.58 | $351.48 | Family Junior Suite | Green Inn: очень высокие оценки (мало отзывов), ~460 м до пляжа, family suite; не люкс-бренд. · Airport transfer, 460 meters to the beach, Currency exchange, Spa | да | есть места |
+| 9.12 | La Veranda Resort Phu Quoc - MGallery | Long Beach | 5.0 | 9.1 | 8.4 (бутик-завтрак MGallery) | нет | $208.20 | $1,249.20 | DELUXE GARDEN, 1 Double or 2 Single Size Beds | MGallery колониальный бутик Long Beach: атмосфера, private beach, сильная репутация у пар; завтрак часто не в дешёвом тарифе. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 9.04 | Seashells Phu Quoc Hotel & Spa | Long Beach | 5.0 | 9.0 | 8.5 | да | $388.72 | $2,332.32 | 2 Bedroom Suite, 2 Double | Очень много отзывов, beachfront Long Beach; в дешёвой выдаче часто 2BR suite — смотреть тип номера. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 9.02 | Sailing Club Signature Resort Phu Quoc | Long Beach | 5.0 | 8.9 | 8.6 | да | $372.71 | $2,236.26 | 2-Bedroom Signature Deluxe Pool Villa | Signature pool villas Long Beach (часто 2BR): дизайн Sailing Club, для компаний, не стандарт. · beachfront, Airport transfer, Free Wi-Fi in all rooms!, Currency exchange, Spa, Kids club | да | есть места |
+| 9.01 | Lahana Resort Phu Quoc & Spa | Long Beach | 4.0 | 9.1 | 8.4 (не пляж: холм, 7–10 мин до воды) | да | $111.45 | $668.70 | Deluxe Double Garden View | 4★ на холме Long Beach: лучшая репутация в новой четвёрке (Agoda 9.1 / 7.5k), не beachfront — 7–10 мин до воды. · Airport transfer, 520 meters to the beach, Breakfast [free], Spa | нет | есть места |
+| 8.96 | Cassia Cottage Resort and Spa | Long Beach | 4.0 | 9.2 | 8.1 | да | $224.41 | $1,346.46 | Garden Cottage Room | Бутик-коттеджи в саду Long Beach: private beach, spa, романтика; не «большой» курорт. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.93 | Pullman Phu Quoc Beach Resort | Long Beach | 5.0 | 8.8 | 8.5 | да | $138.82 | $832.92 | Superior Room, 2 Single Size Beds, Balcony | Accor beachfront Long Beach: современные номера 5★; удобная база на западе, парки севера — ~50 мин. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.78 | Soul Boutique Hotel Phu Quoc | Long Beach | 4.0 | 8.9 | 8.0 (завтрак часто в Sailing Club (шаттл)) | да | $93.96 | $563.76 | Soul Deluxe | Новый бутик 2024 на юге Long Beach; завтрак и бассейн часто через Sailing Club (шаттл), не в здании. · beachfront, Airport transfer, 40 meters to the beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.75 | Novotel Phu Quoc Resort | Long Beach | 5.0 | 8.7 | 8.0 | да | $111.09 | $666.54 | Superior Twin Garden View | Accor Long Beach: надёжный семейный 5★, сад и пляж, предсказуемый сервис Novotel. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.64 | Best Western Premier Sonasea Phu Quoc | Long Beach | — | 8.6 | 8.2 | да | $98.94 | $593.64 | Deluxe King Garden View | Недооценённый 5★ Sonasea Long Beach: spa/бассейн, ближе к пляжу пешком, value vs бренды. · Airport transfer, 250 meters to the beach, Currency exchange, Spa, Yoga room | нет | есть места |
+| 8.57 | Coral Bay Hotel & Resort Phu Quoc | Long Beach | 3.0 | 8.8 | 7.8 | да | $89.44 | $536.64 | Superior Double Room with Balcony | Coral Bay свой пляж Long Beach: mid 3★ beachfront без сети. · beachfront, Airport transfer, Private beach, Currency exchange, Spa/sauna | нет | есть места |
+| 8.57 | Famiana Resort and Spa | Long Beach | 4.5 | 8.7 | 7.6 | да | $93.81 | $562.86 | Deluxe Garden King Or Twin | Famiana mid-range Long Beach: семьи, сад, spa; разумный 4.5★ без люкс-ценника. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.56 | SOL By Melia Phu Quoc | Long Beach | 5.0 | 8.5 | 8.1 | да | $107.46 | $644.79 | Standard Room | Meliá SOL — молодёжный 5★ Long Beach: тусовка/дизайн, ближе к вечеринкам, чем к тишине. · Free airport transfer, 270 meters to the beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.56 | Sunset Sanato Resort & Villas | Long Beach | 5.0 | 8.5 | 8.0 | да | $351.79 | $2,110.74 | 1 Bedroom Private Pool Villa | Sunset Sanato: виллы + Sanato Water Park на территории (янв 2026); Long Beach, до VinWonders ~30 км. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Water park | да | есть места |
+| 8.49 | HAWAII RESORT PHU QUOC | Long Beach | 3.5 | 8.7 | 7.2 | да | $72.75 | $436.50 | Standard | Hawaii Resort Long Beach: простой локальный вариант; мало отзывов. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | нет | есть места |
+| 8.41 | Bauhinia Resort Phu Quoc | Long Beach | 3.0 | 8.7 | 7.5 | да | $65.86 | $395.18 | Superior Room King | Bauhinia Long Beach у моря: простой 3★ beachfront value. · 510 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | да | есть места |
+| 8.01 | An Nhien Retreat Phu Quoc with Yoga Daily & Beach access | Long Beach | 3.0 | 8.4 | 6.5 (в дешёвом тарифе обычно без завтрака) | нет | $29.29 | $175.74 | Twin Room with Garden View | An Nhien: йога ежедневно, сад, доступ к пляжу; wellness-бюджет, завтрак обычно нет. · Airport transfer, 390 meters to the beach, Free Wi-Fi in all rooms!, Spa, Yoga room | да | есть места |
+| 7.86 | Muong Thanh Luxury Phu Quoc Hotel | Long Beach | 4.0 | 7.9 | 7.4 | да | $49.78 | $298.68 | Deluxe Twin Beds | Сеть Mường Thanh Long Beach: дешёвый 4★ value; отзывы скромнее люкса. · Airport transfer, 310 meters to the beach, Currency exchange, Spa | да | есть места |
 
 
 ### Bai Khem — восток / юг — спокойнее море в октябре
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | менее известный | $83.89 | $503.34 | Superior Twin Room | да | да | есть места |
-| Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | популярный | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | да | нет | есть места |
-| New World Phu Quoc Resort | Bai Khem | 5.0 | популярный | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | да | да | есть места |
-| Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | популярный | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | да | нет | есть места |
-| JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | популярный | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9.28 | JW Marriott Phu Quoc Emerald Bay Resort & Spa | Bai Khem | 5.0 | 9.2 | 9.2 (люкс-buffet + несколько ресторанов) | да | $458.81 | $2,752.86 | Emerald Bay, Guest room, 1 King, Balcony | Икона острова (дизайн Bill Bensley): Bai Khem, спокойное море в октябре; Grand World / Safari ~70 мин — плохо, если цель парки. · beachfront, Airport transfer, Air conditioning, Currency exchange, Spa, Kids club | да | есть места |
+| 8.86 | New World Phu Quoc Resort | Bai Khem | 5.0 | 8.7 | 8.6 | да | $251.98 | $1,511.88 | Garden Pool Villa - 1 Bedroom | Восток Bai Khem, виллы с бассейном + Aqua World (горки на территории); море спокойное, парки севера далеко. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.80 | Premier Residences Phu Quoc Emerald Bay Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.3 | да | $157.13 | $942.78 | Superior Suite 1 King Bed with Balcony | Accor suite на Bai Khem у JW: восток, спокойнее море, заметно дешевле JW Marriott. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.76 | Premier Village Phu Quoc Resort - Managed by Accor | Bai Khem | 5.0 | 8.7 | 8.5 | да | $306.18 | $1,837.08 | 3 Bedroom Garden Villa With Private Pool | Accor на Bai Khem: семейные виллы 2–3BR с private pool; купаться в октябре удобно, до Grand World час+. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | нет | есть места |
+| 8.46 | Paralia Khem Beach Phu Quoc Hotel | Bai Khem | 4.0 | 8.5 | 7.8 | да | $83.89 | $503.34 | Superior Twin Room | Paralia на Bai Khem: лучший бюджетный восток для купания в октябре, 4★ у белого песка. · Airport transfer, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
 
 
 ### Bai Dai — север, VinWonders / Grand World
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | популярный | $96.94 | $581.64 | Deluxe Room (King/Twin) | да | нет | есть места |
-| Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | популярный | $104.37 | $626.22 | Deluxe Twin | да | да | есть места |
-| Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | менее известный | $106.36 | $638.16 | Superior Twin Room | да | да | есть места |
-| Wyndham Grand Phu Quoc | Bai Dai | 5.0 | популярный | $114.87 | $689.22 | Superior Twin | да | да | есть места |
-| Peppercorn Beach Resort | Bai Dai | 3.0 | менее известный | $126.19 | $757.14 | Double Room with Garden View | нет | нет | есть места |
-| Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | популярный | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | да | да | есть места |
-| Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | популярный | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | да | нет | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.96 | Radisson Blu Resort Phu Quoc | Bai Dai | 5.0 | 8.9 | 8.4 | да | $96.94 | $581.64 | Deluxe Room (King/Twin) | Value 5★ Bai Dai: ~500 м пешком до Grand World, Safari ~10 мин; лучший баланс цена/парки/море. · beachfront, Airport transfer, Private beach, Currency exchange, Kids club | нет | есть места |
+| 8.86 | Vinpearl Resort & Spa Phú Quốc | Bai Dai | 5.0 | 8.8 | 8.4 | да | $104.37 | $626.22 | Deluxe Twin | Bai Dai у VinWonders: 1,4 км / пешком до Grand World, Safari 4,7 км, VinBus по комплексу; номера не самые новые. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.69 | Sheraton Phu Quoc Long Beach Resort | Bai Dai | 5.0 | 8.8 | 7.8 | да | $129.18 | $775.08 | Deluxe Guest room, 2 Twin, Garden view, Balcony | Marriott Bai Dai: beachfront 5★, VinBus до Grand World / VinWonders / Safari; номера не самые новые. · beachfront, Airport transfer, 100 meters to the beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.69 | Melia Vinpearl Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.3 | да | $314.49 | $1,886.92 | 1-Bedroom Villa Lake View With Private Pool | Vinpearl-виллы у озера с private pool; VinBus до Grand World / Safari / VinWonders; не стандартный номер. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | нет | есть места |
+| 8.68 | Wyndham Grand Phu Quoc | Bai Dai | 5.0 | 8.6 | 8.2 | да | $114.87 | $689.22 | Superior Twin | Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.67 | Wyndham Garden Grandworld Phu Quoc | Bai Dai | 4.0 | 8.7 | 8.0 | да | $106.36 | $638.16 | Superior Twin Room | Wyndham Garden внутри Grand World: пешком до шоу/каналов, горка в бассейне, VinWonders ~1 км; 4★ не люкс. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
+| 8.55 | Peppercorn Beach Resort | Bai Dai | 3.0 | 8.9 | 7.2 | нет | $126.19 | $757.14 | Double Room with Garden View | Небольшой Peppercorn Bai Dai: тише крупных сетей, сад; завтрак часто не включён. · beachfront, Balcony/terrace, Diving, Linens, Private beach, Spa | нет | есть места |
 
 
 ### Ong Lang — тихий запад, севернее Лонг-Бич
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Movenpick Villas & Residences Phu Quoc | Ong Lang | 5.0 | средний | $101.39 | $608.34 | Studio King Room with Balcony | да | нет | есть места |
-| Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | популярный | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | да | нет | есть места |
-| Camia Resort & Spa | Ong Lang | 4.0 | средний | $143.59 | $861.54 | Deluxe Garden View | да | да | есть места |
-| Mango Bay Resort | Ong Lang | 3.0 | средний | $168.48 | $1,010.88 | Superior Rammed Earth Bungalow Garden View | да | да | есть места |
-| Chen Sea Resort and Spa Phu Quoc | Ong Lang | 4.5 | средний | $201.02 | $1,206.12 | Beach Front Villa | да | да | есть места |
-| Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | менее известный | $202.17 | $1,213.02 | Jungle Bungalow | да | да | есть места |
-| Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | менее известный | $337.06 | $2,022.36 | Family Bungalow with Garden View | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.88 | Camia Resort & Spa | Ong Lang | 4.0 | 9.0 | 8.2 | да | $143.59 | $861.54 | Deluxe Garden View | Тихий Ong Lang 4★, свой узкий/каменистый пляж, закаты; Agoda 9.0 / Booking 9.3 / TA 4.8. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | да | есть места |
+| 8.87 | Ocean Bay Phu Quoc Resort & Spa | Ong Lang | 5.0 | 8.9 | 8.2 | да | $202.17 | $1,213.02 | Jungle Bungalow | Jungle bungalow Ong Lang: природа и тишина, свой пляж; не центр развлечений. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.82 | Mövenpick Resort Waverly Phu Quoc | Ong Lang | 5.0 | 8.7 | 8.5 | да | $104.60 | $627.60 | Superior Twin Room Garden View with Balcony | Mövenpick на тихом Ong Lang: спокойнее Long Beach, сад/балкон, mid-luxury без толпы. · beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.78 | Movenpick Villas & Residences Phu Quoc | Ong Lang | 5.0 | 8.7 | 8.4 | да | $101.39 | $608.34 | Studio King Room with Balcony | Виллы/студии Mövenpick Ong Lang: больше приватности, тот же тихий район. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa, Kids club | нет | есть места |
+| 8.73 | Mango Bay Resort | Ong Lang | 3.0 | 8.9 | 8.8 (сильный foodDining у эко-курорта) | да | $168.48 | $1,010.88 | Superior Rammed Earth Bungalow Garden View | Эко-бунгало Ong Lang (rammed earth): природа, тишина, сильный food score; без люкс-глянца. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.66 | Chen Sea Resort and Spa Phu Quoc | Ong Lang | 4.5 | 8.8 | 7.6 | да | $201.02 | $1,206.12 | Beach Front Villa | Chen Sea / The Slate Ong Lang: beach villa, джунгли у моря, пары; тихий запад. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+| 8.56 | Grand Resort Ocean Bay Phu Quoc | Ong Lang | 5.0 | 8.6 | 8.0 | да | $337.06 | $2,022.36 | Family Bungalow with Garden View | Grand Ocean Bay Ong Lang: крупные bungalow/family, beachfront; тихий севернее Long Beach. · beachfront, Airport transfer, Private beach, Free Wi-Fi in all rooms!, Spa, Kids club | да | есть места |
 
 
-### Bai Dai / Starbay — север, Starbay / гольф
+### Duong Dong — город, ночной рынок
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Crowne Plaza Phu Quoc Starbay By IHG | Bai Dai / Starbay | 5.0 | средний | $146.29 | $877.72 | 1 King Standard Accessible | да | да | есть места |
-| Regent Phu Quoc By IHG | Bai Dai / Starbay | 5.0 | популярный | $500.47 | $3,002.82 | Resort View Suite | да | да | есть места |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.77 | M Village Phu Quoc | Duong Dong | 4.0 | 8.9 | 7.6 | да | $153.33 | $919.98 | Exotic Joy Double House | Домики на холме у Cua Lap (не пляж). Agoda 8.9, но Booking 8.3 — шум, слабее Lahana/Soul за $153. · Airport transfer, 380 meters to the beach, Free Wi-Fi in all rooms!, Spa | да | есть места |
+| 8.47 | An Phu Hotel | Duong Dong | 3.0 | 8.7 | 7.5 | да | $33.48 | $200.88 | Superior Double Or Twin Bed | Центр Dương Đông: ночной рынок пешком, бюджет; пляж ~900 м, Grand World ~40 мин. · 920 meters to the beach, Free Wi-Fi in all rooms!, Currency exchange | да | есть места |
+| 8.14 | Praha Hotel | Duong Dong | 3.0 | 8.3 | 7.8 (часто без завтрака в дешёвом тарифе) | нет | $67.40 | $404.37 | Premium Room | Praha у ночного рынка Duong Dong: городская база; завтрак часто не в тарифе. · Free airport transfer, 320 meters to the beach, Free Wi-Fi in all rooms! | да | есть места |
+| 7.86 | Brenta Phu Quoc Hotel | Duong Dong | 3.0 | 8.1 | 7.4 | да | $60.63 | $363.78 | Superior Double Room | Duong Dong у пляжа (~20 м): бюджет город+море; без бесплатной отмены в дешёвом тарифе. · Airport transfer, 20 meters to the beach, Currency exchange, Spa/sauna | нет | есть места |
+
+
+### Vung Bau — северо-запад, уединённые виллы
+
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.71 | Bamboo Cottages | Vung Bau | 3.0 | 9.0 | 8.2 | да | $69.41 | $416.46 | Superior - Garden View | Эко Bamboo Cottages Vung Bau: private beach, высокие оценки еды/сервиса; уединение. · beachfront, Airport transfer, Private beach, Currency exchange, Spa | да | есть места |
+
+
+### Ham Ninh — восток, рыбацкая деревня
+
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.27 | Rocks Beach Boutique | Ham Ninh | 4.0 | 8.3 | 7.3 | нет | $38.53 | $231.18 | Deluxe Double Garden View | Boutique Ham Ninh (восток): тише, private beach/сад; мало тусовок. · beachfront, Free Wi-Fi in all rooms!, Air conditioning, Daily housekeeping, Private beach, Spa | да | есть места |
 
 
 ## Нет живого тарифа на эти даты (Agoda)
 
-| Отель | Район | ★ | Известность | Ночь, USD (с налогами) | 6 ночей, USD | Номер | Завтрак | Отмена | Статус |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fusion Resort Phu Quoc - All Spa Inclusive | Vung Bau | 5.0 | популярный | — | — | — | — | — | нет тарифа на даты |
-| Nam Nghi Coral Peninsula Phu Quoc | Vung Bau | 5.0 | средний | — | — | — | — | — | нет тарифа на даты |
-| Ann Hotel & Spa Khem Beach PQ | Bai Khem | 3.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| Sunset Beach Resort & Spa - Beachfront Pirate Fire Show  | Long Beach | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| The Palmy Phu Quoc Resort and Spa | Long Beach | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
-| Novus Sol Hotel & Apartment Sunset Town Phu Quoc | An Thoi | 4.0 | менее известный | — | — | — | — | — | нет тарифа на даты |
+| Рейтинг | Отель | Район | ★ | Отзывы | Завтрак /10 | В тарифе | Ночь, USD | 6 ночей | Номер | Описание / фичи | Отмена | Статус |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8.92 | Fusion Resort Phu Quoc - All Spa Inclusive | Vung Bau | 5.0 | 8.8 | 8.7 | — | — | — | — | Уединённый Vung Bau, виллы + spa inclusive; Safari ближе (~18 мин), чем центр; без своего аквапарка. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spanish | — | нет тарифа на даты |
+| 8.87 | Novus Sol Hotel & Apartment Sunset Town Phu Quoc | An Thoi | 4.0 | 9.3 | 7.5 | — | — | — | — | Novus Sol Sunset Town: апартаменты у юга/канатки Hon Thom; не beach resort. · 250 meters to public transportation, Airport transfer, Free Wi-Fi in all rooms!, Water park | — | нет тарифа на даты |
+| 8.78 | Sunset Beach Resort & Spa - Beachfront Pirate Fire Show  | Long Beach | 4.0 | 8.9 | 8.0 | — | — | — | — | Sunset Beach Long Beach: beachfront + pirate fire show; тусовочнее, чем бутик. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | — | нет тарифа на даты |
+| 8.62 | Nam Nghi Coral Peninsula Phu Quoc | Vung Bau | 5.0 | 8.5 | 8.2 | — | — | — | — | Уединённый полуостров Vung Bau: private beach, spa; мало инфраструктуры вокруг. · beachfront, Free airport transfer, Private beach, Currency exchange, Spa | — | нет тарифа на даты |
+| 8.44 | Ann Hotel & Spa Khem Beach PQ | Bai Khem | 3.0 | 8.6 | 7.6 | — | — | — | — | Ann Hotel Bai Khem: восток/спа спокойнее западного моря; простой 3★. · Airport transfer, Free Wi-Fi in all rooms!, Currency exchange, Spa | — | нет тарифа на даты |
+| 7.03 | The Palmy Phu Quoc Resort and Spa | Long Beach | 4.0 | 7.0 | 6.5 | — | — | — | — | Palmy Long Beach: private beach, но слабые отзывы — риск по качеству. · beachfront, Private beach, Free Wi-Fi in all rooms!, Currency exchange, Spa | — | нет тарифа на даты |
 

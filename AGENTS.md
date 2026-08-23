@@ -16,6 +16,7 @@ Read first: `README.md`, `memory/trip.md`, `memory/sources.md`, `memory/picks.md
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
+python3 scripts/fetch_hotel_profiles.py
 python3 scripts/build_tables.py
 python3 scripts/fetch_reviews.py
 python3 scripts/build_reviews.py
@@ -23,7 +24,11 @@ python3 scripts/build_reviews.py
 
 Then update `README.md` summary tables if the ranking changed. Write guest-review notes in `data/reviews.md` (Agoda+Booking comments plus Google/Tripadvisor/OTA scores — never invent scores for blocked sites).
 
-Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).
+Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).  
+Hotel blurbs + curated breakfast scores: `scripts/hotel_profiles.py`.  
+Grand World / Safari / water park / room style / sea & town distances: `scripts/hotel_pois.py`.  
+Tables sort by **composite rating**; a second **fit** score ranks the entertainment-cluster request.  
+POI unit checks: `python3 scripts/test_hotel_pois.py`.
 
 ## Sources
 
