@@ -25,8 +25,10 @@ Then update `README.md` summary tables if the ranking changed.
 Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).  
 Hotel blurbs + curated breakfast scores: `scripts/hotel_profiles.py`.  
 Grand World / Safari / water park / room style / sea & town distances: `scripts/hotel_pois.py`.  
+Booking.com dated name-links: `scripts/booking_links.py` (optional `booking_slug` on each catalog hotel).  
 Tables sort by **composite rating**; a second **fit** score ranks the entertainment-cluster request.  
-POI unit checks: `python3 scripts/test_hotel_pois.py`.
+POI unit checks: `python3 scripts/test_hotel_pois.py`.  
+Booking link checks: `python3 scripts/test_booking_links.py`.
 
 ## Sources
 
@@ -43,6 +45,7 @@ Shoulder / late rainy season. East coast (Bai Khem, Bai Sao) is usually calmer f
 ## Output rules
 
 - Keep comparison tables in `data/comparison.md` and `data/comparison.csv`.
+- Hotel names in markdown tables must be Booking.com links for the trip dates (2 adults, 1 room).
 - Prefer USD all-in (tax + service). Mention VND only with an explicit rate.
 - State room type: a “cheap” Premier Village / Meliá / Sailing Club row may be a multi-bedroom villa.
 - Do not book anything unless the user asks.

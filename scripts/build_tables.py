@@ -26,6 +26,15 @@ from hotel_pois import (  # noqa: E402
     fmt_water,
     resolve_poi,
 )
+from booking_links import (  # noqa: E402
+    DEFAULT_CHECKIN,
+    DEFAULT_CHECKOUT,
+    booking_url_for_hotel,
+    linkify_hotel_columns,
+    md_hotel_link,
+)
+
+TABLE_DATES = {"checkin": DEFAULT_CHECKIN, "checkout": DEFAULT_CHECKOUT}
 
 CATALOG_BY_ID = {h["id"]: h for h in HOTELS}
 
@@ -290,6 +299,19 @@ def md_escape(s: str) -> str:
     return (s or "").replace("|", "/").replace("\n", " ")
 
 
+def md_hotel_cell(r: dict, meta: dict | None = None) -> str:
+    name = md_escape(r.get("name") or r.get("catalog_name") or "")
+    hid = r.get("hotel_id")
+    hotel = CATALOG_BY_ID.get(int(hid)) if hid is not None else None
+    dates = meta or TABLE_DATES
+    return md_hotel_link(
+        name,
+        hotel=hotel,
+        checkin=dates.get("checkin"),
+        checkout=dates.get("checkout"),
+    )
+
+
 def md_table(rows: list[dict], *, compact: bool = False) -> str:
     if compact:
         headers = [
@@ -309,7 +331,7 @@ def md_table(rows: list[dict], *, compact: bool = False) -> str:
                 + " | ".join(
                     [
                         fmt_score(r.get("rating"), 2),
-                        md_escape(r.get("name") or r.get("catalog_name") or ""),
+                        md_hotel_cell(r),
                         r.get("district") or "",
                         str(r.get("star") or "—"),
                         fmt_score(r.get("guest_score")),
@@ -348,7 +370,7 @@ def md_table(rows: list[dict], *, compact: bool = False) -> str:
             + " | ".join(
                 [
                     fmt_score(r.get("rating"), 2),
-                    md_escape(r.get("name") or r.get("catalog_name") or ""),
+                    md_hotel_cell(r),
                     r.get("district") or "",
                     str(r.get("star") or "—"),
                     fmt_score(r.get("guest_score")),
@@ -387,7 +409,7 @@ def md_poi_table(rows: list[dict]) -> str:
             + " | ".join(
                 [
                     fmt_score(r.get("fit"), 2),
-                    md_escape(r.get("name") or r.get("catalog_name") or ""),
+                    md_hotel_cell(r),
                     r.get("district") or "",
                     md_escape(r.get("gw_label") or "—"),
                     md_escape(r.get("safari_label") or "—"),
@@ -475,6 +497,7 @@ def write_csv(path: Path, rows: list[dict], meta: dict) -> None:
         "status",
         "hotel_id",
         "url",
+        "booking_url",
         "checkin",
         "checkout",
         "grade_cleanliness",
@@ -525,6 +548,12 @@ def write_csv(path: Path, rows: list[dict], meta: dict) -> None:
                     "status": r.get("status"),
                     "hotel_id": r.get("hotel_id"),
                     "url": r.get("url"),
+                    "booking_url": booking_url_for_hotel(
+                        CATALOG_BY_ID.get(int(r["hotel_id"])) if r.get("hotel_id") is not None else None,
+                        name=r.get("name") or r.get("catalog_name") or "",
+                        checkin=meta.get("checkin"),
+                        checkout=meta.get("checkout"),
+                    ),
                     "checkin": meta.get("checkin"),
                     "checkout": meta.get("checkout"),
                     "grade_cleanliness": g.get("cleanliness"),
@@ -585,6 +614,8 @@ def main() -> int:
         src = ROOT / "data" / "agoda-live-raw.json"
     profiles = load_profiles(ROOT / "data" / "hotel-profiles-raw.json")
     meta = load_snapshot(src)
+    TABLE_DATES["checkin"] = meta.get("checkin") or TABLE_DATES["checkin"]
+    TABLE_DATES["checkout"] = meta.get("checkout") or TABLE_DATES["checkout"]
     rows = [enrich(h, profiles) for h in meta["hotels"]]
     available = sort_by_rating([r for r in rows if r.get("nightly_incl")])
     missing = sort_by_rating([r for r in rows if not r.get("nightly_incl")])
@@ -628,6 +659,7 @@ def main() -> int:
         f"- {RATING_METHOD}",
         f"- {FIT_METHOD}",
         "- Основная таблица отсортирована по **сводному рейтингу**; блок «локация» — по **fit** под Grand World / Safari / аквапарк",
+        "- Названия отелей — ссылки на **Booking.com** на эти даты (2 взрослых, 1 номер)",
         "",
         "## Локация и развлечения (новые критерии)",
         "",
@@ -695,6 +727,18 @@ def main() -> int:
         parts += ["## Нет живого тарифа на эти даты (Agoda)", "", md_table(missing_sorted), ""]
 
     md_path.write_text("\n".join(parts), encoding="utf-8")
+
+    readme = ROOT / "README.md"
+    if readme.exists():
+        updated = linkify_hotel_columns(
+            readme.read_text(encoding="utf-8"),
+            HOTELS,
+            TABLE_DATES["checkin"],
+            TABLE_DATES["checkout"],
+        )
+        readme.write_text(updated, encoding="utf-8")
+        print(f"Wrote {readme} (hotel names → Booking.com)")
+
     print(f"Wrote {csv_path} ({len(rows)} rows)")
     print(f"Wrote {md_path}")
     print(f"Wrote {ROOT / 'data' / 'hotel-profiles.json'}")
