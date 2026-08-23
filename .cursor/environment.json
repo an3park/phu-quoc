@@ -1,0 +1,4 @@
+{
+  "name": "Phu Quoc hotel research",
+  "install": "pip install --user -r requirements.txt"
+}
