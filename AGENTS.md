@@ -18,9 +18,11 @@ Read first: `README.md`, `memory/trip.md`, `memory/sources.md`, `memory/picks.md
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
 python3 scripts/fetch_hotel_profiles.py
 python3 scripts/build_tables.py
+python3 scripts/fetch_reviews.py
+python3 scripts/build_reviews.py
 ```
 
-Then update `README.md` summary tables if the ranking changed.
+Then update `README.md` summary tables if the ranking changed. Write guest-review notes in `data/reviews.md` (Agoda+Booking comments plus Google/Tripadvisor/OTA scores — never invent scores for blocked sites).
 
 Add new hotels in `scripts/hotels_catalog.py` (Agoda property id + district + popularity).  
 Hotel blurbs + curated breakfast scores: `scripts/hotel_profiles.py`.  
@@ -30,8 +32,8 @@ POI unit checks: `python3 scripts/test_hotel_pois.py`.
 
 ## Sources
 
-- **Agoda `GetSecondaryData`** currently returns dated live rates. Treat inclusive USD as the comparable number.
-- Booking.com, Expedia, Hotels.com, brand CRSs, Traveloka often block non-browser clients (WAF / 403 / 429). Do not invent prices for blocked sites.
+- **Agoda `GetSecondaryData`** currently returns dated live rates **and** guest-review scores. Combined scores often include Booking.com.
+- Booking.com HTML is WAF-blocked; still capture Booking comments via Agoda ReviewComments (provider 3038) and published Booking scores from OTA snippets. Do not invent scores.
 - Google Hotels and Kayak are useful as **cross-checks**, especially for Marriott/IHG/Vinpearl where Agoda can be 15–30% off the official rate.
 - Always label whether a figure is **live for these dates** or a **typical / seasonal range**.
 - Do not scrape in a way that dumps secrets, cookies, or personal accounts into the repo.

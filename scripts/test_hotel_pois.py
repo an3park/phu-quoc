@@ -126,6 +126,30 @@ def test_fit_ranking_prefers_north() -> None:
     assert_true(ranked[-1][0] in (1624474, 6352970), f"JW or town last: {ranked}")
 
 
+def _catalog_id(name_part: str) -> tuple[int, str]:
+    hotel = next(h for h in HOTELS if name_part.lower() in h["name"].lower())
+    return hotel["id"], hotel["district"]
+
+
+def test_added_hotels_poi_overrides() -> None:
+    lahana_id, lahana_d = _catalog_id("Lahana")
+    camia_id, camia_d = _catalog_id("Camia")
+    village_id, village_d = _catalog_id("M Village")
+    soul_id, soul_d = _catalog_id("Soul Boutique")
+    lahana = resolve_poi(lahana_id, lahana_d)
+    camia = resolve_poi(camia_id, camia_d)
+    village = resolve_poi(village_id, village_d)
+    soul = resolve_poi(soul_id, soul_d)
+    assert_true((lahana.get("beach_m") or 0) >= 500, f"Lahana is hillside, got {lahana.get('beach_m')}")
+    assert_true(camia.get("beach_m") == 0, f"Camia has its own beach, got {camia.get('beach_m')}")
+    assert_true((village.get("beach_m") or 0) >= 500, f"M Village is not beachfront, got {village.get('beach_m')}")
+    assert_true((soul.get("beach_m") or 0) >= 100, f"Soul is not in-building beach, got {soul.get('beach_m')}")
+    assert_true(lahana["gw_km"] > 20, "Lahana is not next to Grand World")
+    assert_true(camia["gw_km"] < lahana["gw_km"], "Ong Lang is closer to Grand World than Long Beach hillside")
+    assert_true(lahana["room_style"] == "boutique", lahana["room_style"])
+    assert_true(soul["room_style"] == "modern", soul["room_style"])
+
+
 def main() -> int:
     tests = [
         test_every_catalog_hotel_resolves,
@@ -136,6 +160,7 @@ def main() -> int:
         test_beach_parser,
         test_formatters_ru,
         test_fit_ranking_prefers_north,
+        test_added_hotels_poi_overrides,
     ]
     for fn in tests:
         fn()

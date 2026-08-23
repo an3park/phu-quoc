@@ -3293,7 +3293,232 @@
       "restaurants": [],
       "breakfast_cuisines": [],
       "overview_snippet": "<b>Experience Luxury at <b>AND SUNSET BEACH RESORT</b> in Phu Quoc Island</b><br><br>Nestled on the pristine shores of Phu Quoc Island, <b>AND SUNSET BEACH RESORT</b> stands as a beacon of luxury and tranquility. This exquisite 5-star hotel offers a perfect escape for travelers seeking both relaxation and adventure amidst the breathtaking beauty of Vietnam's largest island. With its stunning beach"
+    },
+    {
+      "hotel_id": 2577124,
+      "name": "Lahana Resort Phu Quoc & Spa",
+      "catalog_name": "Lahana Resort Phu Quoc & Spa",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "mid",
+      "guest_score": 9.1,
+      "score_text": "Exceptional",
+      "reviews_count": 7510,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 9.1,
+        "location": 9.1,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.3,
+        "roomComfort": 9.5,
+        "overall": 9.2
+      },
+      "key_features": [
+        "Garden",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Fitness center",
+        "Pool with view",
+        "Snorkeling",
+        "Spa/sauna",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "A la carte in restaurant"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "520 meters to the beach",
+        "Breakfast [free]",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Ca Go",
+          "cuisines": [
+            "Asian",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Full English/Irish"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at <b>Lahana Resort Phu Quoc &amp; Spa</b></b><br><br>Nestled in the heart of Phu Quoc Island, Vietnam, <b>Lahana Resort Phu Quoc &amp; Spa</b> offers a serene and luxurious retreat for travelers seeking a truly unforgettable experience. With its prime location just 20 minutes away from the airport, this 4-star hotel provides utmost convenience for guests arriv"
+    },
+    {
+      "hotel_id": 3647146,
+      "name": "Camia Resort & Spa",
+      "catalog_name": "Camia Resort & Spa",
+      "district": "Ong Lang",
+      "star": 4.0,
+      "popularity": "mid",
+      "guest_score": 9.0,
+      "score_text": "Exceptional",
+      "reviews_count": 4398,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 9.1,
+        "location": 8.2,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.3,
+        "roomComfort": 9.5,
+        "overall": 9.0
+      },
+      "key_features": [
+        "Garden",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Kids club",
+        "Beachfront",
+        "Fitness center",
+        "Golf course [on-site]",
+        "Hot tub",
+        "Pool facilities",
+        "Pool with view"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Camia Restaurant",
+          "cuisines": [
+            "Asian",
+            "European",
+            "Italian",
+            "Local",
+            "Vietnamese",
+            "Seafood",
+            "Grill/BBQ",
+            "Pizza"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian"
+      ],
+      "overview_snippet": "<b>Discover Tranquility at <b>Camia Resort &amp; Spa</b> in Phu Quoc Island</b><br><br>Escape to the serene oasis of <b>Camia Resort &amp; Spa</b>, a 4-star hotel nestled on the picturesque Phu Quoc Island in Vietnam. With its idyllic location, impeccable service, and luxurious amenities, this resort offers a truly unforgettable experience for travelers seeking relaxation and rejuvenation.\n\nAs you"
+    },
+    {
+      "hotel_id": 24356624,
+      "name": "M Village Phu Quoc",
+      "catalog_name": "M Village Phu Quoc",
+      "district": "Duong Dong",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 5302,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 8.9,
+        "location": 9.3,
+        "staffPerformance": 9.4,
+        "valueForMoney": 9.1,
+        "roomComfort": 9.2,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Garden",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Fitness center",
+        "Gym/fitness",
+        "Pool with view",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "Airport transfer",
+        "Front desk [24-hour]",
+        "English"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "380 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Comfort at <b>M Village Phu Quoc</b></b><br><br>Nestled just 4.6 kilometers from the vibrant city center of Phu Quoc Island, <b>M Village Phu Quoc</b> offers a serene retreat with easy access to the island's top attractions. Built in 2019, this modern hotel combines contemporary design with warm hospitality, providing guests with a cozy and inviting atmosphere. Whethe"
+    },
+    {
+      "hotel_id": 56230219,
+      "name": "Soul Boutique Hotel Phu Quoc",
+      "catalog_name": "Soul Boutique Hotel Phu Quoc",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 798,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 8.9,
+        "location": 8.7,
+        "staffPerformance": 9.2,
+        "valueForMoney": 9.0,
+        "roomComfort": 9.3,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Private beach",
+        "Sauna",
+        "Spa/sauna",
+        "Swimming pool"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "40 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Elegance at <b>Soul Boutique Hotel Phu Quoc</b></b><br><br>Nestled on the stunning Phu Quoc Island, the Soul Boutique Hotel invites travelers to indulge in a luxurious escape that combines modern comforts with the natural beauty of Vietnam. Opened in 2024, this exquisite 4-star hotel is designed to provide an unparalleled experience, just 12 kilometers from the vibrant city center an"
     }
   ],
-  "errors": []
+  "errors": [],
+  "fetched_at_utc": null
 }

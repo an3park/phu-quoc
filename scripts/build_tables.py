@@ -9,7 +9,23 @@ from __future__ import annotations
 import csv
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
+
+MONTHS_RU = {
+    1: "января",
+    2: "февраля",
+    3: "марта",
+    4: "апреля",
+    5: "мая",
+    6: "июня",
+    7: "июля",
+    8: "августа",
+    9: "сентября",
+    10: "октября",
+    11: "ноября",
+    12: "декабря",
+}
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -93,6 +109,15 @@ def load_profiles(path: Path) -> dict[int, dict]:
 
 def cheapest(h: dict) -> dict:
     return h.get("cheapest") or {}
+
+
+def snapshot_ru(meta: dict) -> str:
+    fetched = meta.get("fetched_at_utc") or ""
+    try:
+        dt = datetime.fromisoformat(str(fetched).replace("Z", "+00:00"))
+        return f"{dt.day} {MONTHS_RU[dt.month]} {dt.year}"
+    except (TypeError, ValueError, KeyError):
+        return "23 августа 2026"
 
 
 def nightly(h: dict):
@@ -624,7 +649,7 @@ def main() -> int:
         f"- Заезд: **{meta.get('checkin')}**, выезд: **{meta.get('checkout')}** ({meta.get('nights') or 6} ночей)",
         "- 2 взрослых, 1 номер",
         "- Цены: Agoda, **с налогами и сборами**, USD, самый дешёвый доступный номер",
-        "- Снято: 22 августа 2026 (цены); отзывы/фичи Agoda — август 2026; локации — типичные км/мин, август 2026",
+        f"- Снято: {snapshot_ru(meta)} (цены); отзывы/фичи Agoda — август 2026; локации — типичные км/мин, август 2026",
         f"- {RATING_METHOD}",
         f"- {FIT_METHOD}",
         "- Основная таблица отсортирована по **сводному рейтингу**; блок «локация» — по **fit** под Grand World / Safari / аквапарк",
