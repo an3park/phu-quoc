@@ -21,6 +21,11 @@
 | Главный источник живых тарифов | **Agoda** API `GetSecondaryData` на эти даты |
 | Рейтинг и завтрак | сводный /10 из отзывов + категорий + завтрака + звёзд (см. `data/comparison.md`) |
 | Другие площадки | Google Hotels, Kayak, Booking, Expedia, Hotels.com, Marriott, IHG, Accor, Traveloka, Trip.com, Trivago, официальные сайты |
+| **Grand World** | типичная поездка такси/VinBus до комплекса на Bãi Dài (север) |
+| **Safari** | Vinpearl Safari, тот же северный кластер (~8–12 мин от Grand World) |
+| **Аквапарк** | на территории / splash / VinWonders Typhoon World / Hon Thom Aquatopia |
+| **Номер** | стиль (современный / дизайн / вилла / бутик / колониальный / эко) + Agoda roomComfort |
+| **Море / центр** | метры до пляжа и км до ночного рынка Dương Đông |
 
 Октябрь на Фукуоке — переход с сезона дождей к сухому. Море на **западном** берегу (Long Beach, Ong Lang, Bai Dai) ещё может быть волнистым; на **востоке** (Bai Khem, Bai Sao) обычно спокойнее. 19–25 октября — вторая половина месяца, погода уже лучше, чем в начале октября, а цены ещё не пиковые (пик — ноябрь–март).
 
@@ -39,6 +44,34 @@
 Если **бюджет**: An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги ниже люкса (~7.9–8.7).
 
 **Fusion Resort** (spa inclusive) и **Nam Nghi** на Agoda на эти даты **не продаются**. Перед бронью JW Marriott сверьте официальный сайт и Traveloka: Google Hotels показывал типичные **$310–358**, тогда как Agoda — **$459**.
+
+---
+
+## Если нужны Grand World, Safari, аквапарк и красивый номер
+
+Это **разные оси**. Grand World + VinWonders (аквапарк Typhoon World) + Vinpearl Safari стоят одним северным кластером на **Bãi Dài**. Центр — ночной рынок **Dương Đông**, ~28–32 км / 40–50 мин от парков. Beachfront на севере есть; «море у дверей **и** прогулка по городу» почти не складывается.
+
+Полные колонки: [`data/comparison.md`](data/comparison.md) (блок «Локация и развлечения») и CSV.
+
+**Fit** (смесь близости к паркам + аквапарк + номер + море): лидирует север Bãi Dài.
+
+| Fit | Отель | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь |
+| --- | ---: | --- | --- | --- | --- | --- | --- | ---: |
+| **9.29** | Wyndham Grand | 300 м пешком | 3 км / 8 мин | горки в лагуне + VinWonders 1,2 км | современный 8.9 | beachfront | 28 км / 45 мин | **$115** |
+| **8.57** | Vinpearl Resort & Spa | 1,4 км / 15 мин | 4,7 км | Typhoon World ~15 мин пешком | стандарт 8.7 (корпус ~2014) | beachfront | 28 км | **$104** |
+| **8.47** | Wyndham Garden Grandworld | **150 м пешком** | 3,5 км | горка в бассейне + VinWonders ~1 км | современный 4★ | 80 м | 28 км | **$106** |
+| **8.41** | Radisson Blu | 500 м пешком | 4 км | VinWonders рядом | современный value 5★ | beachfront | 27 км | **$97** |
+| **8.36** | Sheraton Bai Dai | 2,5 км / 8 мин (VinBus) | 5 км | VinWonders (VinBus) | Marriott, не самый новый | 100 м | 26 км | **$129** |
+| **8.01** | Crowne Plaza Starbay | 3,6 км / 8 мин | 7 км | VinWonders ~10 мин | **новые** номера 2023 (9.6) | beachfront | 22 км | **$146** |
+| **7.96** | Regent Starbay | 3,6 км / 8 мин | 7 км | VinWonders ~10 мин | suite **10.0** roomComfort | 80 м | 22 км | $500 |
+
+Практичный выбор, если все пять пунктов важны сразу: **Radisson Blu $97** (пешком до Grand World) или **Wyndham Grand $115** (горки + 300 м до каналов). Если номер важнее цены — **Crowne Plaza $146** (новый IHG) или **Regent**.
+
+Аквапарк **на территории**, но не у Grand World: **Sunset Sanato** (Sanato Water Park, янв 2026, Long Beach, вилла **$352**) и **New World** (Aqua World, Bai Khem, вилла **$252**). Юг: **Hon Thom Aquatopia** через канатку из An Thoi / Sunset Town.
+
+Самый красивый номер **не** на севере: JW Marriott (Bensley, Bai Khem, **$459**, ~70 мин до парков), WorldHotels / Dusit / InterContinental на Long Beach.
+
+Ближе к центру Dương Đông: **Praha / An Phu** (ночной рынок пешком, пляж 300–900 м, Grand World ~40 мин). La Veranda ~2,5 км от города, beachfront, колониальный стиль.
 
 ---
 
@@ -155,7 +188,7 @@ python3 scripts/fetch_hotel_profiles.py   # отзывы, категории, ф
 python3 scripts/build_tables.py
 ```
 
-Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`. Описания и база оценки завтрака: `scripts/hotel_profiles.py`.
+Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`. Описания и база оценки завтрака: `scripts/hotel_profiles.py`. Локации Grand World / Safari / аквапарк / море / центр: `scripts/hotel_pois.py`. Проверка: `python3 scripts/test_hotel_pois.py`.
 
 ---
 
@@ -167,7 +200,7 @@ python3 scripts/build_tables.py
 | [`memory/trip.md`](memory/trip.md) | даты, гости, допущения |
 | [`memory/sources.md`](memory/sources.md) | какие сайты отвечали |
 | [`memory/picks.md`](memory/picks.md) | короткие рекомендации |
-| [`data/comparison.md`](data/comparison.md) | полная таблица + районы (по рейтингу) |
+| [`data/comparison.md`](data/comparison.md) | полная таблица + районы + блок локаций (Grand World / Safari / аквапарк) |
 | [`data/comparison.csv`](data/comparison.csv) | то же в Excel |
 | [`data/hotel-profiles.json`](data/hotel-profiles.json) | рейтинг, завтрак, описание |
 | [`data/hotel-profiles-raw.json`](data/hotel-profiles-raw.json) | сырые отзывы/фичи Agoda |
@@ -176,3 +209,5 @@ python3 scripts/build_tables.py
 | [`scripts/fetch_hotel_profiles.py`](scripts/fetch_hotel_profiles.py) | обновить отзывы/фичи |
 | [`scripts/build_tables.py`](scripts/build_tables.py) | собрать таблицы |
 | [`scripts/hotel_profiles.py`](scripts/hotel_profiles.py) | описания + оценка завтрака |
+| [`scripts/hotel_pois.py`](scripts/hotel_pois.py) | Grand World, Safari, аквапарк, стиль номера, море, центр |
+| [`scripts/test_hotel_pois.py`](scripts/test_hotel_pois.py) | проверки локаций |
