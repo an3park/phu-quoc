@@ -18,12 +18,14 @@
 
 ## Если цель — бутик / пары
 
-**Soul Boutique — $94** (Long Beach, завтрак + отмена; инфраструктура рядом с Sailing Club).  
-**Lahana — $111** (холм, вид на море, не пляж, дешёвый тариф non-refundable).  
-**Camia — $144** (свой пляж на Ong Lang).  
-Salinda **$210**, La Veranda **$208**, Chen Sea **$201**, Cassia **$224**.
+По **отзывам** (Agoda+Booking+TA, 23.08.2026):
 
-**M Village — $153**: домики на холме у Cua Lap, не beachfront — слабее по пляжу, чем Famiana/Soul за те же или меньшие деньги.
+1. **Lahana — $111, Agoda 9.1 / 7.5k** — самая любимая 4★ в списке (сервис 9.5). Не пляж: 7–10 мин до воды.
+2. **Camia — $144, Agoda 9.0 / Booking 9.3 / TA 4.8** — тихий Ong Lang, закаты; пляж узкий/камни.
+3. **Soul Boutique — $94, Agoda 8.9 / ~800 отзывов** — новый, чисто; завтрак и бассейн в Sailing Club, не в здании.
+4. Salinda **$210 / 9.4**, La Veranda **$208 / 9.1**, Cassia **$224 / 9.2**, Chen Sea **$201 / 8.8**.
+
+**M Village — $153**: Agoda 8.9, но **Booking 8.3**; шум, без своего пляжа — не брать вместо Lahana/Soul.
 
 ## Если цель — бюджет
 
@@ -32,5 +34,6 @@ An Phu **$33**, Muong Thanh **$50**, Brenta **$61**, Bauhinia **$66**, Praha **$
 ## Пока не бронировать вслепую
 
 - Fusion / Nam Nghi — нет продажи на Agoda.
-- Строки Premier Village / Meliá / Sailing Club / Seashells / **Grand Resort Ocean Bay** — это виллы/family bungalow на несколько спален, не стандартный номер.
+- Строки Premier Village / Meliá / Sailing Club / Seashells / **Grand Ocean Bay** — виллы/family bungalow, не стандарт. Grand Ocean Bay ещё и **Google 4.3 / Agoda 8.6** — слабая 5★ за $337.
+- Radisson Blu **$97**: Google 4.8, TA 4.5, Agoda 8.9 — нормальный север к VinWonders, сервис неровный, западное море в октябре.
 - InterContinental $264 на Agoda vs ~$200 на официальном сайте в Google.

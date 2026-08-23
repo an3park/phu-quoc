@@ -31,11 +31,15 @@
 
 Если важна **восточная сторона в октябре** (спокойнее море): Paralia Khem Beach **$84**, Premier Residences Emerald Bay **$157**, New World (вилла с бассейном) **$252**, JW Marriott **$459**.
 
-Если **бутик / романтика**: Salinda **$210**, La Veranda **$208**, Chen Sea (The Slate) **$201**, Cassia Cottage **$224**. На Long Beach новый **Soul Boutique — $94** (завтрак, бесплатная отмена); **Lahana $111** — 4★ на холме с видом на море, не на пляже.
+Если **бутик / романтика**: Salinda **$210** (Agoda **9.4** / 6.5k отзывов), La Veranda **$208** (9.1), Chen Sea **$201** (8.8), Cassia **$224** (9.2). Из новых: **Lahana $111 — лучшая репутация (9.1 / 7.5k)**, но не пляж; **Camia $144** (9.0 Agoda / 9.3 Booking, TA 4.8) — тихий Ong Lang; **Soul $94** (8.9, мало отзывов, завтрак в Sailing Club).
 
 Если **бюджет**: An Phu / Praha / Bauhinia / Muong Thanh — **$33–50**.
 
+По отзывам **не брать** при текущих ценах: **M Village $153** (Booking 8.3, без пляжа) и **Grand Ocean Bay $337** (Google 4.3, дешёвый номер — family bungalow).
+
 **Fusion Resort** (spa inclusive) и **Nam Nghi** на Agoda на эти даты **не продаются**. Перед бронью JW Marriott сверьте официальный сайт и Traveloka: Google Hotels показывал типичные **$310–358**, тогда как Agoda — **$459**.
+
+Отзывы с Agoda, Booking, Google, Tripadvisor и агрегаторов: [`data/reviews.md`](data/reviews.md).
 
 ---
 
@@ -152,11 +156,13 @@
 
 ---
 
-## Как обновить цены
+## Как обновить цены и отзывы
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
 python3 scripts/build_tables.py
+python3 scripts/fetch_reviews.py
+python3 scripts/build_reviews.py
 ```
 
 Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`.
@@ -174,4 +180,6 @@ python3 scripts/build_tables.py
 | [`data/comparison.md`](data/comparison.md) | полная таблица + районы |
 | [`data/comparison.csv`](data/comparison.csv) | то же в Excel |
 | [`data/agoda-live.json`](data/agoda-live.json) | сырой снимок тарифов |
+| [`data/reviews.md`](data/reviews.md) | отзывы Agoda/Booking/Google/TA |
+| [`data/reviews.csv`](data/reviews.csv) | оценки каталога |
 | [`scripts/fetch_agoda_prices.py`](scripts/fetch_agoda_prices.py) | обновить Agoda |

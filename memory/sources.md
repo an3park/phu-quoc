@@ -4,20 +4,23 @@
 
 | Источник | Что дали | Датировано 19–25.10.2026? |
 | --- | --- | --- |
-| Agoda GetSecondaryData | Живые тарифы 56 отелей каталога, с налогами | **да** |
-| Google Hotels | Кросс-чек JW, Vinpearl, InterContinental, sponsored-цены | частично (часть карточек падает на ближайшие даты) |
-| Kayak / Momondo | Сезонность, «from $», октябрь часто дешёвый месяц | нет, средние |
-| VietnamSpot (июль 2026) | Диапазоны low/high season, районы | ориентиры 2026 |
-| Agoda hotel pages | Средние цены отеля (JW ~$317, InterContinental ~$216) | нет |
-| Luxury-обзоры 2026 | Типичные $150–600 по курортам | нет |
+| Agoda GetSecondaryData | Живые тарифы 56 отелей + **оценки/категории отзывов** | тарифы **да**; отзывы — накопленные |
+| Agoda ReviewComments | Тексты Agoda **и Booking.com** (провайдер 3038) | нет, репутация |
+| Google Hotels | Кросс-чек JW, Vinpearl, InterContinental | частично |
+| Google Maps (карточки) | Radisson **4.8**/5 (6 106), Grand Ocean Bay **4.3**/5 (890) | нет |
+| Tripadvisor | JW 4.8/1 663; Camia 4.8/337; Radisson 4.5/1 199 | нет |
+| Expedia / Trivago / HotelsCombined / Trip.com | Агрегированные оценки Lahana, Camia, Soul, Grand | нет |
+| Kayak / Momondo | Сезонность | нет, средние |
+| VietnamSpot (июль 2026) | Low/high season | ориентиры 2026 |
 
 ## Заблокировано / пусто без браузера
 
-Booking.com (AWS WAF 202), Expedia/Hotels.com (429), Marriott.com (403), IHG (403/401), Accor API (401), Traveloka (403), Tripadvisor (403), Vinpearl official (403), Melia.com (403), Trivago (пустой SPA), Kayak HTML без цен.
+Booking.com HTML (AWS WAF 202) — оценки Booking всё же видны через Agoda combined + сниппеты. Expedia/Hotels.com (429), Marriott.com (403), IHG (403/401), Accor API (401), Traveloka (403), Tripadvisor HTML (403), Vinpearl official (403), Melia.com (403), Trivago SPA.
 
 ## Вывод для следующих прогонов
 
-1. Сначала Agoda live.
-2. Для JW / InterContinental / Vinpearl / Accor — вручную или через Google Hotels сверить бренд.
-3. Fusion и Nam Nghi могут не продаваться далеко вперёд.
-4. Не смешивать «типичная цена» и «тариф на наши даты» в одной колонке без пометки.
+1. Сначала Agoda live тарифы.
+2. Отзывы: `scripts/fetch_reviews.py` (Agoda+Booking comments) + ручной кросс Google/TA для шорт-листа.
+3. Для JW / InterContinental / Vinpearl / Accor — сверить бренд.
+4. Fusion и Nam Nghi могут не продаваться далеко вперёд.
+5. Не смешивать «типичная цена» и «тариф на наши даты». Не смешивать оценку Google /5 с Agoda /10 без пересчёта.
