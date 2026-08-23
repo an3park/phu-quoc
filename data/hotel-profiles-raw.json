@@ -1,0 +1,3299 @@
+{
+  "fetched": true,
+  "hotels": [
+    {
+      "hotel_id": 1624474,
+      "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "catalog_name": "JW Marriott Phu Quoc Emerald Bay",
+      "district": "Bai Khem",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 9.2,
+      "score_text": "Exceptional",
+      "reviews_count": 2761,
+      "grades": {
+        "cleanliness": 9.5,
+        "facilities": 9.4,
+        "location": 8.9,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.0,
+        "roomComfort": 9.7,
+        "overall": 9.2
+      },
+      "key_features": [
+        "Fitness center",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Beachfront",
+        "Garden",
+        "Gym/fitness",
+        "Hot tub",
+        "Pool with view"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Air conditioning",
+        "Currency exchange",
+        "Daily housekeeping"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Tempus Fugit",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Pink Pearl",
+          "cuisines": [
+            "Cantonese"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Red Rum",
+          "cuisines": [
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Continental"
+      ],
+      "overview_snippet": "<b>Experience Luxury at <b>JW Marriott Phu Quoc Emerald Bay Resort &amp; Spa</b></b><br><br>Escape to paradise at <b>JW Marriott Phu Quoc Emerald Bay Resort &amp; Spa</b>, a 5-star haven nestled on the stunning Phu Quoc Island in Vietnam. With its breathtaking location, impeccable service, and luxurious amenities, this resort promises an unforgettable stay for discerning travelers.\n\nConveniently s"
+    },
+    {
+      "hotel_id": 3648660,
+      "name": "InterContinental Phu Quoc Long Beach Resort By IHG",
+      "catalog_name": "InterContinental Phu Quoc Long Beach",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 9.0,
+      "score_text": "Exceptional",
+      "reviews_count": 5113,
+      "grades": {
+        "cleanliness": 9.4,
+        "facilities": 9.5,
+        "location": 9.0,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.2,
+        "roomComfort": 9.6,
+        "overall": 9.0
+      },
+      "key_features": [
+        "Fitness center",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Kitchen",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Swimming pool [kids]",
+        "Spanish",
+        "On-site accessible restaurants / lounges"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Breakfast [free]"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Sora & Umi",
+          "cuisines": [
+            "Asian",
+            "International",
+            "Japanese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "LAVA",
+          "cuisines": [
+            "Seafood"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Sea Shack",
+          "cuisines": [
+            "International",
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Ombra",
+          "cuisines": [
+            "Italian",
+            "Pizza"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Continental",
+        "Vegetarian",
+        "Vegan",
+        "Full English/Irish",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at InterContinental Phu Quoc Long Beach Resort</b><br><br>Nestled on the stunning Phu Quoc Island in Vietnam, InterContinental Phu Quoc Long Beach Resort offers a truly luxurious and unforgettable experience. With its prime location just 15 minutes away from the airport, this 5-star resort provides convenience and easy access for travelers. Built in 2018, the r"
+    },
+    {
+      "hotel_id": 34249576,
+      "name": "New World Phu Quoc Resort",
+      "catalog_name": "New World Phu Quoc Resort",
+      "district": "Bai Khem",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 6874,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 9.1,
+        "location": 8.6,
+        "staffPerformance": 9.1,
+        "valueForMoney": 9.0,
+        "overall": 8.7,
+        "roomComfort": 8.5
+      },
+      "key_features": [
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Kids club",
+        "Fitness center",
+        "Garden",
+        "Golf course [on-site]",
+        "Hot tub",
+        "Pool with view",
+        "Private beach",
+        "Sauna"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Breakfast [free]"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Discover Luxury and Serenity at <b>New World Phu Quoc Resort</b></b><br><br>Nestled on the stunning island of Phu Quoc, Vietnam, the <b>New World Phu Quoc Resort</b> offers an idyllic retreat just 23 kilometers from the vibrant city center. Built in 2021, this modern haven combines contemporary elegance with natural beauty, providing guests with a perfect escape into paradise. Whether you're ar"
+    },
+    {
+      "hotel_id": 21774297,
+      "name": "Regent Phu Quoc By IHG",
+      "catalog_name": "Regent Phu Quoc",
+      "district": "Bai Dai / Starbay",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 9.4,
+      "score_text": "Exceptional",
+      "reviews_count": 2084,
+      "grades": {
+        "cleanliness": 9.8,
+        "facilities": 9.8,
+        "location": 9.4,
+        "staffPerformance": 9.8,
+        "valueForMoney": 9.5,
+        "roomComfort": 9.9,
+        "overall": 9.4
+      },
+      "key_features": [
+        "Fitness center",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Kitchen",
+        "Restaurants",
+        "Kids club",
+        "Spanish",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Golf course [on-site]"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "80 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Comfort at <b>Regent Phu Quoc By IHG</b></b><br><br>Nestled on the stunning Phu Quoc Island, the <b>Regent Phu Quoc By IHG</b> offers a perfect blend of modern elegance and natural beauty. Built in 2022, this contemporary hotel boasts 298 well-appointed rooms designed to provide guests with ultimate comfort and luxury. Conveniently located just 15 minutes from the airport,"
+    },
+    {
+      "hotel_id": 4518431,
+      "name": "Premier Village Phu Quoc Resort - Managed by Accor",
+      "catalog_name": "Premier Village Phu Quoc",
+      "district": "Bai Khem",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 1811,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.9,
+        "location": 8.1,
+        "staffPerformance": 9.0,
+        "valueForMoney": 8.8,
+        "roomComfort": 9.0,
+        "overall": 8.6
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Kitchen",
+        "Restaurants",
+        "Beachfront",
+        "On-site accessible restaurants / lounges",
+        "Gym/fitness",
+        "Hot tub"
+      ],
+      "features_you_love": [
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Hot tub"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "The Market",
+          "cuisines": [
+            "Asian",
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Corallo",
+          "cuisines": [
+            "Asian",
+            "European",
+            "International",
+            "Local",
+            "Seafood",
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Continental"
+      ],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at Premier Village Phu Quoc Resort</b><br><br>Nestled on the stunning shores of Phu Quoc Island in Vietnam, Premier Village Phu Quoc Resort Managed by Accorhotels offers an unrivaled 5-star experience that combines luxury, tranquility, and breathtaking natural beauty. With its 217 elegantly designed rooms, this resort is the perfect destination for discerning t"
+    },
+    {
+      "hotel_id": 1624152,
+      "name": "Fusion Resort Phu Quoc - All Spa Inclusive",
+      "catalog_name": "Fusion Resort Phu Quoc",
+      "district": "Vung Bau",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 1063,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 9.2,
+        "location": 7.9,
+        "staffPerformance": 9.4,
+        "valueForMoney": 9.0,
+        "overall": 8.8
+      },
+      "key_features": [
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Spanish",
+        "Fitness center",
+        "Garden",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Private beach",
+        "Sauna",
+        "Snorkeling"
+      ],
+      "features_you_love": [
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Sauna"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Ultimate Relaxation at <b>Fusion Resort Phu Quoc - All Spa Inclusive</b></b><br><br>Welcome to <b>Fusion Resort Phu Quoc - All Spa Inclusive</b>, a luxurious 5-star hotel nestled in the stunning Phu Quoc Island, Vietnam. Built in 2017, this resort offers an unparalleled experience of relaxation and rejuvenation, where every aspect of your stay is designed to pamper and indulge you.\n\n"
+    },
+    {
+      "hotel_id": 569108,
+      "name": "Salinda Resort Phu Quoc - Sparkling Wine Breakfast",
+      "catalog_name": "Salinda Resort Phu Quoc",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 9.4,
+      "score_text": "Exceptional",
+      "reviews_count": 6462,
+      "grades": {
+        "cleanliness": 9.7,
+        "facilities": 9.5,
+        "location": 9.4,
+        "roomComfort": 9.4,
+        "staffPerformance": 9.7,
+        "valueForMoney": 9.4,
+        "overall": 9.4,
+        "foodDining": 8.7
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Spanish",
+        "Gym/fitness",
+        "Hot tub"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Salinda Restaurant",
+          "cuisines": [
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "il Muro Italiano",
+          "cuisines": [
+            "Italian"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Pakka Indian",
+          "cuisines": [
+            "Indian"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b><b>Salinda Resort Phu Quoc - Sparkling Wine Breakfast</b>: A Luxurious Retreat in Phu Quoc Island</b><br><br>Nestled on the stunning Phu Quoc Island in Vietnam, <b>Salinda Resort Phu Quoc - Sparkling Wine Breakfast</b> offers a truly luxurious retreat for travelers seeking a memorable vacation experience. With its impeccable service, breathtaking surroundings, and top-notch facilities, this 5-s"
+    },
+    {
+      "hotel_id": 625168,
+      "name": "Vinpearl Resort & Spa Phú Quốc",
+      "catalog_name": "Vinpearl Resort & Spa Phu Quoc",
+      "district": "Bai Dai",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 8667,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 9.0,
+        "location": 8.7,
+        "roomComfort": 8.9,
+        "staffPerformance": 9.0,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Sauna",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Tennis court",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Beachfront"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Seashell Restaurant",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Nemo Restaurant",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "The Beach Bistro",
+          "cuisines": [
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Serenity at <b>Vinpearl Resort &amp; Spa Phú Quốc</b></b><br><br>Nestled on the stunning island of Phu Quoc, Vietnam, <b>Vinpearl Resort &amp; Spa Phú Quốc</b> offers an idyllic retreat just 20 kilometers from the vibrant city center. Established in 2014, this expansive resort boasts 636 beautifully appointed rooms, providing guests with a perfect blend of comfort and eleg"
+    },
+    {
+      "hotel_id": 1985199,
+      "name": "Melia Vinpearl Phu Quoc",
+      "catalog_name": "Meliá Vinpearl Phu Quoc",
+      "district": "Bai Dai",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.6,
+      "score_text": "Excellent",
+      "reviews_count": 3254,
+      "grades": {
+        "cleanliness": 8.7,
+        "facilities": 8.8,
+        "location": 8.3,
+        "staffPerformance": 9.0,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Golf course [on-site]",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Kids club",
+        "Spanish",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Gym/fitness"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Hot tub"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Cape Nao Restaurants",
+          "cuisines": [
+            "Mediterranean"
+          ],
+          "servings": []
+        },
+        {
+          "name": "Jarana Restaurants",
+          "cuisines": [
+            "Asian",
+            "International"
+          ],
+          "servings": []
+        },
+        {
+          "name": "Casa Nostra Restaurants",
+          "cuisines": [
+            "Italian"
+          ],
+          "servings": []
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Comfort at <b>Melia Vinpearl Phu Quoc</b></b><br><br>Nestled on the stunning Phu Quoc Island, <b>Melia Vinpearl Phu Quoc</b> offers a perfect blend of modern elegance and tropical paradise. Located just 21 kilometers from the bustling city center and approximately a 50-minute drive from the airport, this upscale hotel provides convenient access to the island’s most beautif"
+    },
+    {
+      "hotel_id": 9776735,
+      "name": "Pullman Phu Quoc Beach Resort",
+      "catalog_name": "Pullman Phu Quoc Beach Resort",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 5611,
+      "grades": {
+        "cleanliness": 9.1,
+        "facilities": 9.2,
+        "location": 8.6,
+        "staffPerformance": 9.3,
+        "valueForMoney": 9.0,
+        "roomComfort": 9.2,
+        "overall": 8.8
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "On-site accessible restaurants / lounges",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Hot tub",
+        "Korean sauna"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Pullman Phu Quoc Beach Resort</b></b><br><br>Nestled on the stunning shores of Phu Quoc Island, Vietnam, <b>Pullman Phu Quoc Beach Resort</b> offers a lavish and serene retreat for discerning travelers. With its impeccable 5-star service, breathtaking views, and an array of luxurious amenities, this resort is the perfect destination for those seeking an u"
+    },
+    {
+      "hotel_id": 5442703,
+      "name": "Radisson Blu Resort Phu Quoc",
+      "catalog_name": "Radisson Blu Resort Phu Quoc",
+      "district": "Bai Dai",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 2465,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 9.1,
+        "location": 9.0,
+        "staffPerformance": 9.1,
+        "valueForMoney": 9.0
+      },
+      "key_features": [
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Garden",
+        "Private beach",
+        "Snorkeling",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "A la carte in restaurant",
+        "Buffet in restaurant"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": false,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Avenue",
+          "cuisines": [
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Radisson Blu Resort Phu Quoc</b></b><br><br>Welcome to <b>Radisson Blu Resort Phu Quoc</b>, a magnificent 5-star hotel nestled in the serene and picturesque Phu Quoc Island, Vietnam. With its stunning architecture, impeccable service, and luxurious amenities, this resort promises an unforgettable stay for both leisure and business travelers.\n\nAs you step "
+    },
+    {
+      "hotel_id": 2163073,
+      "name": "Wyndham Grand Phu Quoc",
+      "catalog_name": "Wyndham Grand Phu Quoc",
+      "district": "Bai Dai",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.6,
+      "score_text": "Excellent",
+      "reviews_count": 6461,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.9,
+        "location": 8.4,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.7,
+        "roomComfort": 8.7,
+        "overall": 8.6
+      },
+      "key_features": [
+        "Fitness center",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Tennis court",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Gym/fitness",
+        "Hot tub"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Topaz Italiano",
+          "cuisines": [
+            "Italian"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Bow Thai",
+          "cuisines": [
+            "Thai"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Nautilus Restaurant",
+          "cuisines": [],
+          "servings": [
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Ozone Seafood",
+          "cuisines": [],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Chingu BBQ",
+          "cuisines": [
+            "Korean",
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Chinese Restaurant",
+          "cuisines": [
+            "Chinese"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Wyndham Grand Phu Quoc</b></b><br><br>Welcome to <b>Wyndham Grand Phu Quoc</b>, a breathtaking 5-star hotel nestled on the stunning Phu Quoc Island in Vietnam. With its serene location and luxurious amenities, this hotel offers a truly unforgettable experience for discerning travelers. Built in 2017, <b>Wyndham Grand Phu Quoc</b> boasts modern architectur"
+    },
+    {
+      "hotel_id": 14654959,
+      "name": "Mövenpick Resort Waverly Phu Quoc",
+      "catalog_name": "Mövenpick Resort Waverly Phu Quoc",
+      "district": "Ong Lang",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 1893,
+      "grades": {
+        "cleanliness": 9.1,
+        "facilities": 9.1,
+        "location": 8.2,
+        "staffPerformance": 9.0,
+        "valueForMoney": 9.0
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "On-site accessible restaurants / lounges",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Hot tub",
+        "Pool facilities"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Mövenpick Resort Waverly Phu Quoc</b></b><br><br>Escape to a world of luxury and tranquility at <b>Mövenpick Resort Waverly Phu Quoc</b>, a 5-star hotel nestled in the breathtaking island of Phu Quoc, Vietnam. With its stunning architecture, impeccable service, and an array of world-class amenities, this resort promises an unforgettable stay for discernin"
+    },
+    {
+      "hotel_id": 14676909,
+      "name": "Movenpick Villas & Residences Phu Quoc",
+      "catalog_name": "Mövenpick Villas & Residences Phu Quoc",
+      "district": "Ong Lang",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 2485,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 9.0,
+        "location": 8.2,
+        "staffPerformance": 9.0,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Gym/fitness",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Kitchen",
+        "Restaurants",
+        "Kids club",
+        "Swimming pool [kids]",
+        "Beachfront"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Movenpick Villas &amp; Residences Phu Quoc</b></b><br><br>Nestled on the pristine shores of Phu Quoc Island, Vietnam, <b>Movenpick Villas &amp; Residences Phu Quoc</b> offers a truly luxurious and tranquil retreat. This 5-star hotel boasts a range of exquisite amenities and services, ensuring an unforgettable stay for every guest.\n\nWith a check-out time o"
+    },
+    {
+      "hotel_id": 1157572,
+      "name": "Novotel Phu Quoc Resort",
+      "catalog_name": "Novotel Phu Quoc Resort",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 6840,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.9,
+        "location": 8.9,
+        "roomComfort": 9.3,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.9,
+        "overall": 8.7,
+        "foodDining": 8.0
+      },
+      "key_features": [
+        "Fitness center",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Spanish",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Golf course [on-site]"
+      ],
+      "features_you_love": [
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Hot tub"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Food Exchange Restaurant",
+          "cuisines": [],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Phu Quoc Seafood Restaurant",
+          "cuisines": [
+            "Asian",
+            "Vietnamese",
+            "Seafood"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Continental",
+        "Italian",
+        "Vegetarian",
+        "Vegan",
+        "Full English/Irish",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b>Discover Luxury and Comfort at <b>Novotel Phu Quoc Resort</b></b><br><br>Nestled on the stunning shores of Phu Quoc Island, Vietnam, <b>Novotel Phu Quoc Resort</b> offers a perfect blend of modern elegance and tropical tranquility. Just 12 kilometers from the vibrant city center and a quick 10-minute drive from the airport, this upscale resort provides guests with seamless access to both local "
+    },
+    {
+      "hotel_id": 70425,
+      "name": "La Veranda Resort Phu Quoc - MGallery",
+      "catalog_name": "La Veranda Resort Phu Quoc MGallery",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 9.1,
+      "score_text": "Exceptional",
+      "reviews_count": 1210,
+      "grades": {
+        "cleanliness": 9.5,
+        "facilities": 9.3,
+        "location": 9.2,
+        "roomComfort": 8.9,
+        "staffPerformance": 9.4,
+        "valueForMoney": 8.8,
+        "overall": 9.1,
+        "foodDining": 8.2
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Gym/fitness",
+        "Hot tub",
+        "Sauna",
+        "Spa/sauna"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian",
+        "Continental",
+        "Vegetarian",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at <b>La Veranda Resort Phu Quoc - MGallery</b></b><br><br>Nestled on the stunning Phu Quoc Island in Vietnam, <b>La Veranda Resort Phu Quoc - MGallery</b> offers a serene and luxurious retreat for travelers seeking a peaceful getaway. With its 4.5-star rating, this exquisite resort is the perfect destination for those looking to unwind and indulge in the beaut"
+    },
+    {
+      "hotel_id": 1032420,
+      "name": "Sheraton Phu Quoc Long Beach Resort",
+      "catalog_name": "Sheraton Phu Quoc Long Beach Resort",
+      "district": "Bai Dai",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 2655,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.9,
+        "location": 8.3,
+        "roomComfort": 9.0,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.6,
+        "overall": 8.8,
+        "foodDining": 7.7
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Gym/fitness",
+        "Hot tub",
+        "Private beach",
+        "Sauna"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "100 meters to the beach",
+        "Currency exchange",
+        "Air conditioning"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": " Wok & Curry",
+          "cuisines": [
+            "Asian"
+          ],
+          "servings": [
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "&More by Sheraton",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Daily Social",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Comfort at <b>Sheraton Phu Quoc Long Beach Resort</b></b><br><br>Nestled along the pristine shores of Phu Quoc Island, the <b>Sheraton Phu Quoc Long Beach Resort</b> offers a perfect retreat for travelers seeking both relaxation and adventure. Just 27 kilometers from the vibrant city center and a 45-minute drive from the airport, this stunning resort combines modern elegan"
+    },
+    {
+      "hotel_id": 5972590,
+      "name": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
+      "catalog_name": "Premier Residences Emerald Bay",
+      "district": "Bai Khem",
+      "star": 5.0,
+      "popularity": "popular",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 6779,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 9.0,
+        "location": 8.8,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.9,
+        "overall": 8.7,
+        "roomComfort": 8.5
+      },
+      "key_features": [
+        "Fitness center",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Swimming pool [kids]",
+        "Garden",
+        "Golf course [on-site]",
+        "Pool facilities"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Mercato",
+          "cuisines": [
+            "Asian",
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Club House",
+          "cuisines": [
+            "Seafood",
+            "Grill/BBQ"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        },
+        {
+          "name": "Pool Bar",
+          "cuisines": [],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at Premier Residences Phu Quoc Emerald Bay</b><br><br>Welcome to <b>Premier Residences Phu Quoc Emerald Bay Managed by Accor</b>, a luxurious 5-star hotel nestled in the stunning Phu Quoc Island, Vietnam. Built in 2018, this magnificent hotel offers a perfect blend of modern elegance and natural beauty, providing an unforgettable vacation experience for every g"
+    },
+    {
+      "hotel_id": 1266957,
+      "name": "SOL By Melia Phu Quoc",
+      "catalog_name": "SOL by Meliá Phu Quoc",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 8.5,
+      "score_text": "Excellent",
+      "reviews_count": 4237,
+      "grades": {
+        "cleanliness": 8.7,
+        "facilities": 8.6,
+        "location": 8.2,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.7
+      },
+      "key_features": [
+        "Fitness center",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Spanish",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Gym/fitness",
+        "Spa/sauna"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "270 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "The Kitchen",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Shack",
+          "cuisines": [
+            "International"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian",
+        "Continental",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b>Experience Luxury at <b>SOL By Melia Phu Quoc</b></b><br><br>Nestled on the stunning shores of Phu Quoc Island, <b>SOL By Melia Phu Quoc</b> is a luxurious 5-star haven that promises an unforgettable escape. Located just 10 kilometers from the vibrant city center and a mere 12 minutes from the airport, this exquisite hotel offers the perfect blend of convenience and tranquility. Built in 2016, "
+    },
+    {
+      "hotel_id": 31187083,
+      "name": "Sailing Club Signature Resort Phu Quoc",
+      "catalog_name": "Sailing Club Signature Resort",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 3765,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 9.1,
+        "location": 8.8,
+        "staffPerformance": 9.3,
+        "valueForMoney": 9.3,
+        "roomComfort": 9.2,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Garden",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Kitchen",
+        "Restaurants",
+        "Kids club",
+        "Fitness center",
+        "Golf course [on-site]",
+        "Mini golf course",
+        "Pool facilities",
+        "Private BBQ facilities"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Sauna"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Serenity at <b>Sailing Club Signature Resort Phu Quoc</b></b><br><br>Indulge in a luxurious getaway at <b>Sailing Club Signature Resort Phu Quoc</b>, a 5-star hotel nestled on the stunning Phu Quoc Island in Vietnam. With its breathtaking ocean views, impeccable service, and unparalleled amenities, this resort promises an unforgettable experience for discerning travelers. "
+    },
+    {
+      "hotel_id": 4968811,
+      "name": "Dusit Princess Moonrise Beach Resort",
+      "catalog_name": "Dusit Princess Moonrise",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 9.2,
+      "score_text": "Exceptional",
+      "reviews_count": 7004,
+      "grades": {
+        "cleanliness": 9.4,
+        "facilities": 9.2,
+        "location": 9.3,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.3,
+        "roomComfort": 9.7,
+        "overall": 9.2
+      },
+      "key_features": [
+        "Fitness center",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Garden",
+        "Gym/fitness",
+        "Pool with view",
+        "Private beach",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "A la carte in restaurant"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Palm Kitchen",
+          "cuisines": [
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Soi14",
+          "cuisines": [
+            "Thai"
+          ],
+          "servings": [
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian",
+        "Continental",
+        "Vegetarian",
+        "Full English/Irish"
+      ],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Dusit Princess Moonrise Beach Resort</b></b><br><br>Nestled on the stunning shores of Phu Quoc Island in Vietnam, <b>Dusit Princess Moonrise Beach Resort</b> offers a luxurious retreat for travelers seeking a perfect blend of relaxation and adventure. With its prime beachfront location, this 5-star resort boasts breathtaking views of the crystal-clear wat"
+    },
+    {
+      "hotel_id": 21774298,
+      "name": "Crowne Plaza Phu Quoc Starbay By IHG",
+      "catalog_name": "Crowne Plaza Phu Quoc Starbay",
+      "district": "Bai Dai / Starbay",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 9.1,
+      "score_text": "Exceptional",
+      "reviews_count": 6404,
+      "grades": {
+        "cleanliness": 9.5,
+        "facilities": 9.4,
+        "location": 8.7,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.4,
+        "roomComfort": 9.3,
+        "overall": 9.1
+      },
+      "key_features": [
+        "Fitness center",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Beachfront",
+        "On-site accessible restaurants / lounges",
+        "Garden",
+        "Golf course [on-site]"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at Crowne Plaza Phu Quoc Starbay</b><br><br>Welcome to Crowne Plaza Phu Quoc Starbay, a luxurious 5-star hotel nestled on the pristine shores of Phu Quoc Island, Vietnam. With its breathtaking views, world-class amenities, and impeccable service, this hotel promises an unforgettable stay for both business and leisure travelers.\n\nStep into a world of elegance an"
+    },
+    {
+      "hotel_id": 2061878,
+      "name": "Nam Nghi Coral Peninsula Phu Quoc",
+      "catalog_name": "Nam Nghi Coral Peninsula",
+      "district": "Vung Bau",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 8.5,
+      "score_text": "Excellent",
+      "reviews_count": 443,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 8.6,
+        "location": 8.4,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.2,
+        "overall": 8.5
+      },
+      "key_features": [
+        "Fitness center",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Garden",
+        "Gym/fitness",
+        "Sauna",
+        "Snorkeling",
+        "Spa/sauna"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [
+        "American",
+        "Asian"
+      ],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Nam Nghi Coral Peninsula Phu Quoc</b></b><br><br>Nestled in the stunning Phu Quoc Island in Vietnam, <b>Nam Nghi Coral Peninsula Phu Quoc</b> is a luxurious 5-star hotel that offers an unforgettable stay. With its breathtaking views, impeccable service, and world-class amenities, this hotel is the perfect choice for travelers seeking a tranquil and indulg"
+    },
+    {
+      "hotel_id": 5943665,
+      "name": "Sunset Sanato Resort & Villas",
+      "catalog_name": "Sunset Sanato Resort & Villas",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 8.5,
+      "score_text": "Excellent",
+      "reviews_count": 1191,
+      "grades": {
+        "cleanliness": 8.8,
+        "facilities": 8.4,
+        "location": 8.4,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.6
+      },
+      "key_features": [
+        "Gym/fitness",
+        "Private beach",
+        "Spa",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Water park",
+        "Restaurants",
+        "Shared kitchen",
+        "Fitness center",
+        "Garden",
+        "Private BBQ facilities",
+        "Spa/sauna"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Breakfast [free]"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Sunset Restaurant",
+          "cuisines": [
+            "Asian"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at <b>Sunset Sanato Resort &amp; Villas</b></b><br><br>Nestled on the stunning Phu Quoc Island in Vietnam, <b>Sunset Sanato Resort &amp; Villas</b> is a 4-star haven that promises a truly unforgettable getaway. With its picturesque location and world-class amenities, this resort offers a perfect blend of tranquility and luxury for discerning travelers.\n\nBoastin"
+    },
+    {
+      "hotel_id": 7008284,
+      "name": "Best Western Premier Sonasea Phu Quoc",
+      "catalog_name": "Best Western Premier Sonasea",
+      "district": "Long Beach",
+      "star": 0.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.6,
+      "score_text": "Excellent",
+      "reviews_count": 4842,
+      "grades": {
+        "cleanliness": 8.6,
+        "facilities": 8.8,
+        "location": 9.1,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.8
+      },
+      "key_features": [
+        "Fitness center",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Garden",
+        "Pool with view",
+        "Sauna",
+        "Spa/sauna",
+        "Swimming pool",
+        "Yoga room"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "250 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Essence",
+          "cuisines": [
+            "International",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Oasis Pool Bar",
+          "cuisines": [
+            "Mediterranean"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian"
+      ],
+      "overview_snippet": "<b>Luxurious Comfort at <b>Best Western Premier Sonasea Phu Quoc</b></b><br><br>Nestled on the stunning island of Phu Quoc, Vietnam, the <b>Best Western Premier Sonasea Phu Quoc</b> offers a perfect blend of modern luxury and natural beauty. Just 12 kilometers from the vibrant city center and a convenient 15-minute drive from the airport, this elegant hotel provides easy access to the island's top"
+    },
+    {
+      "hotel_id": 83294991,
+      "name": "WorldHotels Long Beach Resort Phu Quoc",
+      "catalog_name": "WorldHotels Long Beach Resort",
+      "district": "Long Beach",
+      "star": 0.0,
+      "popularity": "lesser-known",
+      "guest_score": 9.3,
+      "score_text": "Exceptional",
+      "reviews_count": 432,
+      "grades": {
+        "cleanliness": 9.7,
+        "facilities": 9.6,
+        "location": 9.4,
+        "staffPerformance": 9.7,
+        "valueForMoney": 9.6,
+        "roomComfort": 9.8,
+        "overall": 9.3
+      },
+      "key_features": [
+        "Fitness center",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Garden",
+        "Golf course [on-site]",
+        "Sauna",
+        "Snack bar",
+        "Kids club",
+        "Kids meal"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "90 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b><b>WorldHotels Long Beach Resort Phu Quoc</b></b><br><br>Do more sightseeing in the famous neighborhoods of Phu Quoc Island with a stay at <b>WorldHotels Long Beach Resort Phu Quoc</b>. Enjoy some seaside relaxation and drinks with a stay at <b>WorldHotels Long Beach Resort Phu Quoc</b>, just 16.4 km from Sao Beach.<br>Every effort is made to make guests feel comfortable by providing the best i"
+    },
+    {
+      "hotel_id": 2430159,
+      "name": "Seashells Phu Quoc Hotel & Spa",
+      "catalog_name": "Seashells Phu Quoc Hotel & Spa",
+      "district": "Long Beach",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": 9.0,
+      "score_text": "Excellent",
+      "reviews_count": 14508,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 9.0,
+        "location": 9.5,
+        "staffPerformance": 9.1,
+        "valueForMoney": 9.0
+      },
+      "key_features": [
+        "Fitness center",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Garden",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Pool with view",
+        "Private beach"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Coral Restaurant",
+          "cuisines": [
+            "American",
+            "Asian"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b><b>Seashells Phu Quoc Hotel &amp; Spa</b>: A Luxurious Haven on Phu Quoc Island</b><br><br>Welcome to <b>Seashells Phu Quoc Hotel &amp; Spa</b>, a 5-star sanctuary nestled in the breathtaking beauty of Phu Quoc Island, Vietnam. With its stunning beachfront location and world-class amenities, this hotel offers an unforgettable experience for both leisure and business travelers.\n\nAs you step into"
+    },
+    {
+      "hotel_id": 96572,
+      "name": "Cassia Cottage Resort and Spa",
+      "catalog_name": "Cassia Cottage Resort & Spa",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "mid",
+      "guest_score": 9.2,
+      "score_text": "Exceptional",
+      "reviews_count": 1818,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 9.0,
+        "location": 9.2,
+        "roomComfort": 8.8,
+        "staffPerformance": 9.4,
+        "valueForMoney": 8.7,
+        "overall": 9.2,
+        "foodDining": 8.0
+      },
+      "key_features": [
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Swimming pool [kids]",
+        "Fitness center",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Pool with view"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "The Spice House",
+          "cuisines": [
+            "Asian",
+            "International",
+            "Mediterranean"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian",
+        "Continental"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at Cassia Cottage Resort</b><br><br>Nestled on the picturesque Phu Quoc Island in Vietnam, Cassia Cottage Resort offers a serene and luxurious escape for travelers seeking a tranquil getaway. With its stunning surroundings, impeccable service, and top-notch amenities, this 4-star resort promises an unforgettable experience. Built in 1999 and last renovated in 2"
+    },
+    {
+      "hotel_id": 48370,
+      "name": "Mango Bay Resort",
+      "catalog_name": "Mango Bay Resort",
+      "district": "Ong Lang",
+      "star": 3.0,
+      "popularity": "mid",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 2374,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 8.7,
+        "location": 8.8,
+        "roomComfort": 8.6,
+        "staffPerformance": 9.1,
+        "valueForMoney": 8.7,
+        "overall": 9.0,
+        "foodDining": 8.8
+      },
+      "key_features": [
+        "Garden",
+        "Spa",
+        "Restaurants",
+        "Spanish",
+        "Private beach",
+        "Sauna",
+        "Snorkeling",
+        "Spa/sauna",
+        "Bar",
+        "Airport transfer",
+        "English",
+        "French"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": false,
+      "has_pool": false,
+      "restaurants": [
+        {
+          "name": "On The Rocks",
+          "cuisines": [
+            "European",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility at <b>Mango Bay Resort</b> in Phu Quoc Island</b><br><br>Nestled just 7 kilometers from the vibrant heart of Phu Quoc Island, <b>Mango Bay Resort</b> offers a serene escape surrounded by natural beauty. Established in 2002, this charming retreat features 44 thoughtfully designed rooms that blend comfort with the island's lush landscape. Whether you're arriving from the ai"
+    },
+    {
+      "hotel_id": 148661,
+      "name": "Chen Sea Resort and Spa Phu Quoc",
+      "catalog_name": "Chen Sea / The Slate",
+      "district": "Ong Lang",
+      "star": 4.5,
+      "popularity": "mid",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 1102,
+      "grades": {
+        "cleanliness": 9.1,
+        "facilities": 8.8,
+        "location": 8.4,
+        "roomComfort": 8.9,
+        "staffPerformance": 9.2,
+        "valueForMoney": 8.6,
+        "overall": 8.8,
+        "foodDining": 7.5
+      },
+      "key_features": [
+        "Private beach",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Spanish",
+        "Beachfront",
+        "Garden",
+        "Golf course [on-site]",
+        "Pool with view"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Il Ristorante",
+          "cuisines": [
+            "Asian",
+            "European",
+            "International",
+            "Italian",
+            "Local",
+            "Mediterranean",
+            "Vietnamese",
+            "Seafood",
+            "Pizza"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Elegance at <b>Chen Sea Resort and Spa Phu Quoc</b></b><br><br>Nestled just 7 kilometers from the vibrant city center of Phu Quoc Island, Chen Sea Resort and Spa offers an idyllic retreat where luxury meets natural beauty. Established in 2008 and beautifully renovated in 2013, this boutique resort features 36 thoughtfully designed rooms that blend contemporary comfort"
+    },
+    {
+      "hotel_id": 400217,
+      "name": "Famiana Resort and Spa",
+      "catalog_name": "Famiana Resort & Spa",
+      "district": "Long Beach",
+      "star": 4.5,
+      "popularity": "mid",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 1817,
+      "grades": {
+        "cleanliness": 8.8,
+        "facilities": 8.5,
+        "location": 8.7,
+        "roomComfort": 8.5,
+        "staffPerformance": 9.1,
+        "valueForMoney": 8.5,
+        "overall": 8.7,
+        "foodDining": 7.5
+      },
+      "key_features": [
+        "Gym/fitness",
+        "Private beach",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Kids club",
+        "Beachfront",
+        "On-site accessible restaurants / lounges",
+        "Fitness center",
+        "Garden"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Garden",
+          "cuisines": [
+            "Asian",
+            "European"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        },
+        {
+          "name": "Famiana",
+          "cuisines": [
+            "International",
+            "Local",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Comfort at <b>Famiana Resort and Spa</b>, Phu Quoc Island</b><br><br>Nestled just 4 kilometers from the vibrant city center of Phu Quoc Island, <b>Famiana Resort and Spa</b> offers a perfect blend of peaceful retreat and convenient access to local attractions. Established in 2012 and recently renovated in 2024, this elegant resort features 60 well-appointed rooms desi"
+    },
+    {
+      "hotel_id": 8836100,
+      "name": "L'Azure Resort and Spa",
+      "catalog_name": "L'Azure Resort and Spa",
+      "district": "Long Beach",
+      "star": 4.5,
+      "popularity": "lesser-known",
+      "guest_score": 9.2,
+      "score_text": "Exceptional",
+      "reviews_count": 3068,
+      "grades": {
+        "cleanliness": 9.4,
+        "facilities": 9.1,
+        "location": 9.5,
+        "staffPerformance": 9.6,
+        "valueForMoney": 9.3,
+        "roomComfort": 9.7,
+        "overall": 9.2
+      },
+      "key_features": [
+        "Private beach",
+        "Poolside bar",
+        "Restaurants",
+        "Swimming pool [kids]",
+        "Beachfront",
+        "Fitness center",
+        "Garden",
+        "Gym/fitness",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "220 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at <b>L'Azure Resort and Spa</b> in Phu Quoc</b><br><br>Nestled just half a kilometer from the vibrant heart of Phu Quoc Island, <b>L'Azure Resort and Spa</b> offers guests the perfect blend of convenience and serenity. Established in 2019 and recently renovated the same year, this elegant retreat boasts 61 beautifully appointed rooms designed to provide comfor"
+    },
+    {
+      "hotel_id": 21967772,
+      "name": "Ocean Bay Phu Quoc Resort & Spa",
+      "catalog_name": "Ocean Bay Phu Quoc Resort & Spa",
+      "district": "Ong Lang",
+      "star": 5.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 5311,
+      "grades": {
+        "cleanliness": 8.8,
+        "facilities": 8.9,
+        "location": 8.7,
+        "staffPerformance": 9.3,
+        "valueForMoney": 9.0,
+        "roomComfort": 9.0,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Pool facilities",
+        "Pool with view",
+        "Private beach",
+        "Sauna"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Ocean Bay Phu Quoc Resort &amp; Spa</b></b><br><br>Welcome to <b>Ocean Bay Phu Quoc Resort &amp; Spa</b>, a luxurious 5-star hotel nestled in the breathtaking Phu Quoc Island, Vietnam. With its stunning architecture and serene surroundings, this resort offers an unforgettable experience for those seeking relaxation and tranquility.\n\nUpon arrival, guests a"
+    },
+    {
+      "hotel_id": 47021962,
+      "name": "Grand Resort Ocean Bay Phu Quoc",
+      "catalog_name": "Grand Resort Ocean Bay",
+      "district": "Ong Lang",
+      "star": 5.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.6,
+      "score_text": "Excellent",
+      "reviews_count": 2004,
+      "grades": {
+        "cleanliness": 8.4,
+        "facilities": 8.7,
+        "location": 8.2,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.6,
+        "roomComfort": 9.2,
+        "overall": 8.6
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Gym/fitness",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Golf course [on-site]",
+        "Pool facilities",
+        "Private bath",
+        "Private beach"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Sauna"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury at <b>Grand Resort Ocean Bay Phu Quoc</b></b><br><br>Nestled on the stunning Phu Quoc Island, the <b>Grand Resort Ocean Bay Phu Quoc</b> is a newly built 5-star haven that promises an unforgettable escape. Opened in 2024, this exquisite resort is just 7 kilometers from the vibrant city center, allowing guests to enjoy both seclusion and easy access to local attractions. With a"
+    },
+    {
+      "hotel_id": 35958304,
+      "name": "Wyndham Garden Grandworld Phu Quoc",
+      "catalog_name": "Wyndham Garden Grandworld",
+      "district": "Bai Dai",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 2729,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 8.9,
+        "location": 9.1,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Private beach",
+        "Spa",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids club",
+        "Garden",
+        "Mini golf course"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Sauna"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Comfort at <b>Wyndham Garden Grandworld Phu Quoc</b></b><br><br>Discover a slice of paradise at <b>Wyndham Garden Grandworld Phu Quoc</b>, a stunning 3-star hotel nestled in the breathtaking Phu Quoc Island, Vietnam. With its prime location and an array of luxurious amenities, this newly built hotel is the perfect destination for both leisure and business travelers.\n\n"
+    },
+    {
+      "hotel_id": 14695651,
+      "name": "Peppercorn Beach Resort",
+      "catalog_name": "Peppercorn Beach Resort",
+      "district": "Bai Dai",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 275,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 8.7,
+        "location": 8.5,
+        "staffPerformance": 9.7,
+        "valueForMoney": 8.8,
+        "roomComfort": 9.1,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Fitness center",
+        "Garden",
+        "Golf course [on-site]",
+        "Gym/fitness",
+        "Pool with view",
+        "Private beach",
+        "Snorkeling",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Water park"
+      ],
+      "features_you_love": [
+        "Balcony/terrace",
+        "Diving",
+        "Linens",
+        "Mini bar"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [
+            "International",
+            "Local",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Dive into Adventure at <b>Peppercorn Beach Resort</b></b><br><br>At <b>Peppercorn Beach Resort</b>, guests are invited to explore the breathtaking underwater world of Phu Quoc Island through our exceptional diving facilities. Our resort offers easy access to some of the most stunning dive sites in the region, where vibrant coral reefs and diverse marine life await. Whether you're a seasoned div"
+    },
+    {
+      "hotel_id": 11081947,
+      "name": "Paralia Khem Beach Phu Quoc Hotel",
+      "catalog_name": "Paralia Khem Beach",
+      "district": "Bai Khem",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.5,
+      "score_text": "Excellent",
+      "reviews_count": 972,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.3,
+        "location": 9.0,
+        "staffPerformance": 8.7,
+        "valueForMoney": 8.6
+      },
+      "key_features": [
+        "Swimming pool [indoor]",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "Bar",
+        "Kitchen",
+        "Restaurants",
+        "Snack bar",
+        "Kids meal",
+        "Kids safety features",
+        "Airport transfer",
+        "Mini bar",
+        "Private bathroom"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Endless Fun and Entertainment at <b>Paralia Khem Beach Phu Quoc Hotel</b></b><br><br>At <b>Paralia Khem Beach Phu Quoc Hotel</b>, the fun never stops with its exceptional range of entertainment facilities. Whether you're in the mood for shopping or unwinding with a refreshing drink at the bar, this hotel has got you covered.\n\nIndulge in a retail therapy experience like no other at the hotel's o"
+    },
+    {
+      "hotel_id": 1624612,
+      "name": "Muong Thanh Luxury Phu Quoc Hotel",
+      "catalog_name": "Muong Thanh Luxury Phu Quoc",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 7.9,
+      "score_text": "Very good",
+      "reviews_count": 2226,
+      "grades": {
+        "cleanliness": 8.1,
+        "facilities": 7.7,
+        "location": 7.7,
+        "staffPerformance": 8.2,
+        "valueForMoney": 8.0
+      },
+      "key_features": [
+        "Fitness center",
+        "Restaurants",
+        "Garden",
+        "Gym/fitness",
+        "Hot tub",
+        "Pool with view",
+        "Sauna",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Sanitized kitchen and tableware items"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "310 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "An Thoi",
+          "cuisines": [],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American"
+      ],
+      "overview_snippet": "<b>Experience Luxury and Tranquility at <b>Muong Thanh Luxury Phu Quoc Hotel</b></b><br><br>Welcome to <b>Muong Thanh Luxury Phu Quoc Hotel</b>, a 5-star oasis nestled on the picturesque Phu Quoc Island in Vietnam. From the moment you step into this luxurious haven, you will be captivated by its elegant design, impeccable service, and breathtaking surroundings. Whether you are seeking a romantic g"
+    },
+    {
+      "hotel_id": 6352970,
+      "name": "An Phu Hotel",
+      "catalog_name": "An Phu Hotel",
+      "district": "Duong Dong",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 4154,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.6,
+        "location": 9.0,
+        "staffPerformance": 8.9,
+        "valueForMoney": 9.2,
+        "overall": 8.7,
+        "roomComfort": 8.7
+      },
+      "key_features": [
+        "Restaurants",
+        "Bar",
+        "Mini bar",
+        "Private bathroom",
+        "Front desk [24-hour]",
+        "English",
+        "Vietnamese",
+        "Free Wi-Fi in all rooms!",
+        "Internet",
+        "Internet services",
+        "Wi-Fi in public areas",
+        "Ticket services"
+      ],
+      "features_you_love": [
+        "920 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": false,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [
+            "Asian",
+            "European",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian"
+      ],
+      "overview_snippet": "<b>Discover Comfort and Convenience at <b>An Phu Hotel</b> in Phu Quoc Island</b><br><br>Nestled in the stunning paradise of Phu Quoc Island, <b>An Phu Hotel</b> offers a welcoming retreat for travelers seeking both relaxation and adventure. With 68 well-appointed rooms, guests can enjoy a comfortable and spacious environment designed to enhance their stay. Check-in begins at 2:00 PM, allowing vis"
+    },
+    {
+      "hotel_id": 60710642,
+      "name": "Rocks Beach Boutique",
+      "catalog_name": "Rocks Beach Boutique",
+      "district": "Ham Ninh",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.3,
+      "score_text": "Excellent",
+      "reviews_count": 780,
+      "grades": {
+        "cleanliness": 8.7,
+        "facilities": 8.5,
+        "location": 7.8,
+        "staffPerformance": 9.0,
+        "valueForMoney": 8.8
+      },
+      "key_features": [
+        "Garden",
+        "Private beach",
+        "Snorkeling",
+        "Spa",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Kitchen",
+        "Poolside bar",
+        "Restaurant dinner",
+        "Restaurant lunch",
+        "Restaurants"
+      ],
+      "features_you_love": [
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning",
+        "Daily housekeeping",
+        "Bar"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Discover the Tranquil Charm of <b>Rocks Beach Boutique</b> in Phu Quoc</b><br><br>Nestled along the pristine shores of Phu Quoc Island, <b>Rocks Beach Boutique</b> offers an intimate and serene retreat for travelers seeking a peaceful getaway. With its charming ambiance and personalized service, this boutique hotel provides a unique escape where guests can unwind amidst natural beauty and moder"
+    },
+    {
+      "hotel_id": 2061904,
+      "name": "Brenta Phu Quoc Hotel",
+      "catalog_name": "Brenta Phu Quoc Hotel",
+      "district": "Duong Dong",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.1,
+      "score_text": "Excellent",
+      "reviews_count": 1032,
+      "grades": {
+        "cleanliness": 8.0,
+        "facilities": 7.7,
+        "location": 7.8,
+        "staffPerformance": 8.4,
+        "valueForMoney": 8.0,
+        "roomComfort": 8.3,
+        "overall": 8.1
+      },
+      "key_features": [
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Fitness center",
+        "Gym/fitness",
+        "Sauna",
+        "Spa/sauna",
+        "Swimming pool",
+        "Sanitized kitchen and tableware items",
+        "Bar",
+        "Poolside bar",
+        "Restaurants",
+        "Kids meal"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "20 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "Asian",
+        "Continental"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Comfort at <b>Brenta Phu Quoc Hotel</b></b><br><br>Welcome to <b>Brenta Phu Quoc Hotel</b>, a charming 3-star hotel nestled in the heart of Phu Quoc Island, Vietnam. Built in 2021, this modern hotel offers a serene and comfortable retreat for travelers seeking a peaceful getaway. With its convenient location just 1 km from the city center, <b>Brenta Phu Quoc Hotel</b>"
+    },
+    {
+      "hotel_id": 406794,
+      "name": "Bamboo Cottages",
+      "catalog_name": "Bamboo Cottages",
+      "district": "Vung Bau",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 9.0,
+      "score_text": "Exceptional",
+      "reviews_count": 731,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.7,
+        "location": 8.7,
+        "roomComfort": 7.6,
+        "staffPerformance": 9.5,
+        "valueForMoney": 9.0,
+        "overall": 9.0,
+        "foodDining": 8.1
+      },
+      "key_features": [
+        "Garden",
+        "Restaurants",
+        "Beachfront",
+        "On-site accessible restaurants / lounges",
+        "Golf course [on-site]",
+        "Private beach",
+        "Sauna",
+        "Snorkeling",
+        "Spa",
+        "Spa/sauna",
+        "Sanitized kitchen and tableware items",
+        "A la carte in restaurant"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": false,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [
+            "Asian",
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Vegetarian"
+      ],
+      "overview_snippet": "<b>Experience Tranquility at <b>Bamboo Cottages</b> in Phu Quoc Island</b><br><br>Nestled in the serene beauty of Phu Quoc Island, Vietnam, <b>Bamboo Cottages</b> offers a peaceful retreat away from the hustle and bustle of everyday life. This charming 3-star hotel provides a tranquil atmosphere, surrounded by lush greenery and just a short distance from the city center. With its warm and welcomin"
+    },
+    {
+      "hotel_id": 1119483,
+      "name": "Praha Hotel",
+      "catalog_name": "Praha Hotel",
+      "district": "Duong Dong",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.3,
+      "score_text": "Excellent",
+      "reviews_count": 302,
+      "grades": {
+        "cleanliness": 8.6,
+        "facilities": 7.9,
+        "location": 7.7,
+        "roomComfort": 9.6,
+        "staffPerformance": 8.7,
+        "valueForMoney": 8.5,
+        "overall": 8.3,
+        "foodDining": 8.0
+      },
+      "key_features": [
+        "Garden",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Pool with view",
+        "Snorkeling",
+        "Sanitized kitchen and tableware items",
+        "Bar",
+        "Poolside bar",
+        "Snack bar",
+        "Kids meal"
+      ],
+      "features_you_love": [
+        "Free airport transfer",
+        "320 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [
+        "Asian"
+      ],
+      "overview_snippet": "<b>Experience Tranquility and Comfort at <b>Praha Hotel</b> in Phu Quoc Island</b><br><br>Nestled in the beautiful Phu Quoc Island in Vietnam, <b>Praha Hotel</b> offers a serene and comfortable retreat for travelers seeking a peaceful getaway. With its prime location just 4.0 km from the city center, this 3-star hotel provides easy access to the island's popular attractions and pristine beaches. W"
+    },
+    {
+      "hotel_id": 983880,
+      "name": "Bauhinia Resort Phu Quoc",
+      "catalog_name": "Bauhinia Resort Phu Quoc",
+      "district": "Long Beach",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 841,
+      "grades": {
+        "cleanliness": 8.7,
+        "facilities": 8.4,
+        "location": 8.4,
+        "roomComfort": 9.2,
+        "staffPerformance": 9.3,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Garden",
+        "Spa",
+        "Swimming pool [indoor]",
+        "Restaurants",
+        "Pool with view",
+        "Sauna",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Kitchen",
+        "Poolside bar",
+        "Kids meal"
+      ],
+      "features_you_love": [
+        "510 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Sauna"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [],
+          "servings": [
+            "Buffet"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [
+        "American",
+        "Asian",
+        "Continental",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "overview_snippet": "<b>Experience Tranquility at <b>Bauhinia Resort Phu Quoc</b> in Phu Quoc Island</b><br><br>Nestled in the serene paradise of Phu Quoc Island, Vietnam, <b>Bauhinia Resort Phu Quoc</b> offers a peaceful retreat for travelers seeking relaxation and tranquility. With its charming ambiance and attentive service, this 3-star hotel is the perfect choice for a memorable vacation.\n\nWith a total of 29 well-"
+    },
+    {
+      "hotel_id": 39897314,
+      "name": "Green Inn Phu Quoc Hotel",
+      "catalog_name": "Green Inn Phu Quoc Hotel",
+      "district": "Long Beach",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 9.6,
+      "score_text": "Exceptional",
+      "reviews_count": 345,
+      "grades": {
+        "cleanliness": 9.3,
+        "facilities": 9.5,
+        "location": 9.2,
+        "staffPerformance": 9.8,
+        "valueForMoney": 9.7,
+        "roomComfort": 9.7,
+        "overall": 9.6
+      },
+      "key_features": [
+        "Garden",
+        "Golf course [on-site]",
+        "Pool with view",
+        "Snorkeling",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Sanitized kitchen and tableware items",
+        "Bar",
+        "Poolside bar",
+        "Restaurants"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "460 meters to the beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Welcome to <b>Green Inn Phu Quoc Hotel</b>: Your Gateway to Island Paradise</b><br><br>Nestled in the heart of the breathtaking Phu Quoc Island, <b>Green Inn Phu Quoc Hotel</b> offers a delightful blend of comfort and convenience for travelers seeking an unforgettable getaway. With its charming ambiance and attentive service, this 3-star hotel serves as the perfect base for exploring the island"
+    },
+    {
+      "hotel_id": 4999788,
+      "name": "Coral Bay Hotel & Resort Phu Quoc",
+      "catalog_name": "Coral Bay Hotel & Resort",
+      "district": "Long Beach",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 3023,
+      "grades": {
+        "cleanliness": 8.8,
+        "facilities": 8.6,
+        "location": 9.2,
+        "staffPerformance": 9.1,
+        "valueForMoney": 9.0
+      },
+      "key_features": [
+        "Private beach",
+        "Swimming pool [outdoor]",
+        "Restaurants",
+        "Beachfront",
+        "Fitness center",
+        "Garden",
+        "Gym/fitness",
+        "Snorkeling",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [indoor]",
+        "Bar"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Restaurant",
+          "cuisines": [
+            "Vietnamese"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Discover Tranquility at <b>Coral Bay Hotel &amp; Resort Phu Quoc</b></b><br><br>Escape to the serene beauty of Phu Quoc Island and experience the ultimate tropical getaway at <b>Coral Bay Hotel &amp; Resort Phu Quoc</b>. Nestled amidst lush greenery and overlooking the sparkling turquoise waters of the Gulf of Thailand, this 3-star hotel offers a tranquil retreat for both leisure and business t"
+    },
+    {
+      "hotel_id": 3007308,
+      "name": "An Nhien Retreat Phu Quoc with Yoga Daily & Beach access",
+      "catalog_name": "An Nhien Retreat",
+      "district": "Long Beach",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.4,
+      "score_text": "Excellent",
+      "reviews_count": 272,
+      "grades": {
+        "cleanliness": 8.0,
+        "facilities": 8.0,
+        "location": 9.0,
+        "staffPerformance": 8.7,
+        "valueForMoney": 8.0,
+        "overall": 8.4,
+        "roomComfort": 8.3
+      },
+      "key_features": [
+        "Garden",
+        "Sauna",
+        "Snorkeling",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Yoga room",
+        "Restaurants",
+        "Snack bar",
+        "Swimming pool [kids]",
+        "Check-in/out [private]"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "390 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Sauna"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [
+        {
+          "name": "Langchia Restaurant",
+          "cuisines": [
+            "Asian",
+            "European"
+          ],
+          "servings": [
+            "Buffet",
+            "A-la-carte"
+          ]
+        }
+      ],
+      "breakfast_cuisines": [],
+      "overview_snippet": "- Fitted with tiled flooring and a terrace overlooking the garden and the pool, air-conditioned rooms, minibar, and seating area. En suite bathrooms come with a hairdryer, slippers, and free toiletries.\n- We operate a 24-hour front desk that can assist with luggage storage, fax/photocopying, and laundry services. Guests may enjoy a game of billiards on site, or stroll along the beach located 200 m"
+    },
+    {
+      "hotel_id": 32482497,
+      "name": "Ann Hotel & Spa Khem Beach PQ",
+      "catalog_name": "Ann Hotel & Spa Khem Beach",
+      "district": "Bai Khem",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.6,
+      "score_text": "Excellent",
+      "reviews_count": 1086,
+      "grades": {
+        "cleanliness": 8.9,
+        "facilities": 8.4,
+        "location": 9.1,
+        "staffPerformance": 9.1,
+        "valueForMoney": 8.8,
+        "overall": 8.6,
+        "roomComfort": 8.5
+      },
+      "key_features": [
+        "On-site accessible restaurants / lounges",
+        "Spa",
+        "Spa/sauna",
+        "Bar",
+        "Restaurants",
+        "Snack bar",
+        "Kids safety features",
+        "Check-in/out [private]",
+        "Airport transfer",
+        "Mini bar",
+        "Private bathroom",
+        "Family room"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": false,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility at Ann Hotel &amp; Spa Phú Quốc in Phu Quoc Island</b><br><br>Nestled on the picturesque Phu Quoc Island in Vietnam, Ann Hotel &amp; Spa Phú Quốc offers a serene and rejuvenating retreat for travelers seeking a peaceful escape. With its ideal location just 22 km away from the bustling city center, this 3-star hotel provides a tranquil oasis amidst the island's natural bea"
+    },
+    {
+      "hotel_id": 9612717,
+      "name": "Sunset Beach Resort & Spa - Beachfront Pirate Fire Show ",
+      "catalog_name": "Sunset Beach Resort & Spa",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.9,
+      "score_text": "Excellent",
+      "reviews_count": 3361,
+      "grades": {
+        "cleanliness": 9.0,
+        "facilities": 8.9,
+        "location": 9.2,
+        "staffPerformance": 9.1,
+        "valueForMoney": 8.9,
+        "roomComfort": 9.4,
+        "overall": 8.9
+      },
+      "key_features": [
+        "Gym/fitness",
+        "Private beach",
+        "Spa",
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Bar",
+        "Restaurants",
+        "Fitness center",
+        "Garden",
+        "Hot tub",
+        "Sauna",
+        "Spa/sauna"
+      ],
+      "features_you_love": [
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Sauna"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility at Sunset Beach Resort &amp; Spa, Phu Quoc Island</b><br><br>Nestled just 2 kilometers from the vibrant city center of Phu Quoc Island, Sunset Beach Resort &amp; Spa offers the perfect blend of serenity and convenience. Whether you're arriving by plane or exploring the island, you'll appreciate the short 15-minute drive from the airport, making your journey smooth and has"
+    },
+    {
+      "hotel_id": 2570684,
+      "name": "The Palmy Phu Quoc Resort and Spa",
+      "catalog_name": "The Palmy Phu Quoc Resort",
+      "district": "Long Beach",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 7.0,
+      "score_text": "Very good",
+      "reviews_count": 965,
+      "grades": {
+        "cleanliness": 6.9,
+        "facilities": 6.7,
+        "location": 7.4,
+        "staffPerformance": 7.2,
+        "valueForMoney": 7.0
+      },
+      "key_features": [
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Kitchen",
+        "Restaurants",
+        "Beachfront",
+        "Fitness center",
+        "Garden",
+        "Gym/fitness",
+        "Hot tub",
+        "Private beach",
+        "Snorkeling",
+        "Spa"
+      ],
+      "features_you_love": [
+        "Private beach",
+        "Free Wi-Fi in all rooms!",
+        "Currency exchange",
+        "Hot tub"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Tranquility and Luxury at <b>The Palmy Phu Quoc Resort and Spa</b></b><br><br>Nestled on the picturesque Phu Quoc Island in Vietnam, <b>The Palmy Phu Quoc Resort and Spa</b> is a 4-star haven of tranquility and luxury. With its stunning location, impeccable service, and array of amenities, this resort offers an unforgettable retreat for both leisure and business travelers.\n\n<b>The Pa"
+    },
+    {
+      "hotel_id": 65344078,
+      "name": "Novus Sol Hotel & Apartment Sunset Town Phu Quoc",
+      "catalog_name": "Novus Sol Hotel Sunset Town",
+      "district": "An Thoi",
+      "star": 4.0,
+      "popularity": "lesser-known",
+      "guest_score": 9.3,
+      "score_text": "Exceptional",
+      "reviews_count": 249,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 9.1,
+        "location": 9.2,
+        "staffPerformance": 9.2,
+        "valueForMoney": 9.2,
+        "roomComfort": 9.8,
+        "overall": 9.3
+      },
+      "key_features": [
+        "Water park",
+        "Sanitized kitchen and tableware items",
+        "Kitchen",
+        "Check-in/out [private]",
+        "Airport transfer",
+        "English",
+        "Chinese [Cantonese]",
+        "French",
+        "Vietnamese",
+        "Wheelchair accessible",
+        "Free Wi-Fi in all rooms!",
+        "Internet"
+      ],
+      "features_you_love": [
+        "250 meters to public transportation",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": false,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Modern Comfort at <b>Novus Sol Hotel &amp; Apartment Sunset Town Phu Quoc</b></b><br><br>Nestled on the stunning island of Phu Quoc, Vietnam, <b>Novus Sol Hotel &amp; Apartment Sunset Town Phu Quoc</b> offers a fresh and contemporary retreat for travelers seeking comfort and convenience. Built in 2025 and recently renovated in the same year, this modern hotel boasts 19 thoughtfully d"
+    },
+    {
+      "hotel_id": 181816,
+      "name": "HAWAII RESORT PHU QUOC",
+      "catalog_name": "Hawaii Resort Phu Quoc",
+      "district": "Long Beach",
+      "star": 3.5,
+      "popularity": "lesser-known",
+      "guest_score": 8.7,
+      "score_text": "Excellent",
+      "reviews_count": 120,
+      "grades": {
+        "cleanliness": 8.5,
+        "facilities": 8.7,
+        "location": 9.4,
+        "staffPerformance": 9.1,
+        "valueForMoney": 8.9
+      },
+      "key_features": [
+        "Restaurants",
+        "Beachfront",
+        "Garden",
+        "Private beach",
+        "Spa",
+        "Spa/sauna",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Tennis court",
+        "Bar",
+        "Kitchen",
+        "Poolside bar"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "Private beach",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": true,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience a Tropical Paradise at <b>HAWAII RESORT PHU QUOC</b></b><br><br>Nestled on the stunning Phu Quoc Island in Vietnam, <b>HAWAII RESORT PHU QUOC</b> offers a tropical paradise getaway for travelers seeking relaxation and tranquility. With its 3.5-star rating, this resort provides a comfortable and luxurious stay for guests. Built in 2005 and last renovated in 2013, the hotel boasts a ch"
+    },
+    {
+      "hotel_id": 12536303,
+      "name": "Hotel D' Anna",
+      "catalog_name": "Hotel D' Anna",
+      "district": "An Thoi",
+      "star": 0.0,
+      "popularity": "mid",
+      "guest_score": 8.4,
+      "score_text": "Excellent",
+      "reviews_count": 107,
+      "grades": {
+        "cleanliness": 8.7,
+        "facilities": 8.5,
+        "location": 8.0,
+        "staffPerformance": 8.8,
+        "valueForMoney": 8.7
+      },
+      "key_features": [
+        "English",
+        "Vietnamese",
+        "Wheelchair accessible",
+        "Free Wi-Fi in all rooms!",
+        "Internet",
+        "Wi-Fi in public areas",
+        "Tours",
+        "Elevator",
+        "Laundry service",
+        "Smoke-free property",
+        "Family/child friendly",
+        "Family room"
+      ],
+      "features_you_love": [
+        "Free Wi-Fi in all rooms!",
+        "Laundry service",
+        "Elevator",
+        "Tours"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": false,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Convenience Facilities at <b>Hotel D' Anna</b></b><br><br><b>Hotel D' Anna</b> in Phu Quoc Island, Vietnam, offers a range of convenience facilities to ensure a comfortable and hassle-free stay for its guests. With 24-hour room service, guests can indulge in delicious meals or snacks at any time of the day, right in the comfort of their own rooms. The hotel also provides a laundry service, maki"
+    },
+    {
+      "hotel_id": 87765217,
+      "name": "Anna seaview hotel",
+      "catalog_name": "Anna seaview hotel",
+      "district": "An Thoi",
+      "star": 2.0,
+      "popularity": "lesser-known",
+      "guest_score": 9.0,
+      "score_text": "Exceptional",
+      "reviews_count": 45,
+      "grades": {
+        "cleanliness": 10.0,
+        "facilities": 10.0,
+        "location": 10.0,
+        "staffPerformance": 10.0,
+        "valueForMoney": 10.0,
+        "roomComfort": 9.1,
+        "overall": 9.0
+      },
+      "key_features": [
+        "Spa",
+        "Spa/sauna",
+        "Shared kitchen",
+        "Kids safety features",
+        "Kids toothbrush",
+        "Check-in/out [private]",
+        "Airport transfer",
+        "Mini bar",
+        "Private bathroom",
+        "Massage",
+        "Family room",
+        "Front desk [24-hour]"
+      ],
+      "features_you_love": [
+        "180 meters to public transportation",
+        "Airport transfer",
+        "Currency exchange",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "beachfront": false,
+      "has_spa": true,
+      "has_kids_club": true,
+      "has_pool": false,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b><b>Anna seaview hotel</b></b><br><br>See more of Phu Quoc Island when you stay at <b>Anna seaview hotel</b> and experience all the benefits of a truly central location.<br>Have a hassle-free trip while enjoying the services and amenities offered by <b>Anna seaview hotel</b>. Never be out of touch with your contacts, with free Wi-Fi offered throughout your stay.<br>If you need a ride from or to "
+    },
+    {
+      "hotel_id": 37281036,
+      "name": "Anna Beach Phú Quốc",
+      "catalog_name": "Anna Beach Phú Quốc",
+      "district": "Duong To",
+      "star": 4.0,
+      "popularity": "mid",
+      "guest_score": 8.8,
+      "score_text": "Excellent",
+      "reviews_count": 114,
+      "grades": {
+        "cleanliness": 9.2,
+        "facilities": 8.6,
+        "location": 8.5,
+        "staffPerformance": 8.9,
+        "valueForMoney": 8.6,
+        "overall": 8.8
+      },
+      "key_features": [
+        "On-site accessible restaurants / lounges",
+        "Pool facilities",
+        "Pool with view",
+        "Swimming pool",
+        "Swimming pool [outdoor]",
+        "Sanitized kitchen and tableware items",
+        "Restaurants",
+        "Snack bar",
+        "Kids safety features",
+        "English",
+        "Vietnamese",
+        "Wheelchair accessible"
+      ],
+      "features_you_love": [
+        "110 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning",
+        "Daily housekeeping"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": true,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Discover Tranquility at <b>Anna Beach Phú Quốc</b></b><br><br>Nestled along the pristine shores of Phu Quoc Island, <b>Anna Beach Phú Quốc</b> offers a serene escape for travelers seeking a perfect blend of luxury and natural beauty. This exquisite 4-star hotel is designed to provide an unforgettable experience, whether you are lounging by the beach, indulging in delectable cuisine, or explorin"
+    },
+    {
+      "hotel_id": 81185611,
+      "name": "Anna Hotel - Free Ticket Cable Car & Hon Thom Water Park Through the End of August 2026",
+      "catalog_name": "Anna Hotel - Free Ticket Cable Car & Hon Thom Water Park Through the End of August 2026",
+      "district": "An Thoi",
+      "star": 3.0,
+      "popularity": "lesser-known",
+      "guest_score": 8.4,
+      "score_text": "Excellent",
+      "reviews_count": 194,
+      "grades": {
+        "cleanliness": 8.4,
+        "facilities": 8.2,
+        "location": 8.9,
+        "staffPerformance": 8.2,
+        "valueForMoney": 8.9,
+        "roomComfort": 8.8,
+        "overall": 8.4
+      },
+      "key_features": [
+        "Swimming pool [indoor]",
+        "Swimming pool [outdoor]",
+        "Garden",
+        "Pool facilities",
+        "Pool with view",
+        "Swimming pool",
+        "Shared kitchen",
+        "Check-in/out [private]",
+        "Family room",
+        "English",
+        "Vietnamese",
+        "Free Wi-Fi in all rooms!"
+      ],
+      "features_you_love": [
+        "340 meters to public transportation",
+        "Free Wi-Fi in all rooms!",
+        "Breakfast [free]",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": true,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b><b>Anna Hotel - Free Ticket Cable Car &amp; Hon Thom Water Park Through the End of August 2026</b></b><br><br>Enjoy all that <b>Anna Hotel - Free Ticket Cable Car &amp; Hon Thom Water Park Through the End of August 2026</b> has to offer! Keep up with all your communications easily with the hotel's free Wi-Fi.<br>Guests can enjoy free parking right at the hotel. Front desk services including con"
+    },
+    {
+      "hotel_id": 46581613,
+      "name": "AND SUNSET BEACH RESORT",
+      "catalog_name": "AND SUNSET BEACH RESORT",
+      "district": "Duong Dong",
+      "star": 5.0,
+      "popularity": "mid",
+      "guest_score": null,
+      "score_text": null,
+      "reviews_count": null,
+      "grades": {},
+      "key_features": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Internet",
+        "Daily housekeeping",
+        "Laundry service",
+        "Check-in [24-hour]",
+        "Front desk [24-hour]",
+        "Car park [on-site]"
+      ],
+      "features_you_love": [
+        "Airport transfer",
+        "0 meters to the beach",
+        "Free Wi-Fi in all rooms!",
+        "Air conditioning"
+      ],
+      "beachfront": false,
+      "has_spa": false,
+      "has_kids_club": false,
+      "has_pool": false,
+      "restaurants": [],
+      "breakfast_cuisines": [],
+      "overview_snippet": "<b>Experience Luxury at <b>AND SUNSET BEACH RESORT</b> in Phu Quoc Island</b><br><br>Nestled on the pristine shores of Phu Quoc Island, <b>AND SUNSET BEACH RESORT</b> stands as a beacon of luxury and tranquility. This exquisite 5-star hotel offers a perfect escape for travelers seeking both relaxation and adventure amidst the breathtaking beauty of Vietnam's largest island. With its stunning beach"
+    }
+  ],
+  "errors": []
+}

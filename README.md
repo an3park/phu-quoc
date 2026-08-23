@@ -2,7 +2,7 @@
 
 Репозиторий для выбора отеля на острове **Фукуок, Вьетнам** (не путать с японской Фукуокой). Даты: заезд **19 октября 2026**, выезд **25 октября 2026** — **6 ночей**.
 
-Полная таблица: [`data/comparison.md`](data/comparison.md) · CSV: [`data/comparison.csv`](data/comparison.csv) · JSON: [`data/agoda-live.json`](data/agoda-live.json)
+Полная таблица: [`data/comparison.md`](data/comparison.md) · CSV: [`data/comparison.csv`](data/comparison.csv) · профили: [`data/hotel-profiles.json`](data/hotel-profiles.json) · тарифы: [`data/agoda-live.json`](data/agoda-live.json)
 
 Инструкции для агентов: [`AGENTS.md`](AGENTS.md) · память поездки: [`memory/`](memory/)
 
@@ -17,8 +17,9 @@
 | Ночей | 6 |
 | Гости | 2 взрослых, 1 номер (если вас больше — цены будут выше) |
 | Валюта | USD, с налогами и сборами (обычно 5% service + 8% VAT, у Accor часто 13.4%) |
-| Снято | 22 августа 2026 |
+| Снято | 22 августа 2026 (цены); отзывы Agoda — август 2026 |
 | Главный источник живых тарифов | **Agoda** API `GetSecondaryData` на эти даты |
+| Рейтинг и завтрак | сводный /10 из отзывов + категорий + завтрака + звёзд (см. `data/comparison.md`) |
 | Другие площадки | Google Hotels, Kayak, Booking, Expedia, Hotels.com, Marriott, IHG, Accor, Traveloka, Trip.com, Trivago, официальные сайты |
 
 Октябрь на Фукуоке — переход с сезона дождей к сухому. Море на **западном** берегу (Long Beach, Ong Lang, Bai Dai) ещё может быть волнистым; на **востоке** (Bai Khem, Bai Sao) обычно спокойнее. 19–25 октября — вторая половина месяца, погода уже лучше, чем в начале октября, а цены ещё не пиковые (пик — ноябрь–март).
@@ -27,76 +28,77 @@
 
 ## Короткий вывод
 
-Если нужен **5★ без переплаты**: Radisson Blu, Vinpearl Resort & Spa, Mövenpick Waverly, Novotel, Wyndham Grand — примерно **$97–115 / ночь** all-in на Agoda.
+**По сводному рейтингу** (не по цене): Regent **9.56**, Salinda **9.45**, JW Marriott **9.28**, InterContinental / Dusit **~9.24**, Crowne Plaza Starbay **9.18**.
 
-Если важна **восточная сторона в октябре** (спокойнее море): Paralia Khem Beach **$84**, Premier Residences Emerald Bay **$157**, New World (вилла с бассейном) **$252**, JW Marriott **$459**.
+Если нужен **5★ без переплаты**: Radisson Blu (**рейтинг 8.96**, **$97**), Vinpearl (**8.86**, **$104**), Mövenpick Waverly (**8.82**, **$105**), Novotel (**8.75**, **$111**), Wyndham Grand (**8.68**, **$115**).
 
-Если **бутик / романтика**: Salinda **$210**, La Veranda **$208**, Chen Sea (The Slate) **$201**, Cassia Cottage **$224**.
+Если важна **восточная сторона в октябре**: Paralia Khem Beach **$84** (рейтинг 8.46), Premier Residences Emerald Bay **$157** (8.80), New World **$252** (8.86), JW Marriott **$459** (9.28).
 
-Если **бюджет**: An Phu / Praha / Bauhinia / Muong Thanh — **$33–50**.
+Если **бутик / романтика / завтрак**: Salinda (**9.45**, завтрак **9.1**, sparkling wine) **$210**; La Veranda (**9.12**, завтрак **8.4**) **$208**; Cassia (**8.96**) **$224**; Chen Sea (**8.70**) **$201**.
+
+Если **бюджет**: An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рейтинги ниже люкса (~7.9–8.7).
 
 **Fusion Resort** (spa inclusive) и **Nam Nghi** на Agoda на эти даты **не продаются**. Перед бронью JW Marriott сверьте официальный сайт и Traveloka: Google Hotels показывал типичные **$310–358**, тогда как Agoda — **$459**.
 
 ---
 
-## Сводная таблица (Agoda, живые тарифы)
+## Топ по сводному рейтингу (есть тариф на даты)
 
-Самый дешёвый доступный номер, **USD за ночь с налогами**, 2 взрослых.
+| Рейтинг | Отель | Район | Отзывы | Завтрак /10 | Ночь | Кому |
+| --- | ---: | --- | ---: | ---: | ---: | --- |
+| **9.56** | Regent Phu Quoc | Starbay | 9.4 | **9.5** | $500 | ультра-люкс, сильнейший F&B |
+| **9.45** | Salinda | Long Beach | 9.4 | **9.1** | $210 | бутик, sparkling wine breakfast |
+| **9.28** | JW Marriott Emerald Bay | Bai Khem | 9.2 | **9.2** | $459 | топ острова, восток |
+| **9.27** | WorldHotels Long Beach | Long Beach | 9.3 | 8.4 | $247 | новый; мало отзывов |
+| **9.24** | Dusit Princess Moonrise | Long Beach | 9.2 | 8.8 | $247 | beachfront mid-luxury |
+| **9.24** | InterContinental Long Beach | Long Beach | 9.0 | **9.3** | $264 | семьи, kids club, завтрак |
+| **9.18** | Crowne Plaza Starbay | Starbay | 9.1 | 8.7 | $146 | новый IHG дешевле Regent |
+| **9.14** | L'Azure | Long Beach | 9.2 | 8.4 | $225 | высокие оценки, suite |
+| **9.12** | La Veranda MGallery | Long Beach | 9.1 | 8.4 | $208 | колониальный бутик |
+| **8.96** | Radisson Blu | Bai Dai | 8.9 | 8.4 | **$97** | лучший value 5★ |
+
+Полная колонка описаний и фич — в [`data/comparison.md`](data/comparison.md).
+
+---
+
+## Сводная таблица по цене (Agoda, живые тарифы)
+
+Самый дешёвый доступный номер, **USD за ночь с налогами**, 2 взрослых. Ниже — ориентир; для выбора по качеству смотрите рейтинг выше.
 
 ### Популярные 5★
 
-| Отель | Район | Ночь | 6 ночей | Номер | Завтрак |
-| --- | ---: | ---: | ---: | --- | --- |
-| Radisson Blu Resort | Bai Dai | **$97** | $582 | Deluxe King/Twin | да |
-| Vinpearl Resort & Spa | Bai Dai | **$104** | $626 | Deluxe Twin | да |
-| Mövenpick Resort Waverly | Ong Lang | **$105** | $628 | Superior Twin Garden | да |
-| Novotel Phu Quoc | Long Beach | **$111** | $667 | Superior Twin Garden | да |
-| Wyndham Grand | Bai Dai | **$115** | $689 | Superior Twin | да |
-| Sheraton Long Beach | Bai Dai | **$129** | $775 | Deluxe Twin Garden | да |
-| Pullman Beach Resort | Long Beach | **$139** | $833 | Superior Twin | да |
-| Premier Residences Emerald Bay | Bai Khem | **$157** | $943 | Superior Suite | да |
-| La Veranda MGallery | Long Beach | **$208** | $1 249 | Deluxe Garden | нет |
-| Salinda Resort | Long Beach | **$210** | $1 259 | Deluxe | да |
-| New World Phu Quoc | Bai Khem | **$252** | $1 512 | Garden Pool Villa 1BR | да |
-| InterContinental Long Beach | Long Beach | **$264** | $1 585 | Classic / 1BR Residence | да |
-| Premier Village (вилла 3BR) | Bai Khem | **$306** | $1 837 | 3BR Garden Villa + pool | да |
-| Meliá Vinpearl (вилла 1BR) | Bai Dai | **$314** | $1 887 | 1BR Lake Villa + pool | да |
-| JW Marriott Emerald Bay | Bai Khem | **$459** | $2 753 | Guest room King, balcony | да |
-| Regent Phu Quoc | Starbay | **$500** | $3 003 | Resort View Suite | да |
-| Fusion Resort (spa inclusive) | Vung Bau | нет тарифа | — | виллы не продаются на даты | — |
+| Отель | Район | Рейтинг | Завтрак /10 | Ночь | 6 ночей | Номер |
+| --- | --- | ---: | ---: | ---: | ---: | --- |
+| Radisson Blu Resort | Bai Dai | 8.96 | 8.4 | **$97** | $582 | Deluxe King/Twin |
+| Vinpearl Resort & Spa | Bai Dai | 8.86 | 8.4 | **$104** | $626 | Deluxe Twin |
+| Mövenpick Resort Waverly | Ong Lang | 8.82 | 8.5 | **$105** | $628 | Superior Twin Garden |
+| Novotel Phu Quoc | Long Beach | 8.75 | 8.0 | **$111** | $667 | Superior Twin Garden |
+| Wyndham Grand | Bai Dai | 8.68 | 8.2 | **$115** | $689 | Superior Twin |
+| Sheraton Long Beach | Bai Dai | 8.80 | 8.0 | **$129** | $775 | Deluxe Twin Garden |
+| Pullman Beach Resort | Long Beach | 8.93 | 8.5 | **$139** | $833 | Superior Twin |
+| Premier Residences Emerald Bay | Bai Khem | 8.80 | 8.3 | **$157** | $943 | Superior Suite |
+| La Veranda MGallery | Long Beach | 9.12 | 8.4 | **$208** | $1 249 | Deluxe Garden (завтрак не в дешёвом тарифе) |
+| Salinda Resort | Long Beach | 9.45 | **9.1** | **$210** | $1 259 | Deluxe |
+| New World Phu Quoc | Bai Khem | 8.86 | 8.6 | **$252** | $1 512 | Garden Pool Villa 1BR |
+| InterContinental Long Beach | Long Beach | 9.24 | **9.3** | **$264** | $1 585 | Classic / 1BR Residence |
+| Premier Village (вилла 3BR) | Bai Khem | 8.76 | 8.5 | **$306** | $1 837 | 3BR Garden Villa + pool |
+| Meliá Vinpearl (вилла 1BR) | Bai Dai | 8.69 | 8.3 | **$314** | $1 887 | 1BR Lake Villa + pool |
+| JW Marriott Emerald Bay | Bai Khem | 9.28 | **9.2** | **$459** | $2 753 | Guest room King, balcony |
+| Regent Phu Quoc | Starbay | 9.56 | **9.5** | **$500** | $3 003 | Resort View Suite |
+| Fusion Resort (spa inclusive) | Vung Bau | 8.86 | 8.7 | нет тарифа | — | виллы не продаются на даты |
 
-### Менее известные и средний сегмент
+### Менее известные и средний сегмент (выборка)
 
-| Отель | Район | ★ | Ночь | 6 ночей | Комментарий |
+| Отель | Район | Рейтинг | Завтрак /10 | Ночь | Комментарий |
 | --- | --- | ---: | ---: | ---: | --- |
-| An Nhien Retreat | Long Beach | 3 | **$29** | $176 | йога, сад, без завтрака |
-| An Phu Hotel | Duong Dong | 3 | **$33** | $201 | город, завтрак |
-| Rocks Beach Boutique | Ham Ninh | 4 | **$39** | $231 | восток, тише |
-| Muong Thanh Luxury | Long Beach | 4 | **$50** | $299 | сеть, хороший value |
-| Green Inn | Long Beach | 3 | **$59** | $351 | family suite |
-| Bauhinia Resort | Long Beach | 3 | **$66** | $395 | у моря |
-| Praha Hotel | Duong Dong | 3 | **$67** | $404 | у ночного рынка |
-| Brenta | Duong Dong | 3 | **$68** | $409 | без бесплатной отмены |
-| Bamboo Cottages | Vung Bau | 3 | **$69** | $416 | эко, север |
-| Paralia Khem Beach | Bai Khem | 4 | **$84** | $503 | восток, белый песок |
-| Coral Bay | Long Beach | 3 | **$89** | $537 | свой пляж |
-| Famiana Resort & Spa | Long Beach | 4.5 | **$94** | $563 | семьи, mid-range |
-| Best Western Premier Sonasea | Long Beach | 5 | **$99** | $594 | недооценённый 5★ |
-| Mövenpick Villas | Ong Lang | 5 | **$101** | $608 | студия с балконом |
-| Wyndham Garden Grandworld | Bai Dai | 4 | **$106** | $638 | рядом с Grand World |
-| SOL by Meliá | Long Beach | 5 | **$107** | $645 | молодёжный 5★ |
-| Peppercorn Beach | Bai Dai | 3 | **$126** | $757 | тише, север |
-| Crowne Plaza Starbay | Bai Dai | 5 | **$146** | $878 | IHG, новый |
-| Mango Bay | Ong Lang | 3 | **$168** | $1 011 | эко-бунгало |
-| Chen Sea / The Slate | Ong Lang | 4.5 | **$201** | $1 206 | beach villa |
-| Ocean Bay Resort | Ong Lang | 5 | **$202** | $1 213 | jungle bungalow |
-| Cassia Cottage | Long Beach | 4 | **$224** | $1 346 | бунгало в саду |
-| L'Azure Resort | Long Beach | 4.5 | **$225** | $1 347 | только executive suite в выдаче |
-| WorldHotels Long Beach | Long Beach | 5 | **$247** | $1 482 | без завтрака в дешёвом тарифе |
-| Dusit Princess Moonrise | Long Beach | 5 | **$247** | $1 484 | junior suite |
-| Sunset Sanato | Long Beach | 5 | **$352** | $2 111 | 1BR pool villa |
-| Sailing Club Signature | Long Beach | 5 | **$373** | $2 236 | 2BR pool villa |
-| Seashells Hotel & Spa | Long Beach | 5 | **$389** | $2 332 | в выдаче только 2BR suite |
+| An Phu Hotel | Duong Dong | 8.66 | 7.5 | **$33** | город, завтрак |
+| Muong Thanh Luxury | Long Beach | 7.95 | 7.4 | **$50** | сеть, value |
+| Paralia Khem Beach | Bai Khem | 8.46 | 7.8 | **$84** | восток, белый песок |
+| Famiana Resort & Spa | Long Beach | 8.66 | 7.7 | **$94** | семьи, mid-range |
+| Crowne Plaza Starbay | Starbay | 9.18 | 8.7 | **$146** | IHG, новый |
+| Chen Sea / The Slate | Ong Lang | 8.70 | 7.7 | **$201** | beach villa |
+| Cassia Cottage | Long Beach | 8.96 | 8.1 | **$224** | бунгало в саду |
+| Dusit Princess Moonrise | Long Beach | 9.24 | 8.8 | **$247** | junior suite |
 
 ---
 
@@ -137,7 +139,7 @@
 ## Практические замечания
 
 - В таблице — **самый дешёвый** номер. У Premier Village, Meliá, Sailing Club, Seashells, Sunset Sanato дешёвая категория — это **вилла/сьют**, не стандарт.
-- Завтрак почти везде включён в выбранном тарифе; исключения: An Nhien, Rocks, Praha, La Veranda (дешёвый тариф), WorldHotels.
+- Колонка **«Завтрак /10»** — качество (не «включён ли»); «в тарифе» отдельно. Salinda / Regent / InterContinental / JW лидируют по завтраку.
 - Бесплатная отмена есть не везде: у Radisson, Novotel, Famiana, Pullman, Salinda дешёвый тариф часто **non-refundable**.
 - Трансфер в Bai Khem ~40 мин от аэропорта, ~$15–20; Long Beach ближе (~10–15 мин).
 - Прямая бронь у мелких отелей иногда бьёт OTA (комиссия 15–18%). У сетей (Marriott, IHG, Accor, Vinpearl) прямой сайт чаще даёт **апгрейд/поздний выезд**, не всегда меньшую цену — но у JW Marriott прямой сайт как раз может быть дешевле Agoda.
@@ -145,14 +147,15 @@
 
 ---
 
-## Как обновить цены
+## Как обновить цены и рейтинги
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
+python3 scripts/fetch_hotel_profiles.py   # отзывы, категории, фичи
 python3 scripts/build_tables.py
 ```
 
-Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`.
+Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`. Описания и база оценки завтрака: `scripts/hotel_profiles.py`.
 
 ---
 
@@ -164,7 +167,12 @@ python3 scripts/build_tables.py
 | [`memory/trip.md`](memory/trip.md) | даты, гости, допущения |
 | [`memory/sources.md`](memory/sources.md) | какие сайты отвечали |
 | [`memory/picks.md`](memory/picks.md) | короткие рекомендации |
-| [`data/comparison.md`](data/comparison.md) | полная таблица + районы |
+| [`data/comparison.md`](data/comparison.md) | полная таблица + районы (по рейтингу) |
 | [`data/comparison.csv`](data/comparison.csv) | то же в Excel |
+| [`data/hotel-profiles.json`](data/hotel-profiles.json) | рейтинг, завтрак, описание |
+| [`data/hotel-profiles-raw.json`](data/hotel-profiles-raw.json) | сырые отзывы/фичи Agoda |
 | [`data/agoda-live.json`](data/agoda-live.json) | сырой снимок тарифов |
 | [`scripts/fetch_agoda_prices.py`](scripts/fetch_agoda_prices.py) | обновить Agoda |
+| [`scripts/fetch_hotel_profiles.py`](scripts/fetch_hotel_profiles.py) | обновить отзывы/фичи |
+| [`scripts/build_tables.py`](scripts/build_tables.py) | собрать таблицы |
+| [`scripts/hotel_profiles.py`](scripts/hotel_profiles.py) | описания + оценка завтрака |

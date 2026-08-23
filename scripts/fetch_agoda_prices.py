@@ -120,6 +120,32 @@ def parse_property(data: dict, catalog: dict, checkin: str, checkout: str, los: 
     star = info.get("starRating")
     star_val = star.get("value") if isinstance(star, dict) else star
     hid = sc.get("hotelId") or catalog["id"]
+    rev = data.get("reviews") or {}
+    demo = rev.get("demographic") or {}
+    combined = rev.get("combinedReview") or {}
+    guest_score = None
+    raw_score = rev.get("score")
+    if raw_score not in (None, ""):
+        try:
+            guest_score = float(raw_score)
+        except (TypeError, ValueError):
+            guest_score = None
+    if guest_score is None and isinstance(combined.get("score"), dict):
+        try:
+            guest_score = float(combined["score"].get("score"))
+        except (TypeError, ValueError):
+            guest_score = None
+    grades: dict[str, float] = {}
+    for g in demo.get("grades") or []:
+        if g.get("id") is not None and g.get("score") is not None:
+            grades[str(g["id"])] = float(g["score"])
+    for g in combined.get("grades") or []:
+        gid = g.get("id")
+        if gid and g.get("score") is not None and str(gid) not in grades:
+            grades[str(gid)] = float(g["score"])
+    reviews_count = rev.get("reviewsCount")
+    if reviews_count is None and isinstance(combined.get("score"), dict):
+        reviews_count = combined["score"].get("reviewCount")
     return {
         "name": info.get("englishName") or info.get("name") or catalog["name"],
         "catalog_name": catalog["name"],
@@ -129,6 +155,9 @@ def parse_property(data: dict, catalog: dict, checkin: str, checkout: str, los: 
         "area_agoda": addr.get("areaName"),
         "address": addr.get("full") or addr.get("address"),
         "star": star_val,
+        "guest_score": guest_score,
+        "reviews_count": reviews_count,
+        "grades": grades,
         "status": "available" if cheapest else "no_rate",
         "cheapest": cheapest,
         "n_offers": len(offers),
