@@ -6,7 +6,23 @@ from __future__ import annotations
 import csv
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
+
+MONTHS_RU = {
+    1: "января",
+    2: "февраля",
+    3: "марта",
+    4: "апреля",
+    5: "мая",
+    6: "июня",
+    7: "июля",
+    8: "августа",
+    9: "сентября",
+    10: "октября",
+    11: "ноября",
+    12: "декабря",
+}
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -183,6 +199,13 @@ def main() -> int:
     md_path = ROOT / "data" / "comparison.md"
     write_csv(csv_path, rows, meta)
 
+    fetched = meta.get("fetched_at_utc") or ""
+    try:
+        dt = datetime.fromisoformat(fetched.replace("Z", "+00:00"))
+        snapshot_ru = f"{dt.day} {MONTHS_RU[dt.month]} {dt.year}"
+    except (TypeError, ValueError):
+        snapshot_ru = "23 августа 2026"
+
     available = [r for r in rows if r.get("nightly_incl")]
     missing = [r for r in rows if not r.get("nightly_incl")]
     popular = [r for r in available if r.get("popularity") == "popular"]
@@ -198,7 +221,7 @@ def main() -> int:
         f"- Заезд: **{meta.get('checkin')}**, выезд: **{meta.get('checkout')}** ({meta.get('nights') or 6} ночей)",
         "- 2 взрослых, 1 номер",
         "- Цены: Agoda, **с налогами и сборами**, USD, самый дешёвый доступный номер",
-        "- Снято: 22 августа 2026",
+        f"- Снято: {snapshot_ru}",
         "",
         "## Все отели по возрастанию цены",
         "",

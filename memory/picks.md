@@ -1,4 +1,4 @@
-# Короткие рекомендации (на снимок 22.08.2026)
+# Короткие рекомендации (на снимок 23.08.2026)
 
 Допущение: двое взрослых, 6 ночей, бюджет не задан.
 
@@ -18,14 +18,19 @@
 
 ## Если цель — бутик / пары
 
+**Soul Boutique — $94** (Long Beach, завтрак + отмена; инфраструктура рядом с Sailing Club).  
+**Lahana — $111** (холм, вид на море, не пляж, дешёвый тариф non-refundable).  
+**Camia — $144** (свой пляж на Ong Lang).  
 Salinda **$210**, La Veranda **$208**, Chen Sea **$201**, Cassia **$224**.
+
+**M Village — $153**: домики на холме у Cua Lap, не beachfront — слабее по пляжу, чем Famiana/Soul за те же или меньшие деньги.
 
 ## Если цель — бюджет
 
-An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67**.
+An Phu **$33**, Muong Thanh **$50**, Brenta **$61**, Bauhinia **$66**, Praha **$67**.
 
 ## Пока не бронировать вслепую
 
 - Fusion / Nam Nghi — нет продажи на Agoda.
-- Строки Premier Village / Meliá / Sailing Club / Seashells — это виллы на несколько спален, не стандартный номер.
+- Строки Premier Village / Meliá / Sailing Club / Seashells / **Grand Resort Ocean Bay** — это виллы/family bungalow на несколько спален, не стандартный номер.
 - InterContinental $264 на Agoda vs ~$200 на официальном сайте в Google.
