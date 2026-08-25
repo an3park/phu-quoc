@@ -8,7 +8,8 @@ Criteria added 2026-08-23 (user request):
 5. distance to the sea and to Duong Dong (island “centre”)
 
 Distances are typical **taxi / VinBus drive** unless `gw_walk` is set.
-Sources: hotel official pages (Wyndham Grand 300 m / Safari 3 km),
+Sources: hotel official pages (Wyndham Grand: GW 300 m / Safari 3 km;
+sea is ~1.2 km / buggy, not beachfront),
 Marriott/IHG/Vinpearl listings, VinBus routes 2026, LocalVietnam /
 impresstravel 2026. Labelled as typical, not live GPS.
 """
@@ -132,7 +133,7 @@ DISTRICT_POIS: dict[str, dict[str, Any]] = {
 # water: on-site | splash | vinwonders | hon-thom | none
 HOTEL_POIS: dict[int, dict[str, Any]] = {
     # --- North Bai Dai / Grand World cluster ---
-    2163073: {  # Wyndham Grand — official: GW 300 m, VinWonders 1.2 km, Safari 3 km
+    2163073: {  # Wyndham Grand — GW 300 m, VinWonders 1.2 km, Safari 3 km; sea ~1.2 km (buggy), not beachfront
         "gw_km": 0.3,
         "gw_min": 4,
         "gw_walk": True,
@@ -140,7 +141,7 @@ HOTEL_POIS: dict[int, dict[str, Any]] = {
         "safari_min": 8,
         "center_km": 28.0,
         "center_min": 45,
-        "beach_m": 0,
+        "beach_m": 1200,
         "water": "on-site",
         "water_note": "лагуна с горками + kids area; VinWonders 1,2 км",
         "room": "modern",
@@ -1086,6 +1087,10 @@ def fmt_beach(beach_m: int | None) -> str:
         return "не у моря"
     if beach_m <= 30:
         return "beachfront"
+    if beach_m >= 1000:
+        km = beach_m / 1000
+        km_s = f"{km:.1f}".replace(".", ",")
+        return f"{km_s} км"
     return f"{beach_m} м"
 
 

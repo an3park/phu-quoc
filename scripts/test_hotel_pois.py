@@ -53,6 +53,8 @@ def test_safari_near_wyndham() -> None:
     w = resolve_poi(2163073, "Bai Dai")
     assert_true(w["safari_km"] == 3.0, f"official Safari 3 km, got {w['safari_km']}")
     assert_true(w["gw_walk"] is True, "Wyndham Grand is a walk/buggy to GW")
+    assert_true((w.get("beach_m") or 0) >= 1000, f"Wyndham Grand is inland, not beachfront, got {w.get('beach_m')}")
+    assert_true(fmt_beach(w["beach_m"]) != "beachfront", fmt_beach(w["beach_m"]))
 
 
 def test_waterparks() -> None:

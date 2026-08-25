@@ -20,7 +20,7 @@ DESCRIPTIONS: dict[int, str] = {
     1985199: "Vinpearl-виллы у озера с private pool; VinBus до Grand World / Safari / VinWonders; не стандартный номер.",
     9776735: "Accor beachfront Long Beach: современные номера 5★; удобная база на западе, парки севера — ~50 мин.",
     5442703: "Value 5★ Bai Dai: ~500 м пешком до Grand World, Safari ~10 мин; лучший баланс цена/парки/море.",
-    2163073: "Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км.",
+    2163073: "Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне. Не beachfront: море ~1,2 км.",
     14654959: "Mövenpick на тихом Ong Lang: спокойнее Long Beach, сад/балкон, mid-luxury без толпы.",
     14676909: "Виллы/студии Mövenpick Ong Lang: больше приватности, тот же тихий район.",
     1157572: "Accor Long Beach: надёжный семейный 5★, сад и пляж, предсказуемый сервис Novotel.",
