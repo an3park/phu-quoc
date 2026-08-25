@@ -17,6 +17,7 @@
 | Luxury / brand reviews 2026 | Завтраки Regent Rice Market, InterContinental Sora & Umi, Salinda sparkling wine | нет |
 | Agoda hotel pages | Средние цены отеля (JW ~$317, InterContinental ~$216) | нет |
 | Официальный Wyndham Grand | Grand World 300 м, VinWonders 1,2 км, Safari 3 км | ориентир |
+| Карты / листинги Bai Dai beach | **Wyndham Grand не beachfront**: Bai Dai ~1,2 км, багги ~5–10 мин (лагуна на территории ≠ море). Agoda/OTA часто пишут private beach | ориентир |
 | Vinpearl / Trip.com / Almosafer | Vinpearl 1,4 км до GW, 4,7 км Safari; Radisson ~0,5 км GW; Crowne Plaza 3,6 км GW, 7 км Safari | ориентир |
 | VinBus 2026 | маршруты Sheraton / Melia / Vinpearl ↔ GW / Safari / VinWonders | нет |
 | LocalVietnam / impresstravel 2026 | Dương Đông → Grand World ~30 км / 40 мин; Safari 5–10 мин от GW | ориентир |
@@ -28,11 +29,11 @@ Booking.com HTML (AWS WAF 202) — оценки Booking всё же видны �
 
 ## Вывод для следующих прогонов
 
-1. Сначала Agoda live (`scripts/fetch_agoda_prices.py`).
-2. Затем профили отзывов (`scripts/fetch_hotel_profiles.py`) → `scripts/build_tables.py`.
-3. Отзывы: `scripts/fetch_reviews.py` (Agoda+Booking comments) + ручной кросс Google/TA для шорт-листа → `scripts/build_reviews.py`.
+1. Живые тарифы на даты: `scripts/fetch_agoda_prices.py`, затем **вручную** обновить колонки цен в таблицах. Не гонять `build_tables.py` ради цен — он затрёт ручные факты.
+2. Статику (море, районы, описания) править в `data/comparison.md` / `.csv` и `README.md`, не разносить по всем скриптам.
+3. Отзывы при необходимости: `scripts/fetch_reviews.py` + ручной кросс Google/TA → `data/reviews.md`.
 4. Для JW / InterContinental / Vinpearl / Accor — вручную или через Google Hotels сверить бренд.
 5. Fusion и Nam Nghi могут не продаваться далеко вперёд.
 6. Не смешивать «типичная цена» и «тариф на наши даты» в одной колонке без пометки. Не смешивать оценку Google /5 с Agoda /10 без пересчёта.
 7. Колонка «Завтрак /10» — качество; отдельно флаг «включён в тариф».
-8. Километры до Grand World / Safari / центра — типичная поездка, не live GPS. Не смешивать с ценами Agoda.
+8. Километры до Grand World / Safari / центра — типичная поездка, не live GPS. Не смешивать с ценами Agoda. **Wyndham Grand: море ~1,2 км, не beachfront** — флаг Agoda игнорировать.

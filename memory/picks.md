@@ -43,10 +43,10 @@ An Phu **$33**, Muong Thanh **$50**, Bauhinia **$66**, Praha **$67** — рей�
 
 Конфликт с «центром города»: парки на севере Bãi Dài, Dương Đông ~40–50 мин.
 
-1. **Wyndham Grand — $115**, fit **9.29** — 300 м до Grand World, Safari 3 км, горки в лагуне.
-2. **Vinpearl Resort & Spa — $104**, fit **8.57** — VinWonders пешком, номера старше.
-3. **Wyndham Garden — $106**, fit **8.47** — буквально внутри Grand World (150 м), 4★.
-4. **Radisson Blu — $97**, fit **8.41** — ~500 м пешком до Grand World, лучший value.
+1. **Radisson Blu — $97**, fit **8.41** — ~500 м пешком до Grand World, **свой пляж**, лучший value если нужны и парки, и море.
+2. **Vinpearl Resort & Spa — $104**, fit **8.57** — VinWonders пешком, номера старше, beachfront.
+3. **Wyndham Grand — $115**, fit **8.61** — 300 м до Grand World, Safari 3 км, горки в лагуне. **Не у моря** (~1,2 км, багги). Agoda пишет beachfront — не копировать.
+4. **Wyndham Garden — $106**, fit **8.47** — буквально внутри Grand World (150 м), 4★.
 5. **Crowne Plaza Starbay — $146** — новые современные номера, ~8 мин до парков.
 
 Аквапарк на территории, но не у Grand World: Sunset Sanato **$352** (Long Beach), New World **$252** (Bai Khem, спокойное море в октябре).

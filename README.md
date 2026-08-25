@@ -37,7 +37,7 @@
 
 **По сводному рейтингу** (не по цене): Regent **9.56**, Salinda **9.45**, JW Marriott **9.28**, InterContinental / Dusit **~9.24**, Crowne Plaza Starbay **9.18**.
 
-Если нужен **5★ без переплаты**: Radisson Blu (**рейтинг 8.96**, **$97**), Vinpearl (**8.86**, **$104**), Mövenpick Waverly (**8.82**, **$105**), Novotel (**8.75**, **$111**), Wyndham Grand (**8.68**, **$115**).
+Если нужен **5★ без переплаты**: Radisson Blu (**рейтинг 8.96**, **$97**), Vinpearl (**8.86**, **$104**), Mövenpick Waverly (**8.82**, **$105**), Novotel (**8.75**, **$111**), Wyndham Grand (**8.68**, **$115**, не у моря).
 
 Если важна **восточная сторона в октябре**: Paralia Khem Beach **$84** (рейтинг 8.46), Premier Residences Emerald Bay **$157** (8.80), New World **$252** (8.86), JW Marriott **$459** (9.28).
 
@@ -63,7 +63,7 @@
 
 | Fit | Отель | Grand World | Safari | Аквапарк | Номер | Море | Центр | Ночь | Ещё |
 | --- | ---: | --- | --- | --- | --- | --- | --- | ---: | --- |
-| **9.29** | [Wyndham Grand](https://www.booking.com/hotel/vn/wyndham-grand-phuquoc.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | 300 м пешком | 3 км / 8 мин | горки в лагуне + VinWonders 1,2 км | современный 8.9 | beachfront | 28 км / 45 мин | **$115** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Wyndham+Grand+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/vinoasis-phu-quoc) |
+| **8.61** | [Wyndham Grand](https://www.booking.com/hotel/vn/wyndham-grand-phuquoc.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | 300 м пешком | 3 км / 8 мин | горки в лагуне + VinWonders 1,2 км | современный 8.9 | **1,2 км, багги** | 28 км / 45 мин | **$115** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Wyndham+Grand+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/vinoasis-phu-quoc) |
 | **8.57** | [Vinpearl Resort & Spa](https://www.booking.com/hotel/vn/vinpearl-resort-phu-quoc.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | 1,4 км / 15 мин | 4,7 км | Typhoon World ~15 мин пешком | стандарт 8.7 (корпус ~2014) | beachfront | 28 км | **$104** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Vinpearl+Resort+%26+Spa+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok/vinpearl-resort-phu-quoc) |
 | **8.47** | [Wyndham Garden Grandworld](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Wyndham+Garden+Grandworld+Phu+Quoc) | **150 м пешком** | 3,5 км | горка в бассейне + VinWonders ~1 км | современный 4★ | 80 м | 28 км | **$106** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Wyndham+Garden+Grandworld+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/wyndham-garden-0) |
 | **8.41** | [Radisson Blu](https://www.booking.com/hotel/vn/radisson-blu-resort-phu-quoc.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | 500 м пешком | 4 км | VinWonders рядом | современный value 5★ | beachfront | 27 км | **$97** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Radisson+Blu+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/radisson-blu-resort-phu-quoc) |
@@ -71,7 +71,7 @@
 | **8.01** | [Crowne Plaza Starbay](https://www.booking.com/searchresults.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB&ss=Crowne+Plaza+Phu+Quoc+Starbay) | 3,6 км / 8 мин | 7 км | VinWonders ~10 мин | **новые** номера 2023 (9.6) | beachfront | 22 км | **$146** | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Crowne+Plaza+Starbay+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/ganh-dau/crowne-plaza-phu-quoc-starbay-an-ihg) |
 | **7.96** | [Regent Starbay](https://www.booking.com/hotel/vn/regent-phu-quoc.html?checkin=2026-10-19&checkout=2026-10-25&group_adults=2&no_rooms=1&group_children=0&selected_currency=RUB) | 3,6 км / 8 мин | 7 км | VinWonders ~10 мин | suite **10.0** roomComfort | 80 м | 22 км | $500 | [Trip.com](https://ru.trip.com/hotels/list?city=5649&checkIn=2026-10-19&checkOut=2026-10-25&adult=2&children=0&crn=1&curr=RUB&locale=ru-RU&keyword=Regent+Starbay+Phu+Quoc) · [OnlineTours](https://www.onlinetours.ru/oteli/vietnam/fukuok?q=Regent+Starbay+Phu+Quoc) |
 
-Практичный выбор, если все пять пунктов важны сразу: **Radisson Blu $97** (пешком до Grand World) или **Wyndham Grand $115** (горки + 300 м до каналов). Если номер важнее цены — **Crowne Plaza $146** (новый IHG) или **Regent**.
+Практичный выбор, если важны парки **и** море у дверей: **Radisson Blu $97** (пешком до Grand World, beachfront). **Wyndham Grand $115** — ближе всех 5★ к каналам и с горками в лагуне, но **не у моря** (~1,2 км, багги). Если номер важнее цены — **Crowne Plaza $146** (новый IHG) или **Regent**.
 
 Аквапарк **на территории**, но не у Grand World: **Sunset Sanato** (Sanato Water Park, янв 2026, Long Beach, вилла **$352**) и **New World** (Aqua World, Bai Khem, вилла **$252**). Юг: **Hon Thom Aquatopia** через канатку из An Thoi / Sunset Town.
 
@@ -173,7 +173,7 @@
 | --- | --- | --- | --- |
 | **Bai Khem / Bai Sao** (восток-юг) | кто едет купаться | обычно спокойнее | Paralia $84, Premier Residences $157, New World $252, JW $459 |
 | **Long Beach** (запад) | первый визит, закаты, рестораны | волны / мутнее вода | Soul $94, Famiana $94, Novotel $111, Lahana $111, Pullman $139, Salinda $210, InterContinental $264 |
-| **Bai Dai / Ganh Dau** (север) | семьи, VinWonders, Safari | западный берег | Radisson $97, Vinpearl $104, Wyndham $115, Sheraton $129 |
+| **Bai Dai / Ganh Dau** (север) | семьи, VinWonders, Safari | западный берег | Radisson $97, Vinpearl $104, Wyndham $115 (не у моря), Sheraton $129 |
 | **Ong Lang** | тихо, пары | запад, спокойнее толпы | Mövenpick $105, Camia $144, Mango Bay $168, Chen Sea $201, Grand Ocean Bay $337 (family bungalow) |
 | **Duong Dong** | бюджет, еда, ночной рынок | пляж не у дверей | An Phu $33, Praha $67, M Village $153 (домики на холме) |
 | **Vung Bau** | уединение, виллы | северо-запад | Bamboo $69; Fusion/Nam Nghi — нет тарифа |
@@ -185,24 +185,26 @@
 - В таблице — **самый дешёвый** номер. У Premier Village, Meliá, Sailing Club, Seashells, Sunset Sanato, **Grand Ocean Bay** дешёвая категория — это **вилла/сьют/family bungalow**, не стандарт.
 - Колонка **«Завтрак /10»** — качество (не «включён ли»); «в тарифе» отдельно. Salinda / Regent / InterContinental / JW лидируют по завтраку.
 - Бесплатная отмена есть не везде: у Radisson, Novotel, Famiana, Pullman, Salinda, **Lahana** дешёвый тариф часто **non-refundable**.
-- **M Village** — домики на холме у Cua Lap (не пляж). **Lahana** — 4★ на холме с видом на море, тоже не beachfront. **Camia** — свой пляж на Ong Lang. **Soul Boutique** — в комплексе Bai Truong; гости часто пользуются инфраструктурой Sailing Club (шаттл).
+- **M Village** — домики на холме у Cua Lap (не пляж). **Lahana** — 4★ на холме с видом на море, тоже не beachfront. **Wyndham Grand** — лагуна и горки у Grand World, море **~1,2 км** (багги; Agoda помечает beachfront — это не так). **Camia** — свой пляж на Ong Lang. **Soul Boutique** — в комплексе Bai Truong; гости часто пользуются инфраструктурой Sailing Club (шаттл).
 - Трансфер в Bai Khem ~40 мин от аэропорта, ~$15–20; Long Beach ближе (~10–15 мин).
 - Прямая бронь у мелких отелей иногда бьёт OTA (комиссия 15–18%). У сетей (Marriott, IHG, Accor, Vinpearl) прямой сайт чаще даёт **апгрейд/поздний выезд**, не всегда меньшую цену — но у JW Marriott прямой сайт как раз может быть дешевле Agoda.
 - Курс ориентир VietnamSpot июль 2026: **~26 000 ₫ = $1**. $100 ≈ 2,6 млн ₫.
 
 ---
 
-## Как обновить цены, рейтинги и отзывы
+## Как обновить цены
+
+Тарифы на даты меняются часто — это единственное, что стоит снимать скриптом:
 
 ```bash
 python3 scripts/fetch_agoda_prices.py --checkin 2026-10-19 --checkout 2026-10-25
-python3 scripts/fetch_hotel_profiles.py   # отзывы, категории, фичи
-python3 scripts/build_tables.py
-python3 scripts/fetch_reviews.py
-python3 scripts/build_reviews.py
 ```
 
-Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`. Описания и база оценки завтрака: `scripts/hotel_profiles.py`. Локации Grand World / Safari / аквапарк / море / центр: `scripts/hotel_pois.py`. Проверка: `python3 scripts/test_hotel_pois.py`.
+Дальше правьте **колонки цен** в `data/comparison.md`, `data/comparison.csv` и сводках `README.md`. Полный `build_tables.py` перезапишет ручные заметки (море, районы, описания) — не гоняйте его ради обновления тарифов.
+
+Новый отель или ссылка Booking — можно добавить в каталог, но факты вроде «далеко от моря» правьте прямо в таблицах. Известно: **Wyndham Grand не beachfront** (~1,2 км до моря).
+
+Нужен `requests`. Список отелей: `scripts/hotels_catalog.py`.
 
 ---
 

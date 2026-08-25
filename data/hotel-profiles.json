@@ -904,8 +904,8 @@
     "reviews_count": 6461,
     "breakfast_quality": 8.2,
     "breakfast_note": null,
-    "description": "Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне + VinWonders 1,2 км.",
-    "features": "beachfront, Airport transfer, Private beach, Currency exchange, Spa, Kids club",
+    "description": "Самый близкий 5★ к Grand World (300 м, багги); Safari 3 км, горки в лагуне. Не beachfront: море ~1,2 км.",
+    "features": "Airport transfer, Private beach (shuttle ~1.2 km), Currency exchange, Spa, Kids club",
     "grades": {
       "cleanliness": 8.9,
       "facilities": 8.9,
@@ -915,12 +915,12 @@
       "roomComfort": 8.7,
       "overall": 8.6
     },
-    "fit": 9.29,
+    "fit": 8.61,
     "grand_world": "300 м, пешком ~4 мин",
     "safari": "3 км / 8 мин",
     "waterpark": "на территории: лагуна с горками + kids area; VinWonders 1,2 км",
     "room_look": "современный 8.9 — сеть 5★, номера современные, не «икона дизайна»",
-    "sea": "beachfront",
+    "sea": "1,2 км, багги ~5–10 мин",
     "city_center": "28 км / 45 мин"
   },
   {
